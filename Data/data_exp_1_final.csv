@@ -1,0 +1,1437 @@
+Exp,Set,Split,File,Model,Answer,Explanation,Razon time,Correct,Decision,Relevance
+1,A,test,01.png,Gemini_2_5_flash,a,"It has two identical icons placed diagonally, similar to card ""a"".",0.0,a,All same,1.0
+1,A,test,02.png,Gemini_2_5_flash,a,"It has two identical icons placed diagonally, similar to card ""a"".",0.0,a,All same,1.0
+1,A,test,03.png,Gemini_2_5_flash,b,"It has two different icons placed in the top right and bottom left, similar to card ""b"".",0.0,b,All different,1.0
+1,A,test,04.png,Gemini_2_5_flash,b,"It has two different icons placed in the top right and bottom left, similar to card ""b"".",0.0,b,All different,1.0
+1,A,test,05.png,Gemini_2_5_flash,a,"It has two identical icons placed diagonally, similar to card ""a"".",0.0,a,All same,1.0
+1,A,test,06.png,Gemini_2_5_flash,a,"It has two identical icons placed diagonally, similar to card ""a"".",0.0,a,All same,1.0
+1,A,test,07.png,Gemini_2_5_flash,b,"It has two different icons placed in the top right and bottom left, similar to card ""b"".",0.0,b,All different,1.0
+1,A,test,08.png,Gemini_2_5_flash,b,"It has two different icons placed in the top right and bottom left, similar to card ""b"".",0.0,b,All different,1.0
+1,A,test,09.png,Gemini_2_5_flash,a,"It has two identical icons placed diagonally, similar to card ""a"".",0.0,a,All same,1.0
+1,A,test,10.png,Gemini_2_5_flash,b,"It has two different icons placed in the top right and bottom left, similar to card ""b"".",0.0,b,All different,1.0
+1,A,test,01.png,Gemini_2_5_flash,a,The card has two identical icons.,0.0,a,All same,1.0
+1,A,test,02.png,Gemini_2_5_flash,a,The card has two identical icons.,0.0,a,All same,1.0
+1,A,test,03.png,Gemini_2_5_flash,b,The card has two different icons.,0.0,b,All different,1.0
+1,A,test,04.png,Gemini_2_5_flash,b,The card has two different icons.,0.0,b,All different,1.0
+1,A,test,05.png,Gemini_2_5_flash,a,The card has two identical icons.,0.0,a,All same,1.0
+1,A,test,06.png,Gemini_2_5_flash,a,The card has two identical icons.,0.0,a,All same,1.0
+1,A,test,07.png,Gemini_2_5_flash,b,The card has two different icons.,0.0,b,All different,1.0
+1,A,test,08.png,Gemini_2_5_flash,b,The card has two different icons.,0.0,b,All different,1.0
+1,A,test,09.png,Gemini_2_5_flash,a,The card has two identical icons.,0.0,a,All same,1.0
+1,A,test,10.png,Gemini_2_5_flash,b,The card has two different icons.,0.0,b,All different,1.0
+1,A,test,01.png,Gemini_2_5_flash,a,"It has two identical icons, similar to card ""a"".",0.0,a,All same,1.0
+1,A,test,02.png,Gemini_2_5_flash,a,"It has two identical icons, similar to card ""a"".",0.0,a,All same,1.0
+1,A,test,03.png,Gemini_2_5_flash,b,"It has two different icons, similar to card ""b"".",0.0,b,All different,1.0
+1,A,test,04.png,Gemini_2_5_flash,b,"It has two different icons, similar to card ""b"".",0.0,b,All different,1.0
+1,A,test,05.png,Gemini_2_5_flash,a,"It has two identical icons, similar to card ""a"".",0.0,a,All same,1.0
+1,A,test,06.png,Gemini_2_5_flash,a,"It has two identical icons, similar to card ""a"".",0.0,a,All same,1.0
+1,A,test,07.png,Gemini_2_5_flash,b,"It has two different icons, similar to card ""b"".",0.0,b,All different,1.0
+1,A,test,08.png,Gemini_2_5_flash,b,"It has two different icons, similar to card ""b"".",0.0,b,All different,1.0
+1,A,test,09.png,Gemini_2_5_flash,a,"It has two identical icons, similar to card ""a"".",0.0,a,All same,1.0
+1,A,test,10.png,Gemini_2_5_flash,b,"It has two different icons, similar to card ""b"".",0.0,b,All different,1.0
+1,A,test,01.png,Gemini_2_5_flash,a,"It has two identical icons in opposing corners, similar to card ""a"".",0.0,a,All same,1.0
+1,A,test,02.png,Gemini_2_5_flash,a,"It has two identical icons in opposing corners, similar to card ""a"".",0.0,a,All same,1.0
+1,A,test,03.png,Gemini_2_5_flash,b,"It has two different icons in opposing corners, similar to card ""b"".",0.0,b,All different,1.0
+1,A,test,04.png,Gemini_2_5_flash,b,"It has two different icons in opposing corners, similar to card ""b"".",0.0,b,All different,1.0
+1,A,test,05.png,Gemini_2_5_flash,a,"It has two identical icons in opposing corners, similar to card ""a"".",0.0,a,All same,1.0
+1,A,test,06.png,Gemini_2_5_flash,a,"It has two identical icons in opposing corners, similar to card ""a"".",0.0,a,All same,1.0
+1,A,test,07.png,Gemini_2_5_flash,b,"It has two different icons in opposing corners, similar to card ""b"".",0.0,b,All different,1.0
+1,A,test,08.png,Gemini_2_5_flash,b,"It has two different icons in opposing corners, similar to card ""b"".",0.0,b,All different,1.0
+1,A,test,09.png,Gemini_2_5_flash,a,"It has two identical icons in opposing corners, similar to card ""a"".",0.0,a,All same,1.0
+1,A,test,10.png,Gemini_2_5_flash,b,"It has two different icons in opposing corners, similar to card ""b"".",0.0,b,All different,1.0
+1,A,test,01.png,Gemini_2_5_flash,a,"It has two identical icons placed diagonally, similar to card ""a"".",0.0,a,All same,1.0
+1,A,test,02.png,Gemini_2_5_flash,a,"It has two identical icons placed diagonally, similar to card ""a"".",0.0,a,All same,1.0
+1,A,test,03.png,Gemini_2_5_flash,b,"It has two different icons placed diagonally, similar to card ""b"".",0.0,b,All different,1.0
+1,A,test,04.png,Gemini_2_5_flash,b,"It has two different icons placed diagonally, similar to card ""b"".",0.0,b,All different,1.0
+1,A,test,05.png,Gemini_2_5_flash,a,"It has two identical icons placed diagonally, similar to card ""a"".",0.0,a,All same,1.0
+1,A,test,06.png,Gemini_2_5_flash,a,"It has two identical icons placed diagonally, similar to card ""a"".",0.0,a,All same,1.0
+1,A,test,07.png,Gemini_2_5_flash,b,"It has two different icons placed diagonally, similar to card ""b"".",0.0,b,All different,1.0
+1,A,test,08.png,Gemini_2_5_flash,b,"It has two different icons placed diagonally, similar to card ""b"".",0.0,b,All different,1.0
+1,A,test,09.png,Gemini_2_5_flash,a,"It has two identical icons placed diagonally, similar to card ""a"".",0.0,a,All same,1.0
+1,A,test,10.png,Gemini_2_5_flash,b,"It has two different icons placed diagonally, similar to card ""b"".",0.0,b,All different,1.0
+1,A,test,01.png,Gemini_2_5_flash,a,"The card has two identical icons placed diagonally, similar to card ""a"".",0.0,a,All same,1.0
+1,A,test,02.png,Gemini_2_5_flash,a,"The card has two identical icons placed diagonally, similar to card ""a"".",0.0,a,All same,1.0
+1,A,test,03.png,Gemini_2_5_flash,b,"The card has two different icons placed diagonally, similar to card ""b"".",0.0,b,All different,1.0
+1,A,test,04.png,Gemini_2_5_flash,b,"The card has two different icons placed diagonally, similar to card ""b"".",0.0,b,All different,1.0
+1,A,test,05.png,Gemini_2_5_flash,a,"The card has two identical icons placed diagonally, similar to card ""a"".",0.0,a,All same,1.0
+1,A,test,06.png,Gemini_2_5_flash,a,"The card has two identical icons placed diagonally, similar to card ""a"".",0.0,a,All same,1.0
+1,A,test,07.png,Gemini_2_5_flash,b,"The card has two different icons placed diagonally, similar to card ""b"".",0.0,b,All different,1.0
+1,A,test,08.png,Gemini_2_5_flash,b,"The card has two different icons placed diagonally, similar to card ""b"".",0.0,b,All different,1.0
+1,A,test,09.png,Gemini_2_5_flash,a,"The card has two identical icons placed diagonally, similar to card ""a"".",0.0,a,All same,1.0
+1,A,test,10.png,Gemini_2_5_flash,b,"The card has two different icons placed diagonally, similar to card ""b"".",0.0,b,All different,1.0
+1,A,test,01.png,Gemini_2_5_flash,a,"It has two identical icons, like card ""a"".",0.0,a,All same,1.0
+1,A,test,02.png,Gemini_2_5_flash,a,"It has two identical icons, like card ""a"".",0.0,a,All same,1.0
+1,A,test,03.png,Gemini_2_5_flash,b,"It has two different icons, like card ""b"".",0.0,b,All different,1.0
+1,A,test,04.png,Gemini_2_5_flash,b,"It has two different icons, like card ""b"".",0.0,b,All different,1.0
+1,A,test,05.png,Gemini_2_5_flash,a,"It has two identical icons, like card ""a"".",0.0,a,All same,1.0
+1,A,test,06.png,Gemini_2_5_flash,a,"It has two identical icons, like card ""a"".",0.0,a,All same,1.0
+1,A,test,07.png,Gemini_2_5_flash,b,"It has two different icons, like card ""b"".",0.0,b,All different,1.0
+1,A,test,08.png,Gemini_2_5_flash,b,"It has two different icons, like card ""b"".",0.0,b,All different,1.0
+1,A,test,09.png,Gemini_2_5_flash,a,"It has two identical icons, like card ""a"".",0.0,a,All same,1.0
+1,A,test,10.png,Gemini_2_5_flash,b,"It has two different icons, like card ""b"".",0.0,b,All different,1.0
+1,A,test,01.png,Gemini_2_5_flash,a,"The card has two identical icons, similar to card ""a"".",0.0,a,All same,1.0
+1,A,test,02.png,Gemini_2_5_flash,a,"The card has two identical icons, similar to card ""a"".",0.0,a,All same,1.0
+1,A,test,03.png,Gemini_2_5_flash,b,"The card has two different icons, similar to card ""b"".",0.0,b,All different,1.0
+1,A,test,04.png,Gemini_2_5_flash,b,"The card has two different icons, similar to card ""b"".",0.0,b,All different,1.0
+1,A,test,05.png,Gemini_2_5_flash,a,"The card has two identical icons, similar to card ""a"".",0.0,a,All same,1.0
+1,A,test,06.png,Gemini_2_5_flash,a,"The card has two identical icons, similar to card ""a"".",0.0,a,All same,1.0
+1,A,test,07.png,Gemini_2_5_flash,b,"The card has two different icons, similar to card ""b"".",0.0,b,All different,1.0
+1,A,test,08.png,Gemini_2_5_flash,b,"The card has two different icons, similar to card ""b"".",0.0,b,All different,1.0
+1,A,test,09.png,Gemini_2_5_flash,a,"The card has two identical icons, similar to card ""a"".",0.0,a,All same,1.0
+1,A,test,10.png,Gemini_2_5_flash,b,"The card has two different icons, similar to card ""b"".",0.0,b,All different,1.0
+1,A,test,01.png,Gemini_2_5_flash,a,The card has two identical icons.,0.0,a,All same,1.0
+1,A,test,02.png,Gemini_2_5_flash,a,The card has two identical icons.,0.0,a,All same,1.0
+1,A,test,03.png,Gemini_2_5_flash,b,The card has two different icons.,0.0,b,All different,1.0
+1,A,test,04.png,Gemini_2_5_flash,b,The card has two different icons.,0.0,b,All different,1.0
+1,A,test,05.png,Gemini_2_5_flash,a,The card has two identical icons.,0.0,a,All same,1.0
+1,A,test,06.png,Gemini_2_5_flash,a,The card has two identical icons.,0.0,a,All same,1.0
+1,A,test,07.png,Gemini_2_5_flash,b,The card has two different icons.,0.0,b,All different,1.0
+1,A,test,08.png,Gemini_2_5_flash,b,The card has two different icons.,0.0,b,All different,1.0
+1,A,test,09.png,Gemini_2_5_flash,a,The card has two identical icons.,0.0,a,All same,1.0
+1,A,test,10.png,Gemini_2_5_flash,b,The card has two different icons.,0.0,b,All different,1.0
+1,A,test,01.png,Gemini_2_5_flash,a,"It has two identical icons, similar to card ""a"".",0.0,a,All same,1.0
+1,A,test,02.png,Gemini_2_5_flash,a,"It has two identical icons, similar to card ""a"".",0.0,a,All same,1.0
+1,A,test,03.png,Gemini_2_5_flash,b,"It has two different icons, similar to card ""b"".",0.0,b,All different,1.0
+1,A,test,04.png,Gemini_2_5_flash,b,"It has two different icons, similar to card ""b"".",0.0,b,All different,1.0
+1,A,test,05.png,Gemini_2_5_flash,a,"It has two identical icons, similar to card ""a"".",0.0,a,All same,1.0
+1,A,test,06.png,Gemini_2_5_flash,a,"It has two identical icons, similar to card ""a"".",0.0,a,All same,1.0
+1,A,test,07.png,Gemini_2_5_flash,b,"It has two different icons, similar to card ""b"".",0.0,b,All different,1.0
+1,A,test,08.png,Gemini_2_5_flash,b,"It has two different icons, similar to card ""b"".",0.0,b,All different,1.0
+1,A,test,09.png,Gemini_2_5_flash,a,"It has two identical icons, similar to card ""a"".",0.0,a,All same,1.0
+1,A,test,10.png,Gemini_2_5_flash,b,"It has two different icons, similar to card ""b"".",0.0,b,All different,1.0
+1,A,test,01.png,GPT_o3,a,"card shows the same symbol twice, just like card “a”",3735.04,a,All same,1.0
+1,A,test,02.png,GPT_o3,a,the same symbol appears twice,4297.437788018433,a,All same,1.0
+1,A,test,03.png,GPT_o3,b,"it has two different symbols, just like card “b”",3790.285714285714,b,All different,1.0
+1,A,test,04.png,GPT_o3,b,it shows two different symbols,3647.581699346405,b,All different,1.0
+1,A,test,05.png,GPT_o3,a,the same double-bar symbol appears twice,4652.169014084507,a,All same,1.0
+1,A,test,06.png,GPT_o3,a,"the radio icon is repeated twice, matching the “same symbol twice” pattern of card “a”",1881.2307692307693,a,All same,1.0
+1,A,test,07.png,GPT_o3,b,"it has two distinct symbols, not matching each other",4974.177215189873,b,All different,1.0
+1,A,test,08.png,GPT_o3,b,it contains two different symbols,5272.261437908497,b,All different,1.0
+1,A,test,09.png,GPT_o3,a,the arrow-key cluster icon appears twice,5494.985915492958,a,All same,0.0
+1,A,test,10.png,GPT_o3,b,two different symbols are shown,4387.137254901961,b,All different,1.0
+1,A,test,01.png,GPT_o3,a,"it shows the same icon twice, just like card “a”, whereas card “b” has two different icons",4800.429530201343,a,All same,1.0
+1,A,test,02.png,GPT_o3,a,"both symbols are identical, matching card “a”, while card “b” mixes two different symbols",2733.2215568862275,a,All same,1.0
+1,A,test,03.png,GPT_o3,b,"it has two different icons, matching card “b” where the symbols differ",2675.435582822086,b,All different,1.0
+1,A,test,04.png,GPT_o3,b,"it shows two different icons, matching the mixed-symbol pattern of card “b”",4663.078787878788,b,All different,1.0
+1,A,test,05.png,GPT_o3,a,"both positions show the same double-bar icon, matching the identical-symbol pattern of card “a”.",5102.420600858369,a,All same,1.0
+1,A,test,06.png,GPT_o3,a,"both spots have the same radio icon, like card “a” with identical symbols",0.0,a,All same,1.0
+1,A,test,07.png,GPT_o3,b,"the two positions have different icons, matching card “b” where symbols differ",6293.98773006135,b,All different,1.0
+1,A,test,08.png,GPT_o3,b,the two positions contain different icons,3405.511111111111,b,All different,1.0
+1,A,test,09.png,GPT_o3,a,"both positions show the same arrow-key cluster icon, matching card “a” where the two icons are identical",5940.281690140845,a,All same,1.0
+1,A,test,10.png,GPT_o3,b,the two positions show different icons,6158.961038961039,b,All different,1.0
+1,A,test,01.png,GPT_o3,a,"it has two identical symbols, like card “a,” whereas card “b” has two different symbols",6018.206896551724,a,All same,1.0
+1,A,test,02.png,GPT_o3,a,"it shows two identical circle symbols, matching card “a,” while “b” has two different symbols",4441.081081081081,a,All same,1.0
+1,A,test,03.png,GPT_o3,b,"it has two different symbols, matching card “b,” whereas card “a” has identical symbols",2394.443113772455,b,All different,1.0
+1,A,test,04.png,GPT_o3,b,"it has two different symbols, like card “b,” whereas card “a” shows identical symbols",2287.8446601941746,b,All different,1.0
+1,A,test,05.png,GPT_o3,a,"both symbols are the same set of vertical bars, matching the “identical symbols” rule of card a",2177.828571428572,a,All same,1.0
+1,A,test,06.png,GPT_o3,a,"it shows two identical radio symbols, matching the identical-symbol pattern of card “a”",2243.1372549019607,a,All same,1.0
+1,A,test,07.png,GPT_o3,b,"it has two different symbols, matching card “b,” while card “a” has identical symbols",3772.5508982035926,b,All different,1.0
+1,A,test,08.png,GPT_o3,b,"two different symbols like card “b,” not identical like card “a”",0.0,b,All different,1.0
+1,A,test,09.png,GPT_o3,a,"both positions show the same arrow-cluster symbol, so the card repeats an identical icon like card “a”",7071.785234899329,a,All same,1.0
+1,A,test,10.png,GPT_o3,b,"the two symbols are different, matching card “b,” while card “a” repeats the same symbol",4238.769230769231,b,All different,1.0
+1,A,test,01.png,GPT_o3,a,both this card and “a” show the same icon repeated twice,3328.795031055901,a,All same,1.0
+1,A,test,02.png,GPT_o3,a,it has the same icon duplicated twice,6033.639575971732,a,All same,1.0
+1,A,test,03.png,GPT_o3,b,"it shows two different icons, just like card “b”",4430.571428571428,b,All different,1.0
+1,A,test,04.png,GPT_o3,b,"it shows two different icons, matching card “b”",9040.358744394618,b,All different,1.0
+1,A,test,05.png,GPT_o3,a,"the same symbol (double bars) appears twice, like card “a”",6467.101321585903,a,All same,1.0
+1,A,test,06.png,GPT_o3,a,the same radio icon is repeated twice,6463.296703296704,a,All same,1.0
+1,A,test,07.png,GPT_o3,b,it shows two different icons,4428.130718954249,b,All different,1.0
+1,A,test,08.png,GPT_o3,b,it has two different icons,4122.771241830065,b,All different,1.0
+1,A,test,09.png,GPT_o3,a,the same arrow-key cluster appears twice,7717.64705882353,a,All same,0.0
+1,A,test,10.png,GPT_o3,b,it has two different icons (thermometer and football),3278.4,b,All different,1.0
+1,A,test,01.png,GPT_o3,a,both show the same icon twice,3153.454545454545,a,All same,1.0
+1,A,test,02.png,GPT_o3,a,it repeats the same icon twice,4703.31914893617,a,All same,1.0
+1,A,test,03.png,GPT_o3,b,it shows two different icons,4778.764976958525,b,All different,1.0
+1,A,test,04.png,GPT_o3,b,it has two different icons,3158.169934640523,b,All different,1.0
+1,A,test,05.png,GPT_o3,a,it shows the same icon twice,6251.120567375887,a,All same,1.0
+1,A,test,06.png,GPT_o3,a,it shows the same icon twice,3815.896103896104,a,All same,1.0
+1,A,test,07.png,GPT_o3,b,it has two different icons,5577.732718894009,b,All different,1.0
+1,A,test,08.png,GPT_o3,b,it shows two different icons,4477.490196078431,b,All different,1.0
+1,A,test,09.png,GPT_o3,a,it repeats the same icon twice,9097.040892193309,a,All same,1.0
+1,A,test,10.png,GPT_o3,b,it shows two different icons,3447.6339869281046,b,All different,1.0
+1,A,test,01.png,GPT_o3,a,"like card a, it shows the same symbol in both positions",3498.0,a,All same,1.0
+1,A,test,02.png,GPT_o3,a,"it has the same circle icon in both positions, like card “a”",5213.250859106529,a,All same,1.0
+1,A,test,03.png,GPT_o3,b,"the two positions show different icons, like card “b”",3444.8,b,All different,1.0
+1,A,test,04.png,GPT_o3,b,"it shows two different icons, matching card “b”",6127.641255605381,b,All different,1.0
+1,A,test,05.png,GPT_o3,a,both positions display the same pause-like icon,4773.503184713376,a,All same,1.0
+1,A,test,06.png,GPT_o3,a,both positions show the same radio icon,2356.747252747253,a,All same,1.0
+1,A,test,07.png,GPT_o3,b,the two positions contain different icons,2550.7555555555555,b,All different,1.0
+1,A,test,08.png,GPT_o3,b,the two positions have different icons,6450.836879432624,b,All different,1.0
+1,A,test,09.png,GPT_o3,a,both positions show the same arrow-cluster icon,11787.35674676525,a,All same,1.0
+1,A,test,10.png,GPT_o3,b,the two positions have different icons,2207.288888888889,b,All different,1.0
+1,A,test,01.png,GPT_o3,a,"this card has the same symbol twice, just like card a, while card b shows two different symbols",8115.555555555556,a,All same,1.0
+1,A,test,02.png,GPT_o3,a,"it shows the same circle symbol twice, matching the “two identical icons” pattern of card a",2247.456310679612,a,All same,1.0
+1,A,test,03.png,GPT_o3,b,"the two icons (medal and purse) are different, matching card b’s “two different symbols” pattern",3902.358974358974,b,All different,1.0
+1,A,test,04.png,GPT_o3,b,"the eraser and the speaker icons are different, fitting the “two different symbols” pattern.",4040.047904191617,b,All different,1.0
+1,A,test,05.png,GPT_o3,a,"the double-bar icon appears twice, matching card a’s “same symbol repeated” pattern",3822.265060240964,a,All same,1.0
+1,A,test,06.png,GPT_o3,a,"both icons are the same radio symbol, fitting the “identical pair” pattern of card a",9951.808383233532,a,All same,1.0
+1,A,test,07.png,GPT_o3,b,"the icons (camera and tag) are different, matching card b’s “two different symbols” pattern",7092.413793103448,b,All different,1.0
+1,A,test,08.png,GPT_o3,b,"it has two different symbols (cake and droplet), matching card b’s pattern",3932.0975609756097,b,All different,1.0
+1,A,test,09.png,GPT_o3,a,"the same arrow-key cluster appears twice, matching the “identical symbols” pattern of card a",4992.827586206897,a,All same,1.0
+1,A,test,10.png,GPT_o3,b,"it shows two different symbols (thermometer and football), matching card b’s pattern of mixed icons",3286.8571428571427,b,All different,1.0
+1,A,test,01.png,GPT_o3,a,"both positions show the same icon, like card “a”",4468.444444444444,a,All same,1.0
+1,A,test,02.png,GPT_o3,a,"the same circle icon appears in both spots, matching card “a” pattern",1272.2424242424242,a,All same,1.0
+1,A,test,03.png,GPT_o3,b,"the two positions show different icons, like card “b”",2459.333333333333,b,All different,1.0
+1,A,test,04.png,GPT_o3,b,"the two positions have different icons, matching card “b” pattern",2509.913043478261,b,All different,1.0
+1,A,test,05.png,GPT_o3,a,both positions display the same double-bar icon,6156.162895927602,a,All same,1.0
+1,A,test,06.png,GPT_o3,a,both locations display the same radio icon,3688.877419354839,a,All same,1.0
+1,A,test,07.png,GPT_o3,b,the two positions show different icons,6913.761467889908,b,All different,1.0
+1,A,test,08.png,GPT_o3,b,the two positions have different icons,6520.737588652482,b,All different,1.0
+1,A,test,09.png,GPT_o3,a,the same directional-button cluster appears in both spots,11940.41841004184,a,All same,0.0
+1,A,test,10.png,GPT_o3,b,the two positions display different icons,3800.177777777778,b,All different,1.0
+1,A,test,01.png,GPT_o3,a,both positions show the same icon,1824.7111111111112,a,All same,1.0
+1,A,test,02.png,GPT_o3,a,both positions show the same icon,7798.014184397163,a,All same,1.0
+1,A,test,03.png,GPT_o3,b,the two positions show different icons,2363.0222222222224,b,All different,1.0
+1,A,test,04.png,GPT_o3,b,the two positions show different icons,3527.4805194805194,b,All different,1.0
+1,A,test,05.png,GPT_o3,a,both positions display the same icon,2239.288888888889,a,All same,1.0
+1,A,test,06.png,GPT_o3,a,both positions show the same radio icon,5524.645161290323,a,All same,1.0
+1,A,test,07.png,GPT_o3,b,the two positions show different icons,2537.955555555556,b,All different,1.0
+1,A,test,08.png,GPT_o3,b,the two positions show different icons,4132.571428571428,b,All different,1.0
+1,A,test,09.png,GPT_o3,a,both positions have the same cluster-of-arrow icons,14033.541927409262,a,All same,1.0
+1,A,test,10.png,GPT_o3,b,the two positions display different icons,3111.111111111112,b,All different,1.0
+1,A,test,01.png,GPT_o3,a,"both symbols are identical X squares, like the matching coat icons on card a.",2620.0975609756097,a,All same,1.0
+1,A,test,02.png,GPT_o3,a,"both symbols are the same gray circle, matching card a’s pattern of identical icons.",3042.2178217821784,a,All same,1.0
+1,A,test,03.png,GPT_o3,b,"the two symbols (medal and handbag) are different, matching card b’s pattern of mixed icons",5148.540540540541,b,All different,1.0
+1,A,test,04.png,GPT_o3,b,"the eraser and speaker icons are different, matching the mixed-icon pattern of card b",3523.0843373493976,b,All different,1.0
+1,A,test,05.png,GPT_o3,a,"both positions show the same double-rectangle icon, fitting the identical-icons pattern.",5129.610921501707,a,All same,1.0
+1,A,test,06.png,GPT_o3,a,"both positions show the same radio icon, matching the identical-icons pattern.",2088.080808080808,a,All same,1.0
+1,A,test,07.png,GPT_o3,b,different icons (camera and tag) like card b’s mixed pattern.,5255.362831858407,b,All different,1.0
+1,A,test,08.png,GPT_o3,b,"the icons (droplet wind and cake) are different, matching the mixed-icon pattern.",4096.0,b,All different,1.0
+1,A,test,09.png,GPT_o3,a,"both corners show the same multi-arrow cluster icon, following the identical-icons pattern.",7218.654028436019,a,All same,1.0
+1,A,test,10.png,GPT_o3,b,"the thermometer and football icons are different, fitting the mixed-icon pattern.",6762.446735395189,b,All different,1.0
+1,A,test,01.png,GPT_4o,b,"explanation: This card has two identical symbols, similar to the pattern in card ""a"".",0.0,a,All different,1.0
+1,A,test,02.png,GPT_4o,a,"explanation: This card has two identical symbols, similar to the pattern in card ""a"".",0.0,a,All same,1.0
+1,A,test,03.png,GPT_4o,b,"explanation: This card has two different symbols, similar to the pattern in card ""b"".",0.0,b,All different,1.0
+1,A,test,04.png,GPT_4o,b,"explanation: This card has two different symbols, similar to the pattern in card ""b"".",0.0,b,All different,1.0
+1,A,test,05.png,GPT_4o,a,"explanation: This card has two identical symbols, similar to the pattern in card ""a"".",0.0,a,All same,1.0
+1,A,test,06.png,GPT_4o,a,"explanation: This card has two identical symbols, similar to the pattern in card ""a"".",0.0,a,All same,1.0
+1,A,test,07.png,GPT_4o,b,"explanation: This card has two different symbols, similar to the pattern in card ""b"".",0.0,b,All different,1.0
+1,A,test,08.png,GPT_4o,b,"explanation: This card has two different symbols, similar to the pattern in card ""b"".",0.0,b,All different,1.0
+1,A,test,09.png,GPT_4o,a,"explanation: This card has two identical symbols, similar to the pattern in card ""a"".",0.0,a,All same,1.0
+1,A,test,10.png,GPT_4o,b,"explanation: This card has two different symbols, similar to the pattern in card ""b"".",0.0,b,All different,1.0
+1,A,test,01.png,GPT_4o,b,"The card has two different icons similar to card ""b"".",0.0,a,All different,1.0
+1,A,test,02.png,GPT_4o,a,"The card has two identical icons similar to card ""a"".",0.0,a,All same,1.0
+1,A,test,03.png,GPT_4o,b,"The card has two different icons similar to card ""b"".",0.0,b,All different,1.0
+1,A,test,04.png,GPT_4o,b,"The card has two different icons similar to card ""b"".",0.0,b,All different,1.0
+1,A,test,05.png,GPT_4o,a,"The card has two identical icons similar to card ""a"".",0.0,a,All same,1.0
+1,A,test,06.png,GPT_4o,a,"The card has two identical icons similar to card ""a"".",0.0,a,All same,1.0
+1,A,test,07.png,GPT_4o,b,"The card has two different icons similar to card ""b"".",0.0,b,All different,1.0
+1,A,test,08.png,GPT_4o,b,"The card has two different icons similar to card ""b"".",0.0,b,All different,1.0
+1,A,test,09.png,GPT_4o,a,"The card has two identical icons similar to card ""a"".",0.0,a,All same,1.0
+1,A,test,10.png,GPT_4o,b,"The card has two different icons similar to card ""b"".",0.0,b,All different,1.0
+1,A,test,01.png,GPT_4o,b,The card features a similar pattern of symbols and positioning.,0.0,a,All different,0.0
+1,A,test,02.png,GPT_4o,a,The card features two identical symbols in a similar layout.,0.0,a,All same,1.0
+1,A,test,03.png,GPT_4o,b,"The card features two different symbols, similar to card ""b"".",0.0,b,All different,1.0
+1,A,test,04.png,GPT_4o,b,"The card features two different symbols, aligning with the pattern of card ""b"".",0.0,b,All different,1.0
+1,A,test,05.png,GPT_4o,a,"The card features two identical symbols, similar to card ""a"".",0.0,a,All same,1.0
+1,A,test,06.png,GPT_4o,a,The card features two identical symbols in a similar layout.,0.0,a,All same,1.0
+1,A,test,07.png,GPT_4o,b,"The card features two different symbols, aligning with the pattern of card ""b"".",0.0,b,All different,1.0
+1,A,test,08.png,GPT_4o,b,"The card features two different symbols, similar to card ""b"".",0.0,b,All different,1.0
+1,A,test,09.png,GPT_4o,a,The card features two identical symbols in a similar layout.,0.0,a,All same,1.0
+1,A,test,10.png,GPT_4o,b,"The card features two different symbols, similar to card ""b"".",0.0,b,All different,1.0
+1,A,test,01.png,GPT_4o,b,"The card has a similar mix of different icons as card ""b"".",0.0,a,All different,1.0
+1,A,test,02.png,GPT_4o,a,"The card has matching identical icons like card ""a"".",0.0,a,All same,1.0
+1,A,test,03.png,GPT_4o,b,"The card has a similar arrangement of different icons like card ""b"".",0.0,b,All different,1.0
+1,A,test,04.png,GPT_4o,b,"The card uses different icons in varied styles like card ""b"".",0.0,b,All different,1.0
+1,A,test,05.png,GPT_4o,a,"The card has matching identical icons like card ""a"".",0.0,a,All same,1.0
+1,A,test,06.png,GPT_4o,a,"The card has identical icons like card ""a"".",0.0,a,All same,1.0
+1,A,test,07.png,GPT_4o,b,"The card uses different icons in varied styles like card ""b"".",0.0,b,All different,1.0
+1,A,test,08.png,GPT_4o,b,"The card uses different icons in varied styles like card ""b"".",0.0,b,All different,1.0
+1,A,test,09.png,GPT_4o,a,"The card has matching identical icons like card ""a"".",0.0,a,All same,1.0
+1,A,test,10.png,GPT_4o,b,"The card uses different icons in varied styles like card ""b"".",0.0,b,All different,1.0
+1,A,test,01.png,GPT_4o,b,"The card has two different types of symbols like card ""b"".",0.0,a,All different,1.0
+1,A,test,02.png,GPT_4o,a,"The card has two identical symbols like card ""a"".",0.0,a,All same,1.0
+1,A,test,03.png,GPT_4o,b,"The card has two different types of symbols like card ""b"".",0.0,b,All different,1.0
+1,A,test,04.png,GPT_4o,b,"The card has two different types of symbols like card ""b"".",0.0,b,All different,1.0
+1,A,test,05.png,GPT_4o,a,"The card has two identical symbols like card ""a"".",0.0,a,All same,1.0
+1,A,test,06.png,GPT_4o,a,"The card has two identical symbols like card ""a"".",0.0,a,All same,1.0
+1,A,test,07.png,GPT_4o,b,"The card has two different types of symbols like card ""b"".",0.0,b,All different,1.0
+1,A,test,08.png,GPT_4o,b,"The card has two different types of symbols like card ""b"".",0.0,b,All different,1.0
+1,A,test,09.png,GPT_4o,a,"The card has two identical symbols like card ""a"".",0.0,a,All same,1.0
+1,A,test,10.png,GPT_4o,b,"The card has two different types of symbols like card ""b"".",0.0,b,All different,1.0
+1,A,test,01.png,GPT_4o,b,"explanation: The card has symbols similar to those on card ""b"".",0.0,a,All different,1.0
+1,A,test,02.png,GPT_4o,a,"explanation: The card has a similar two-symbol layout as card ""a"".",0.0,a,All same,1.0
+1,A,test,03.png,GPT_4o,a,"explanation: The card has different symbols but maintains a two-symbol layout like card ""a"".",0.0,b,All same,1.0
+1,A,test,04.png,GPT_4o,b,"explanation: The card has different symbols but a two-symbol design like card ""b"".",0.0,b,All different,1.0
+1,A,test,05.png,GPT_4o,a,"explanation: The card has a similar two-symbol pattern like card ""a"".",0.0,a,All same,1.0
+1,A,test,06.png,GPT_4o,a,"explanation: The card has the same two-symbol arrangement as card ""a"".",0.0,a,All same,1.0
+1,A,test,07.png,GPT_4o,b,"explanation: The card has a similar layout and complexity as card ""b"".",0.0,b,All different,0.0
+1,A,test,08.png,GPT_4o,b,"explanation: The card has a similar design and pattern as card ""b"".",0.0,b,All different,1.0
+1,A,test,09.png,GPT_4o,b,"explanation: The card has a complex pattern similar to card ""b"".",0.0,a,All different,1.0
+1,A,test,10.png,GPT_4o,b,"explanation: The card has a similar arrangement and style as card ""b"".",0.0,b,All different,0.0
+1,A,test,01.png,GPT_4o,b,"explanation: The card features two symbols like card ""b"".",0.0,a,All different,1.0
+1,A,test,02.png,GPT_4o,a,"explanation: The card features matching symbols in both positions like card ""a"".",0.0,a,All same,1.0
+1,A,test,03.png,GPT_4o,b,"explanation: The card features different symbols, similar to card ""b"".",0.0,b,All different,1.0
+1,A,test,04.png,GPT_4o,b,"explanation: The card features different symbols, similar to card ""b"".",0.0,b,All different,1.0
+1,A,test,05.png,GPT_4o,a,"explanation: The card features matching symbols in both positions, like card ""a"".",0.0,a,All same,1.0
+1,A,test,06.png,GPT_4o,a,"explanation: The card features matching symbols in both positions, like card ""a"".",0.0,a,All same,1.0
+1,A,test,07.png,GPT_4o,b,"explanation: The card features different symbols, similar to card ""b"".",0.0,b,All different,1.0
+1,A,test,08.png,GPT_4o,b,"explanation: The card features different symbols, similar to card ""b"".",0.0,b,All different,1.0
+1,A,test,09.png,GPT_4o,a,"explanation: The card features matching symbols in both positions, like card ""a"".",0.0,a,All same,1.0
+1,A,test,10.png,GPT_4o,b,"explanation: The card features different symbols, similar to card ""b"".",0.0,b,All different,1.0
+1,A,test,01.png,GPT_4o,b,"explanation: The card has the same layout of different icons in opposite corners as card ""b"".",0.0,a,All different,1.0
+1,A,test,02.png,GPT_4o,a,"explanation: The card has matching icons in opposite corners, like card ""a"".",0.0,a,All same,1.0
+1,A,test,03.png,GPT_4o,b,"explanation: The card has different icons in opposite corners, like card ""b"".",0.0,b,All different,1.0
+1,A,test,04.png,GPT_4o,b,"explanation: The card has different icons in opposite corners, like card ""b"".",0.0,b,All different,1.0
+1,A,test,05.png,GPT_4o,a,"explanation: The card has matching icons in opposite corners, like card ""a"".",0.0,a,All same,1.0
+1,A,test,06.png,GPT_4o,a,"explanation: The card has matching icons in opposite corners, like card ""a"".",0.0,a,All same,1.0
+1,A,test,07.png,GPT_4o,b,"explanation: The card has different icons in opposite corners, like card ""b"".",0.0,b,All different,1.0
+1,A,test,08.png,GPT_4o,b,"explanation: The card has different icons in opposite corners, like card ""b"".",0.0,b,All different,1.0
+1,A,test,09.png,GPT_4o,a,"explanation: The card has matching icons in opposite corners, like card ""a"".",0.0,a,All same,1.0
+1,A,test,10.png,GPT_4o,b,"explanation: The card has different icons in opposite corners, like card ""b"".",0.0,b,All different,1.0
+1,A,test,01.png,GPT_4o,b,Both cards have two different symbols.,0.0,a,All different,1.0
+1,A,test,02.png,GPT_4o,a,Both cards have two identical symbols.,0.0,a,All same,1.0
+1,A,test,03.png,GPT_4o,b,Both cards have two different symbols.,0.0,b,All different,1.0
+1,A,test,04.png,GPT_4o,b,Both cards have two different symbols.,0.0,b,All different,1.0
+1,A,test,05.png,GPT_4o,a,Both cards have two identical symbols.,0.0,a,All same,1.0
+1,A,test,06.png,GPT_4o,a,Both cards have two identical symbols.,0.0,a,All same,1.0
+1,A,test,07.png,GPT_4o,b,Both cards have two different symbols.,0.0,b,All different,1.0
+1,A,test,08.png,GPT_4o,b,Both cards have two different symbols.,0.0,b,All different,1.0
+1,A,test,09.png,GPT_4o,a,Both cards have two identical symbols.,0.0,a,All same,1.0
+1,A,test,10.png,GPT_4o,b,Both cards have two different symbols.,0.0,b,All different,1.0
+1,A,test,01.png,GPT_4o,b,"The card features a similar arrangement and design style with symbols, like card ""b"".",0.0,a,All different,0.0
+1,A,test,02.png,GPT_4o,a,"The card features similar round shapes and empty design style, like card ""a"".",0.0,a,All same,0.0
+1,A,test,03.png,GPT_4o,b,"The card features distinct symbols similar to the design style of card ""b"".",0.0,b,All different,1.0
+1,A,test,04.png,GPT_4o,b,"The card features distinct symbols and arrangement, similar to card ""b"".",0.0,b,All different,1.0
+1,A,test,05.png,GPT_4o,a,"The card features a similar minimal design style with repeated elements, like card ""a"".",0.0,a,All same,1.0
+1,A,test,06.png,GPT_4o,a,"The card features repeated identical elements, similar to card ""a"".",0.0,a,All same,1.0
+1,A,test,07.png,GPT_4o,b,"The card features distinct symbols and arrangement, similar to card ""b"".",0.0,b,All different,1.0
+1,A,test,08.png,GPT_4o,b,"The card features distinct symbols and arrangement, similar to card ""b"".",0.0,b,All different,1.0
+1,A,test,09.png,GPT_4o,a,"The card features repeated identical elements, similar to card ""a"".",0.0,a,All same,1.0
+1,A,test,10.png,GPT_4o,b,"The card features distinct symbols and arrangement, similar to card ""b"".",0.0,b,All different,1.0
+1,A,test,01.png,Gemini_2_5_flash_lite,a,"This card has two ""x"" marks on it, and card ""a"" also has two ""x"" marks on it.",0.0,a,All same,0.0
+1,A,test,02.png,Gemini_2_5_flash_lite,a,"This card has two dots, and card ""a"" has two dots.",0.0,a,All same,0.0
+1,A,test,03.png,Gemini_2_5_flash_lite,b,"This card has a medal and a bag, and card ""b"" has a medal and a bag.",0.0,b,All different,1.0
+1,A,test,04.png,Gemini_2_5_flash_lite,a,"This card has an eraser and a speaker with a plus sign, and card ""a"" has an eraser and a speaker with a plus sign.",0.0,b,All same,0.0
+1,A,test,05.png,Gemini_2_5_flash_lite,a,"This card has two sets of two vertical lines, and card ""a"" has two sets of two vertical lines.",0.0,a,All same,0.0
+1,A,test,06.png,Gemini_2_5_flash_lite,a,"This card has two radios, and card ""a"" has two radios.",0.0,a,All same,0.0
+1,A,test,07.png,Gemini_2_5_flash_lite,b,"This card has a video camera icon with a checkmark and a tag icon, and card ""b"" also has a video camera icon with a checkmark and a tag icon.",0.0,b,All different,0.0
+1,A,test,08.png,Gemini_2_5_flash_lite,a,"This card has a cake and wavy lines with a drop, and card ""a"" has a cake and wavy lines with a drop.",0.0,b,All same,0.0
+1,A,test,09.png,Gemini_2_5_flash_lite,a,"This card has two sets of arrow buttons, and card ""a"" also has two sets of arrow buttons.",0.0,a,All same,0.0
+1,A,test,10.png,Gemini_2_5_flash_lite,b,"This card has a thermometer with sun rays and a football, and card ""b"" also has a thermometer with sun rays and a football.",0.0,b,All different,0.0
+1,A,test,01.png,Gemini_2_5_flash_lite,a,"The card shows two ""x"" marks within squares, similar to card ""a"" which shows two jackets.",0.0,a,All same,1.0
+1,A,test,02.png,Gemini_2_5_flash_lite,a,"The card shows two dots, similar to card ""a"" which shows two jackets.",0.0,a,All same,1.0
+1,A,test,03.png,Gemini_2_5_flash_lite,a,"The card shows a medal and a handbag, similar to card ""a"" which shows two jackets.",0.0,b,All same,1.0
+1,A,test,04.png,Gemini_2_5_flash_lite,a,"The card shows an eraser and a speaker with a plus sign, similar to card ""a"" which shows two jackets.",0.0,b,All same,0.0
+1,A,test,05.png,Gemini_2_5_flash_lite,a,"The card shows two sets of parallel lines, similar to card ""a"" which shows two jackets.",0.0,a,All same,0.0
+1,A,test,06.png,Gemini_2_5_flash_lite,a,"The card shows two radios, similar to card ""a"" which shows two jackets.",0.0,a,All same,0.0
+1,A,test,07.png,Gemini_2_5_flash_lite,a,"The card shows a video camera with a checkmark and a tag, similar to card ""a"" which shows two jackets.",0.0,b,All same,0.0
+1,A,test,08.png,Gemini_2_5_flash_lite,a,"The card shows a cake and wavy lines with a droplet, similar to card ""a"" which shows two jackets.",0.0,b,All same,0.0
+1,A,test,09.png,Gemini_2_5_flash_lite,a,"The card shows two sets of arrow keys, similar to card ""a"" which shows two jackets.",0.0,a,All same,1.0
+1,A,test,10.png,Gemini_2_5_flash_lite,a,"The card shows a thermometer with a sun and a football, similar to card ""a"" which shows two jackets.",0.0,b,All same,0.0
+1,A,test,01.png,Gemini_2_5_flash_lite,a,"This card also has two gray icons, similar to card ""a"".",0.0,a,All same,1.0
+1,A,test,02.png,Gemini_2_5_flash_lite,a,"This card also has two gray circles, similar to the two jackets on card ""a"".",0.0,a,All same,0.0
+1,A,test,03.png,Gemini_2_5_flash_lite,b,"This card has a medal and a handbag, neither of which are related to card ""a"".",0.0,b,All different,0.0
+1,A,test,04.png,Gemini_2_5_flash_lite,b,"This card has icons related to sound and volume, which are not present on card ""a"".",0.0,b,All different,0.0
+1,A,test,05.png,Gemini_2_5_flash_lite,a,"This card also has two gray rectangular shapes, similar to the two jackets on card ""a"".",0.0,a,All same,0.0
+1,A,test,06.png,Gemini_2_5_flash_lite,a,"This card also has two gray icons, similar to the two jackets on card ""a"".",0.0,a,All same,0.0
+1,A,test,07.png,Gemini_2_5_flash_lite,b,"This card has icons related to video and tags, which are not present on card ""a"".",0.0,b,All different,0.0
+1,A,test,08.png,Gemini_2_5_flash_lite,b,"This card has a cake and a water drop with waves, neither of which are related to card ""a"".",0.0,b,All different,0.0
+1,A,test,09.png,Gemini_2_5_flash_lite,a,"This card also has two sets of gray icons, similar to the two jackets on card ""a"".",0.0,a,All same,0.0
+1,A,test,10.png,Gemini_2_5_flash_lite,b,"This card contains a thermometer and a football, neither of which are related to card ""a"".",0.0,b,All different,0.0
+1,A,test,01.png,Gemini_2_5_flash_lite,a,This card has two X symbols on it. The other card also has two X symbols on it.,0.0,a,All same,0.0
+1,A,test,02.png,Gemini_2_5_flash_lite,a,This card has two circles on it. The other card also has two circles on it.,0.0,a,All same,0.0
+1,A,test,03.png,Gemini_2_5_flash_lite,b,This card has a medal and a purse on it. The other card has a paw print and an arrow symbol on it.,0.0,b,All different,0.0
+1,A,test,04.png,Gemini_2_5_flash_lite,b,This card has a volume up symbol and a plus sign. The other card has a paw print and an arrow symbol.,0.0,b,All different,0.0
+1,A,test,05.png,Gemini_2_5_flash_lite,a,"This card has two vertical bars on the top right and two vertical bars on the bottom left. The reference card ""a"" also has two identical symbols (jackets) on it.",0.0,a,All same,1.0
+1,A,test,06.png,Gemini_2_5_flash_lite,a,"This card has two radios on it, similar to how card ""a"" has two jackets on it.",0.0,a,All same,0.0
+1,A,test,07.png,Gemini_2_5_flash_lite,b,This card has a video camera symbol and a tag symbol. The other card has a paw print and an arrow symbol.,0.0,b,All different,1.0
+1,A,test,08.png,Gemini_2_5_flash_lite,b,This card has a cake and wavy lines with a drop. The other card has a paw print and an arrow symbol.,0.0,b,All different,0.0
+1,A,test,09.png,Gemini_2_5_flash_lite,a,"This card has two sets of arrow symbols. The reference card ""a"" also has two identical symbols (jackets) on it.",0.0,a,All same,1.0
+1,A,test,10.png,Gemini_2_5_flash_lite,b,"This card has a thermometer and a sun, and a football. The other card has a paw print and an arrow symbol.",0.0,b,All different,0.0
+1,A,test,01.png,Gemini_2_5_flash_lite,a,"The card has two ""x"" symbols, which matches the number of jackets on card ""a"".",0.0,a,All same,0.0
+1,A,test,02.png,Gemini_2_5_flash_lite,a,"The card has two dots, which matches the number of jackets on card ""a"".",0.0,a,All same,0.0
+1,A,test,03.png,Gemini_2_5_flash_lite,b,"The card has a medal and a handbag, which matches the symbols on card ""b"".",0.0,b,All different,1.0
+1,A,test,04.png,Gemini_2_5_flash_lite,b,"The card has a speaker icon and a plus sign, which matches the symbols on card ""b"".",0.0,b,All different,0.0
+1,A,test,05.png,Gemini_2_5_flash_lite,a,"The card has two sets of vertical bars, which matches the number of jackets on card ""a"".",0.0,a,All same,0.0
+1,A,test,06.png,Gemini_2_5_flash_lite,a,"The card has two radios, which matches the number of jackets on card ""a"".",0.0,a,All same,0.0
+1,A,test,07.png,Gemini_2_5_flash_lite,b,"The card has a video camera icon and a tag, which matches the symbols on card ""b"".",0.0,b,All different,1.0
+1,A,test,08.png,Gemini_2_5_flash_lite,b,"The card has a cake and wavy lines with a drop, which matches the symbols on card ""b"".",0.0,b,All different,0.0
+1,A,test,09.png,Gemini_2_5_flash_lite,a,"The card has two groups of arrow keys, which matches the number of jackets on card ""a"".",0.0,a,All same,0.0
+1,A,test,10.png,Gemini_2_5_flash_lite,b,"The card has a thermometer and a football, which matches the symbols on card ""b"".",0.0,b,All different,0.0
+1,A,test,01.png,Gemini_2_5_flash_lite,a,"This card has two ""x"" marks on it. Card ""a"" also has two identical icons on it.",0.0,a,All same,1.0
+1,A,test,02.png,Gemini_2_5_flash_lite,a,"This card has two dots on it. Card ""a"" also has two identical icons on it.",0.0,a,All same,1.0
+1,A,test,03.png,Gemini_2_5_flash_lite,b,"This card has a medal and a handbag. Card ""b"" has a paw print and an expand icon. Neither card ""a"" nor card ""b"" go together with this card. I cannot answer with a or b.",0.0,b,All different,0.0
+1,A,test,04.png,Gemini_2_5_flash_lite,a,"This card has a speaker with a plus sign, and an eraser icon. Card ""a"" has two identical jacket icons. Neither card ""a"" nor card ""b"" go together with this card. I cannot answer with a or b.",0.0,b,All same,0.0
+1,A,test,05.png,Gemini_2_5_flash_lite,a,"This card has two vertical bars on it, similar to card ""a"" which has two jacket icons.",0.0,a,All same,0.0
+1,A,test,06.png,Gemini_2_5_flash_lite,a,"This card has two radio icons on it, just like card ""a"" has two jacket icons.",0.0,a,All same,0.0
+1,A,test,07.png,Gemini_2_5_flash_lite,b,"This card has a video camera icon and a tag icon. Card ""b"" has a paw print and an expand icon. Neither card ""a"" nor card ""b"" go together with this card. I cannot answer with a or b.",0.0,b,All different,0.0
+1,A,test,08.png,Gemini_2_5_flash_lite,b,"This card has a cake and some wavy lines with a drop. Card ""b"" has a paw print and an expand icon. Neither card ""a"" nor card ""b"" go together with this card. I cannot answer with a or b.",0.0,b,All different,0.0
+1,A,test,09.png,Gemini_2_5_flash_lite,a,"This card has two sets of arrow icons. Card ""a"" also has two identical icons on it.",0.0,a,All same,1.0
+1,A,test,10.png,Gemini_2_5_flash_lite,b,"This card has a thermometer with the sun and a football. Card ""b"" has a paw print and an expand icon. Neither card ""a"" nor card ""b"" go together with this card. I cannot answer with a or b.",0.0,b,All different,0.0
+1,A,test,01.png,Gemini_2_5_flash_lite,a,"The card has two identical squares with ""x"" symbols inside, similar to card ""a"" which has two identical jackets.",0.0,a,All same,1.0
+1,A,test,02.png,Gemini_2_5_flash_lite,a,"The card has two identical circles on it, similar to card ""a"" which has two identical jackets.",0.0,a,All same,1.0
+1,A,test,03.png,Gemini_2_5_flash_lite,b,"This card contains a medal and a handbag, which are different from the jackets in card ""a"".",0.0,b,All different,1.0
+1,A,test,04.png,Gemini_2_5_flash_lite,b,"This card has a volume icon with a plus sign and an eraser, neither of which are jackets.",0.0,b,All different,0.0
+1,A,test,05.png,Gemini_2_5_flash_lite,a,"The card has two identical vertical bars, similar to card ""a"" which has two identical jackets.",0.0,a,All same,1.0
+1,A,test,06.png,Gemini_2_5_flash_lite,a,"The card has two identical radios on it, similar to card ""a"" which has two identical jackets.",0.0,a,All same,1.0
+1,A,test,07.png,Gemini_2_5_flash_lite,b,"This card has a video camera icon and a tag icon, neither of which are jackets.",0.0,b,All different,0.0
+1,A,test,08.png,Gemini_2_5_flash_lite,b,"This card contains a cake and some wavy lines with a drop, neither of which resemble jackets.",0.0,b,All different,0.0
+1,A,test,09.png,Gemini_2_5_flash_lite,a,"The card has two identical sets of arrow icons, similar to card ""a"" which has two identical jackets.",0.0,a,All same,1.0
+1,A,test,10.png,Gemini_2_5_flash_lite,b,"This card has a thermometer and a football, neither of which are jackets.",0.0,b,All different,0.0
+1,A,test,01.png,Gemini_2_5_flash_lite,a,Both cards have two identical grey icons.,0.0,a,All same,1.0
+1,A,test,02.png,Gemini_2_5_flash_lite,a,Both cards have two identical grey icons.,0.0,a,All same,1.0
+1,A,test,03.png,Gemini_2_5_flash_lite,b,"This card has two different icons, similar to card ""b"".",0.0,b,All different,1.0
+1,A,test,04.png,Gemini_2_5_flash_lite,b,"This card has two different icons, similar to card ""b"".",0.0,b,All different,1.0
+1,A,test,05.png,Gemini_2_5_flash_lite,a,Both cards have two identical grey icons.,0.0,a,All same,1.0
+1,A,test,06.png,Gemini_2_5_flash_lite,a,Both cards have two identical grey icons.,0.0,a,All same,1.0
+1,A,test,07.png,Gemini_2_5_flash_lite,b,"This card has two different icons, similar to card ""b"".",0.0,b,All different,1.0
+1,A,test,08.png,Gemini_2_5_flash_lite,b,"This card has two different icons, similar to card ""b"".",0.0,b,All different,1.0
+1,A,test,09.png,Gemini_2_5_flash_lite,a,Both cards have two identical groups of grey icons.,0.0,a,All same,1.0
+1,A,test,10.png,Gemini_2_5_flash_lite,b,"This card has two different icons, similar to card ""b"".",0.0,b,All different,1.0
+1,A,test,01.png,Gemini_2_5_flash_lite,a,"This card has two ""X"" marks on it, similar to card ""a"" which has two jackets. Both cards have two of the same symbol.",0.0,a,All same,1.0
+1,A,test,02.png,Gemini_2_5_flash_lite,a,"This card has two dots on it, just like card ""a"" has two jackets. Both cards have two of the same symbol.",0.0,a,All same,0.0
+1,A,test,03.png,Gemini_2_5_flash_lite,b,"This card has a medal and a purse, similar to card ""b"" which has a paw print and an expand icon. Both cards have two different symbols.",0.0,b,All different,1.0
+1,A,test,04.png,Gemini_2_5_flash_lite,b,"This card has an eraser and a speaker with a plus sign, similar to card ""b"" which has a paw print and an expand icon. Both cards have two different symbols.",0.0,b,All different,1.0
+1,A,test,05.png,Gemini_2_5_flash_lite,a,"This card has two sets of parallel bars, similar to card ""a"" which has two jackets. Both cards have two of the same symbol.",0.0,a,All same,0.0
+1,A,test,06.png,Gemini_2_5_flash_lite,a,"This card has two radios, similar to card ""a"" which has two jackets. Both cards have two of the same symbol.",0.0,a,All same,1.0
+1,A,test,07.png,Gemini_2_5_flash_lite,b,"This card has a video camera icon and a tag icon, similar to card ""b"" which has a paw print and an expand icon. Both cards have two different symbols.",0.0,b,All different,1.0
+1,A,test,08.png,Gemini_2_5_flash_lite,b,"This card has a cake and a water droplet/waves icon, similar to card ""b"" which has a paw print and an expand icon. Both cards have two different symbols.",0.0,b,All different,1.0
+1,A,test,09.png,Gemini_2_5_flash_lite,a,"This card has two sets of arrow buttons, similar to card ""a"" which has two jackets. Both cards have two of the same symbol.",0.0,a,All same,0.0
+1,A,test,10.png,Gemini_2_5_flash_lite,b,"This card has a thermometer and a football, similar to card ""b"" which has a paw print and an expand icon. Both cards have two different symbols.",0.0,b,All different,1.0
+1,A,test,01.png,Gemini_2_5_flash_lite,a,"This card has two ""x"" marks, which is similar to the two jackets in card ""a"".",0.0,a,All same,0.0
+1,A,test,02.png,Gemini_2_5_flash_lite,a,"This card has two dots, which is similar to the two jackets in card ""a"".",0.0,a,All same,0.0
+1,A,test,03.png,Gemini_2_5_flash_lite,b,"This card has a medal and a handbag, which are not related to the jackets in card ""a"". However, the medal could be interpreted as a reward or achievement, and the handbag as an accessory, both of which could be associated with personal items or activities, similar to how the expand icon in card ""b"" might relate to an action or feature.",0.0,b,All different,0.0
+1,A,test,04.png,Gemini_2_5_flash_lite,b,"This card has an eraser and a volume-up icon, which are not directly related to the jackets in card ""a"". However, the eraser can be considered a tool for correction or modification, and the volume-up icon represents an action or setting. Card ""b"" also has an expand icon, which can be associated with actions or features. Therefore, card ""b"" seems to be a better fit due to the abstract nature of its icons representing actions or tools, rather than clothing.",0.0,b,All different,0.0
+1,A,test,05.png,Gemini_2_5_flash_lite,a,"This card has two sets of two vertical bars, which visually resembles the two jackets on card ""a"".",0.0,a,All same,0.0
+1,A,test,06.png,Gemini_2_5_flash_lite,b,"This card has two radios. Card ""a"" has jackets, which are clothing. Card ""b"" has an expand icon, which might be related to audio output, like from a radio.",0.0,a,All different,0.0
+1,A,test,07.png,Gemini_2_5_flash_lite,b,"This card has a video camera icon with a checkmark and a tag icon. Card ""a"" has jackets. Card ""b"" has an expand icon, which is often used in media players or interfaces, and could be loosely related to video content. The tag could represent metadata or categorization, which are also digital concepts. Therefore, card ""b"" is a better fit.",0.0,b,All different,0.0
+1,A,test,08.png,Gemini_2_5_flash_lite,b,"This card has a cake and a water droplet with waves. Card ""a"" has jackets. Card ""b"" has an expand icon, which could be related to expanding a celebration or event (cake), or perhaps related to weather or water features. It's a weak connection, but better than card ""a"".",0.0,b,All different,0.0
+1,A,test,09.png,Gemini_2_5_flash_lite,b,"This card has arrow buttons, which are used for navigation or control. Card ""a"" has jackets. Card ""b"" has an expand icon, which can be used to expand a view or control interface, making it a better fit.",0.0,a,All different,0.0
+1,A,test,10.png,Gemini_2_5_flash_lite,b,"This card has a thermometer and a football. Card ""a"" has jackets, which are clothing. Card ""b"" has an expand icon. The thermometer relates to weather or temperature, and the football relates to sports or outdoor activities. These are not directly related to clothing. However, the expand icon in card ""b"" could be interpreted as expanding a range of weather conditions or sports options.",0.0,b,All different,0.0
+1,A,test,01.png,GPT_o4_mini_high,a,"both corners show the same icon, matching the pattern of card a.",4238.698564593302,a,All same,1.0
+1,A,test,02.png,GPT_o4_mini_high,b,"the two circles differ in size, matching card b’s pattern of non-identical icons.",6105.494866529774,a,All different,1.0
+1,A,test,03.png,GPT_o4_mini_high,b,"the top and bottom icons are different, matching card b’s pattern of non-identical icons.",3233.246753246753,b,All different,1.0
+1,A,test,04.png,GPT_o4_mini_high,b,"the two corners show different icons, matching card b’s pattern of non-identical icons.",3361.9591836734694,b,All different,1.0
+1,A,test,05.png,GPT_o4_mini_high,b,"the bar icons are rotated differently and not identical, matching card b’s pattern of non-identical icons.",7292.065099457504,a,All different,1.0
+1,A,test,06.png,GPT_o4_mini_high,a,"both corners feature the same radio icon, matching card a’s identical-icon pattern.",2313.253012048193,a,All same,1.0
+1,A,test,07.png,GPT_o4_mini_high,b,"the top camera icon and bottom tag icon are different, matching card b’s non-identical pattern.",2638.344827586207,b,All different,1.0
+1,A,test,08.png,GPT_o4_mini_high,b,"the top droplet-and-waves icon and the bottom cake icon are different, matching card b’s pattern of non-identical icons.",2085.090909090909,b,All different,1.0
+1,A,test,09.png,GPT_o4_mini_high,a,"both corners show the same arrow-cluster icon, matching card a’s identical-icon pattern.",4210.807799442897,a,All same,1.0
+1,A,test,10.png,GPT_o4_mini_high,b,"the thermometer and ball icons are different, matching card b’s non-identical pattern.",2406.4,b,All different,1.0
+1,A,test,01.png,GPT_o4_mini_high,a,"both corners show the identical “X” icon, matching the pattern of card a where the same symbol appears in both corners.",4886.623255813954,a,All same,1.0
+1,A,test,02.png,GPT_o4_mini_high,a,"both corners feature the same circle icon, fitting the “identical symbols” pattern of card a.",4687.111111111111,a,All same,1.0
+1,A,test,03.png,GPT_o4_mini_high,b,"the two corners show different icons (a medal and a purse), matching the mixed-symbol pattern of card b.",7692.014440433213,b,All different,1.0
+1,A,test,04.png,GPT_o4_mini_high,b,"the corners display two different icons, fitting the mixed-symbol pattern of card b.",3019.7894736842104,b,All different,1.0
+1,A,test,05.png,GPT_o4_mini_high,a,both corners display the identical two-bar icon.,2869.574660633484,a,All same,1.0
+1,A,test,06.png,GPT_o4_mini_high,a,both corners display the identical radio icon.,0.0,a,All same,1.0
+1,A,test,07.png,GPT_o4_mini_high,b,"the corners show two different icons (a camera and a tag), matching the mixed-symbol pattern of card b.",3782.442953020134,b,All different,1.0
+1,A,test,08.png,GPT_o4_mini_high,b,"the corners feature different icons (a droplet/waves and a cake), matching card b’s mixed-symbol pattern.",4570.798898071625,b,All different,1.0
+1,A,test,09.png,GPT_o4_mini_high,b,"the corner icons differ (four-arrow cluster vs. three-arrow cluster), fitting the mixed-icon pattern of card b.",2756.6297872340424,a,All different,1.0
+1,A,test,10.png,GPT_o4_mini_high,b,"the corners show two different icons (thermometer and football), matching the mixed-symbol pattern of card b.",1690.566037735849,b,All different,1.0
+1,A,test,01.png,GPT_o4_mini_high,a,"it features matching X icons in both corners, just like card a’s matching jacket icons.",3474.657627118644,a,All same,1.0
+1,A,test,02.png,GPT_o4_mini_high,a,it has identical circle icons in both corners.,3662.769230769231,a,All same,1.0
+1,A,test,03.png,GPT_o4_mini_high,b,"it shows two different icons (medal and purse) in the corners, like card b.",1997.2987012987007,b,All different,1.0
+1,A,test,04.png,GPT_o4_mini_high,b,it has two different icons in the corners.,4110.371929824561,b,All different,1.0
+1,A,test,05.png,GPT_o4_mini_high,a,"it shows the same paired‐bar icon in both corners, matching card a’s identical‐icon pattern.",7784.622061482821,a,All same,1.0
+1,A,test,06.png,GPT_o4_mini_high,a,it has the same radio icon in both corners.,2420.658227848101,a,All same,1.0
+1,A,test,07.png,GPT_o4_mini_high,b,"it shows two different icons (camera and tag) in the corners, matching card b’s pattern.",5584.393442622951,b,All different,1.0
+1,A,test,08.png,GPT_o4_mini_high,b,"it features two different icons (water drop and cake), matching card b’s pattern.",1892.8484848484848,b,All different,1.0
+1,A,test,09.png,GPT_o4_mini_high,a,it shows the same arrow-key cluster icon in both corners.,6380.963172804532,a,All same,1.0
+1,A,test,10.png,GPT_o4_mini_high,b,it has two different icons (thermometer and football) in the corners.,1463.04,b,All different,1.0
+1,A,test,01.png,GPT_o4_mini_high,a,it has two identical “X” icons like card a’s matching pair.,7822.948905109489,a,All same,1.0
+1,A,test,02.png,GPT_o4_mini_high,a,it features two identical circle icons like card a’s matching pair.,6133.894736842105,a,All same,1.0
+1,A,test,03.png,GPT_o4_mini_high,b,it shows two different icons (medal and bag) like card b’s nonmatching pair.,3718.508474576271,b,All different,1.0
+1,A,test,04.png,GPT_o4_mini_high,b,it shows two different icons (pencil and speaker) like card b.,3340.123348017621,b,All different,1.0
+1,A,test,05.png,GPT_o4_mini_high,a,it has two identical bar icons like card a’s matching pair.,4185.467128027682,a,All same,1.0
+1,A,test,06.png,GPT_o4_mini_high,a,it shows two identical radio icons like card a’s matching pair.,1890.583850931677,a,All same,1.0
+1,A,test,07.png,GPT_o4_mini_high,b,it has two different icons (camera and tag) like card b’s nonmatching pair.,4420.111731843575,b,All different,1.0
+1,A,test,08.png,GPT_o4_mini_high,b,it shows two different icons (water droplet and cake) like card b’s nonmatching pair.,2150.8571428571427,b,All different,1.0
+1,A,test,09.png,GPT_o4_mini_high,a,it shows two identical arrow-key clusters like card a’s matching pair.,3886.101694915254,a,All same,1.0
+1,A,test,10.png,GPT_o4_mini_high,b,it has two different icons (thermometer and ball) like card b’s nonmatching pair.,1909.3333333333333,b,All different,1.0
+1,A,test,01.png,GPT_o4_mini_high,a,"both corners show the same X icon, matching sample a.",8422.4,a,All same,1.0
+1,A,test,02.png,GPT_o4_mini_high,a,"both corners feature the same circle icon, matching sample a’s identical-corner pattern.",3020.0174672489084,a,All same,1.0
+1,A,test,03.png,GPT_o4_mini_high,b,"the corners show different icons (medal and purse), matching sample b’s varied symbols.",3072.8707482993195,b,All different,1.0
+1,A,test,04.png,GPT_o4_mini_high,b,"the corners have different icons (pencil vs. speaker), matching sample b’s varied-symbol pattern.",3844.309764309765,b,All different,1.0
+1,A,test,05.png,GPT_o4_mini_high,a,"both corners display the same double-bar icon, matching sample a’s identical-corner pattern.",3549.2881355932204,a,All same,1.0
+1,A,test,06.png,GPT_o4_mini_high,a,"both corners feature the same radio icon, matching sample a’s identical-corner pattern.",1186.217821782178,a,All same,1.0
+1,A,test,07.png,GPT_o4_mini_high,b,"corners show different icons (video camera and tag), matching sample b’s varied-symbol pattern.",2706.285714285714,b,All different,1.0
+1,A,test,08.png,GPT_o4_mini_high,b,"the corners show different icons (water droplet vs. cake), matching sample b’s varied-symbol pattern.",2736.6180257510728,b,All different,1.0
+1,A,test,09.png,GPT_o4_mini_high,a,"both corners display the same arrow-key cluster, matching sample a’s identical-corner pattern.",5483.324863883848,a,All same,1.0
+1,A,test,10.png,GPT_o4_mini_high,b,"corners show different icons (thermometer vs. football), matching sample b’s varied-symbol pattern.",2267.428571428572,b,All different,1.0
+1,A,test,01.png,GPT_o4_mini_high,a,"it has the same “X” icon in both corners, matching card a’s identical‐icon pattern.",2566.5641025641025,a,All same,1.0
+1,A,test,02.png,GPT_o4_mini_high,a,"it has two identical circle icons, matching card a’s same‐icon pattern.",5607.708029197081,a,All same,1.0
+1,A,test,03.png,GPT_o4_mini_high,b,"it shows two different icons (medal and bag), matching card b’s mixed-icon pattern.",2856.0,b,All different,1.0
+1,A,test,04.png,GPT_o4_mini_high,b,"it has two different icons (pencil and speaker), matching card b’s mixed-icon pattern.",3806.15593220339,b,All different,1.0
+1,A,test,05.png,GPT_o4_mini_high,a,"it has two identical bar icons, matching card a’s same-icon pattern.",1087.353535353535,a,All same,1.0
+1,A,test,06.png,GPT_o4_mini_high,a,"it has two identical radio icons, matching card a’s same-icon pattern.",3936.179775280899,a,All same,1.0
+1,A,test,07.png,GPT_o4_mini_high,b,"it has two different icons (camera and tag), matching card b’s mixed-icon pattern.",2355.662650602409,b,All different,1.0
+1,A,test,08.png,GPT_o4_mini_high,b,"it shows two different icons (water drop/waves and cake), matching card b’s mixed-icon pattern.",3137.098712446352,b,All different,1.0
+1,A,test,09.png,GPT_o4_mini_high,a,"it has two identical arrow-key clusters, matching card a’s same-icon pattern.",5099.374407582938,a,All same,1.0
+1,A,test,10.png,GPT_o4_mini_high,b,"it has two different icons (thermometer and football), matching card b’s mixed-icon pattern.",3017.230769230769,b,All different,1.0
+1,A,test,01.png,GPT_o4_mini_high,a,"It has two identical symbols like card a, whereas card b’s symbols differ.",7160.599348534202,a,All same,1.0
+1,A,test,02.png,GPT_o4_mini_high,a,"both corners show the same circle symbol, matching card a’s identical icons.",2555.20704845815,a,All same,1.0
+1,A,test,03.png,GPT_o4_mini_high,b,"the top and bottom icons differ, matching card b’s pattern.",2239.340206185567,b,All different,1.0
+1,A,test,04.png,GPT_o4_mini_high,b,"the top and bottom symbols differ, matching card b’s pattern.",1337.40206185567,b,All different,1.0
+1,A,test,05.png,GPT_o4_mini_high,a,"both corners display the same pause-bar icon, fitting card a’s identical-symbol pattern.",3820.981132075472,a,All same,1.0
+1,A,test,06.png,GPT_o4_mini_high,a,"both corners feature the same radio icon, matching card a’s identical-symbol rule.",0.0,a,All same,1.0
+1,A,test,07.png,GPT_o4_mini_high,b,"the top and bottom icons differ, matching card b’s pattern.",2157.714285714286,b,All different,1.0
+1,A,test,08.png,GPT_o4_mini_high,b,"top and bottom icons differ, matching card b’s pattern.",3583.111111111112,b,All different,1.0
+1,A,test,09.png,GPT_o4_mini_high,a,"both corners display the same arrow-key cluster, matching card a’s identical-symbol pattern.",5000.170212765957,a,All same,1.0
+1,A,test,10.png,GPT_o4_mini_high,b,"the top and bottom icons differ, matching card b’s pattern.",2596.693333333333,b,All different,1.0
+1,A,test,01.png,GPT_o4_mini_high,a,"it has the same “X” icon in both corners, matching the duplicate-symbol pattern of card a.",3218.040268456376,a,All same,1.0
+1,A,test,02.png,GPT_o4_mini_high,a,"it shows the same circle icon in both corners, matching the duplicate-icon pattern of card a.",4365.9052924791085,a,All same,1.0
+1,A,test,03.png,GPT_o4_mini_high,b,"the top and bottom icons differ, matching card b’s mismatched-icon pattern.",2632.4210526315787,b,All different,1.0
+1,A,test,04.png,GPT_o4_mini_high,b,"it has different icons top and bottom, fitting card b’s mismatched-icon pattern.",1009.4257425742576,b,All different,1.0
+1,A,test,05.png,GPT_o4_mini_high,a,"it shows the same double-bar icon in both corners, matching card a’s duplicate-icon pattern.",4598.943396226415,a,All same,1.0
+1,A,test,06.png,GPT_o4_mini_high,a,"it shows the same radio icon in both corners, matching card a’s duplicate-icon pattern.",3648.7150837988825,a,All same,1.0
+1,A,test,07.png,GPT_o4_mini_high,b,"it has different icons in the corners, matching card b’s mismatched-icon pattern.",2224.8727272727274,b,All different,1.0
+1,A,test,08.png,GPT_o4_mini_high,b,"it has different icons top and bottom, matching card b’s mismatched-icon pattern.",1910.4950495049504,b,All different,1.0
+1,A,test,09.png,GPT_o4_mini_high,a,"it shows the same arrow-key cluster in both corners, matching card a’s duplicate-icon pattern.",3319.448275862069,a,All same,1.0
+1,A,test,10.png,GPT_o4_mini_high,b,"it features different icons top and bottom, fitting card b’s mismatched-icon pattern.",6263.466666666666,b,All different,1.0
+1,A,test,01.png,GPT_o4_mini_high,a,"it has identical X symbols in opposite corners, matching card a’s pattern.",6641.9597806215725,a,All same,1.0
+1,A,test,02.png,GPT_o4_mini_high,a,"it has identical circle icons in opposite corners, matching the pattern of card a.",3548.1774744027302,a,All same,1.0
+1,A,test,03.png,GPT_o4_mini_high,b,"it has different icons in each corner, matching card b’s pattern.",4921.129943502825,b,All different,1.0
+1,A,test,04.png,GPT_o4_mini_high,b,"it shows two different icons in the corners, matching card b’s pattern.",2486.1840490797545,b,All different,1.0
+1,A,test,05.png,GPT_o4_mini_high,a,"it has identical vertical-bar icons in opposite corners, matching card a’s pattern.",2900.2105263157896,a,All same,1.0
+1,A,test,06.png,GPT_o4_mini_high,a,"it has identical radio icons in opposite corners, matching card a’s pattern.",3086.3788546255505,a,All same,1.0
+1,A,test,07.png,GPT_o4_mini_high,b,"it shows two different icons in the corners, matching card b’s pattern.",2295.3619631901843,b,All different,1.0
+1,A,test,08.png,GPT_o4_mini_high,b,"it has two different icons in the corners, matching card b’s pattern.",2321.276073619632,b,All different,1.0
+1,A,test,09.png,GPT_o4_mini_high,a,"it shows the same arrow‐key cluster in both corners, matching card a’s identical‐icons pattern.",4461.436464088398,a,All same,1.0
+1,A,test,10.png,GPT_o4_mini_high,b,"it has two different icons in the corners, matching card b’s pattern.",2323.6319018404906,b,All different,1.0
+1,A,test,01.png,GPT_o4_mini_high,a,"it has the same symbol in both corners, matching card a’s pattern.",2819.775280898876,a,All same,1.0
+1,A,test,02.png,GPT_o4_mini_high,a,"it shows the same circle icon in both corners, matching card a’s pattern.",3030.9170305676857,a,All same,1.0
+1,A,test,03.png,GPT_o4_mini_high,b,"it has different icons in the corners, matching card b’s pattern.",2541.037037037037,b,All different,1.0
+1,A,test,04.png,GPT_o4_mini_high,b,"it has two different icons in the corners, matching card b’s pattern.",2941.8006872852234,b,All different,1.0
+1,A,test,05.png,GPT_o4_mini_high,a,it has the same icon in both corners.,3171.705263157895,a,All same,1.0
+1,A,test,06.png,GPT_o4_mini_high,a,"it shows the same radio icon in both corners, matching card a’s pattern.",0.0,a,All same,1.0
+1,A,test,07.png,GPT_o4_mini_high,b,"it has two different icons in the corners, matching card b’s pattern.",2200.5656565656564,b,All different,1.0
+1,A,test,08.png,GPT_o4_mini_high,b,"it features two different icons in the corners, matching card b’s pattern.",1494.6341463414635,b,All different,1.0
+1,A,test,09.png,GPT_o4_mini_high,a,"it shows the same arrow‐key cluster icon in both corners, matching card a’s pattern.",2918.2337662337663,a,All same,1.0
+1,A,test,10.png,GPT_o4_mini_high,b,"it has two different icons in the corners, matching card b’s pattern.",1854.707070707071,b,All different,1.0
+1,A,test,01.png,Gemini_2_0_flash,a,"This card has two identical objects, similarly to card ""a"".",0.0,a,All same,1.0
+1,A,test,02.png,Gemini_2_0_flash,a,"It has two identical objects, similar to card ""a"".",0.0,a,All same,1.0
+1,A,test,03.png,Gemini_2_0_flash,b,"It contains two distinct objects like card ""b"".",0.0,b,All different,1.0
+1,A,test,04.png,Gemini_2_0_flash,b,"It contains two distinct objects like card ""b"".",0.0,b,All different,1.0
+1,A,test,05.png,Gemini_2_0_flash,a,"This card has two identical objects, similarly to card ""a"".",0.0,a,All same,1.0
+1,A,test,06.png,Gemini_2_0_flash,a,"The card has two identical objects, like card ""a"".",0.0,a,All same,1.0
+1,A,test,07.png,Gemini_2_0_flash,b,"It has two different objects on the card, like card ""b"".",0.0,b,All different,1.0
+1,A,test,08.png,Gemini_2_0_flash,b,"It has two different objects on the card, like card ""b"".",0.0,b,All different,1.0
+1,A,test,09.png,Gemini_2_0_flash,a,"It has two identical objects on the card, like card ""a"".",0.0,a,All same,1.0
+1,A,test,10.png,Gemini_2_0_flash,b,"It has two different objects on the card, like card ""b"".",0.0,b,All different,1.0
+1,A,test,01.png,Gemini_2_0_flash,a,Two matching symbols on the card.,0.0,a,All same,1.0
+1,A,test,02.png,Gemini_2_0_flash,a,Two matching symbols on the card.,0.0,a,All same,1.0
+1,A,test,03.png,Gemini_2_0_flash,b,Two different symbols on the card.,0.0,b,All different,1.0
+1,A,test,04.png,Gemini_2_0_flash,b,Two different symbols on the card.,0.0,b,All different,1.0
+1,A,test,05.png,Gemini_2_0_flash,a,Two matching symbols on the card.,0.0,a,All same,1.0
+1,A,test,06.png,Gemini_2_0_flash,a,Two matching symbols on the card.,0.0,a,All same,1.0
+1,A,test,07.png,Gemini_2_0_flash,b,Two different symbols on the card.,0.0,b,All different,1.0
+1,A,test,08.png,Gemini_2_0_flash,b,Two different symbols on the card.,0.0,b,All different,1.0
+1,A,test,09.png,Gemini_2_0_flash,a,Two matching symbols on the card.,0.0,a,All same,1.0
+1,A,test,10.png,Gemini_2_0_flash,b,Two different symbols on the card.,0.0,b,All different,1.0
+1,A,test,01.png,Gemini_2_0_flash,b,No shared shapes with card a.,0.0,a,All different,1.0
+1,A,test,02.png,Gemini_2_0_flash,b,No shared shapes with card a.,0.0,a,All different,0.0
+1,A,test,03.png,Gemini_2_0_flash,b,No shared shapes with card a.,0.0,b,All different,0.0
+1,A,test,04.png,Gemini_2_0_flash,b,No shared shapes with card a.,0.0,b,All different,0.0
+1,A,test,05.png,Gemini_2_0_flash,b,No shared shapes with card a.,0.0,a,All different,0.0
+1,A,test,06.png,Gemini_2_0_flash,a,Contains same object in both locations.,0.0,a,All same,1.0
+1,A,test,07.png,Gemini_2_0_flash,b,No shared shapes with card a.,0.0,b,All different,0.0
+1,A,test,08.png,Gemini_2_0_flash,b,No shared shapes with card a.,0.0,b,All different,0.0
+1,A,test,09.png,Gemini_2_0_flash,a,Contains same object in both locations.,0.0,a,All same,1.0
+1,A,test,10.png,Gemini_2_0_flash,b,No shared shapes with card a.,0.0,b,All different,0.0
+1,A,test,01.png,Gemini_2_0_flash,b,Both have a symbol at the top and bottom of the card.,0.0,a,All different,0.0
+1,A,test,02.png,Gemini_2_0_flash,b,Both have a symbol at the top and bottom of the card.,0.0,a,All different,0.0
+1,A,test,03.png,Gemini_2_0_flash,b,Both have a symbol at the top and bottom of the card.,0.0,b,All different,0.0
+1,A,test,04.png,Gemini_2_0_flash,b,Both have a symbol at the top and bottom of the card.,0.0,b,All different,0.0
+1,A,test,05.png,Gemini_2_0_flash,b,Both have a symbol at the top and bottom of the card.,0.0,a,All different,0.0
+1,A,test,06.png,Gemini_2_0_flash,a,Both have a symbol at the top and bottom of the card.,0.0,a,All same,0.0
+1,A,test,07.png,Gemini_2_0_flash,b,Both have a symbol at the top and bottom of the card.,0.0,b,All different,0.0
+1,A,test,08.png,Gemini_2_0_flash,b,Both have a symbol at the top and bottom of the card.,0.0,b,All different,0.0
+1,A,test,09.png,Gemini_2_0_flash,a,Both have a symbol at the top and bottom of the card.,0.0,a,All same,0.0
+1,A,test,10.png,Gemini_2_0_flash,b,Both have a symbol at the top and bottom of the card.,0.0,b,All different,0.0
+1,A,test,01.png,Gemini_2_0_flash,b,because the shapes on the corners are different from card a,0.0,a,All different,1.0
+1,A,test,02.png,Gemini_2_0_flash,a,because the shapes on the corners are different from card b,0.0,a,All same,1.0
+1,A,test,03.png,Gemini_2_0_flash,b,because the shapes on the corners are different from card a,0.0,b,All different,1.0
+1,A,test,04.png,Gemini_2_0_flash,b,because the shapes on the corners are different from card a,0.0,b,All different,1.0
+1,A,test,05.png,Gemini_2_0_flash,a,because the shapes on the corners are different from card b,0.0,a,All same,1.0
+1,A,test,06.png,Gemini_2_0_flash,a,because the shapes on the corners are different from card b,0.0,a,All same,1.0
+1,A,test,07.png,Gemini_2_0_flash,b,because the shapes on the corners are different from card a,0.0,b,All different,1.0
+1,A,test,08.png,Gemini_2_0_flash,b,because the shapes on the corners are different from card a,0.0,b,All different,1.0
+1,A,test,09.png,Gemini_2_0_flash,a,because the shapes on the corners are different from card b,0.0,a,All same,1.0
+1,A,test,10.png,Gemini_2_0_flash,b,because the shapes on the corners are different from card a,0.0,b,All different,1.0
+1,A,test,01.png,Gemini_2_0_flash,b,because the symbols in the card from the prompt have a similar style and placement to those in card b.,0.0,a,All different,0.0
+1,A,test,02.png,Gemini_2_0_flash,a,because the symbols in the card from the prompt have a similar style and placement to those in card a.,0.0,a,All same,0.0
+1,A,test,03.png,Gemini_2_0_flash,b,because the symbols in the card from the prompt have a similar style and placement to those in card b.,0.0,b,All different,0.0
+1,A,test,04.png,Gemini_2_0_flash,b,because the symbols in the card from the prompt have a similar style and placement to those in card b.,0.0,b,All different,0.0
+1,A,test,05.png,Gemini_2_0_flash,a,because the symbols in the card from the prompt have a similar style and placement to those in card a.,0.0,a,All same,0.0
+1,A,test,06.png,Gemini_2_0_flash,a,because the symbols in the card from the prompt have a similar style and placement to those in card a.,0.0,a,All same,0.0
+1,A,test,07.png,Gemini_2_0_flash,b,because the symbols in the card from the prompt have a similar style and placement to those in card b.,0.0,b,All different,0.0
+1,A,test,08.png,Gemini_2_0_flash,b,because the symbols in the card from the prompt have a similar style and placement to those in card b.,0.0,b,All different,0.0
+1,A,test,09.png,Gemini_2_0_flash,a,because the symbols in the card from the prompt have a similar style and placement to those in card a.,0.0,a,All same,0.0
+1,A,test,10.png,Gemini_2_0_flash,b,because the symbols in the card from the prompt have a similar style and placement to those in card b.,0.0,b,All different,0.0
+1,A,test,01.png,Gemini_2_0_flash,a,The card has the same layout/structure with two objects at opposite corners.,0.0,a,All same,0.0
+1,A,test,02.png,Gemini_2_0_flash,a,The card has the same layout/structure with two objects at opposite corners.,0.0,a,All same,0.0
+1,A,test,03.png,Gemini_2_0_flash,b,The card has two objects in opposite corners.,0.0,b,All different,0.0
+1,A,test,04.png,Gemini_2_0_flash,b,The card has two objects in opposite corners.,0.0,b,All different,0.0
+1,A,test,05.png,Gemini_2_0_flash,a,The card has the same layout/structure with two objects at opposite corners.,0.0,a,All same,0.0
+1,A,test,06.png,Gemini_2_0_flash,a,The card has the same layout/structure with two objects at opposite corners.,0.0,a,All same,0.0
+1,A,test,07.png,Gemini_2_0_flash,b,The card has two objects in opposite corners.,0.0,b,All different,0.0
+1,A,test,08.png,Gemini_2_0_flash,b,The card has two objects in opposite corners.,0.0,b,All different,0.0
+1,A,test,09.png,Gemini_2_0_flash,a,The card has the same layout/structure with two objects at opposite corners.,0.0,a,All same,0.0
+1,A,test,10.png,Gemini_2_0_flash,b,The card has two objects in opposite corners.,0.0,b,All different,0.0
+1,A,test,01.png,Gemini_2_0_flash,a,The shapes are repeated on both cards.,0.0,a,All same,0.0
+1,A,test,02.png,Gemini_2_0_flash,a,The shapes are repeated on both cards.,0.0,a,All same,0.0
+1,A,test,03.png,Gemini_2_0_flash,a,The shapes are repeated on both cards.,0.0,b,All same,0.0
+1,A,test,04.png,Gemini_2_0_flash,a,The shapes are repeated on both cards.,0.0,b,All same,0.0
+1,A,test,05.png,Gemini_2_0_flash,a,The shapes are repeated on both cards.,0.0,a,All same,0.0
+1,A,test,06.png,Gemini_2_0_flash,a,The shapes are repeated on both cards.,0.0,a,All same,0.0
+1,A,test,07.png,Gemini_2_0_flash,a,The shapes are repeated on both cards.,0.0,b,All same,0.0
+1,A,test,08.png,Gemini_2_0_flash,a,The shapes are repeated on both cards.,0.0,b,All same,0.0
+1,A,test,09.png,Gemini_2_0_flash,a,The shapes are repeated on both cards.,0.0,a,All same,0.0
+1,A,test,10.png,Gemini_2_0_flash,a,The shapes are repeated on both cards.,0.0,b,All same,0.0
+1,A,test,01.png,Gemini_2_0_flash,b,The shapes are in similar positions on the card.,0.0,a,All different,0.0
+1,A,test,02.png,Gemini_2_0_flash,a,The shapes are in similar positions on the card.,0.0,a,All same,0.0
+1,A,test,03.png,Gemini_2_0_flash,b,The shapes are in similar positions on the card.,0.0,b,All different,0.0
+1,A,test,04.png,Gemini_2_0_flash,b,The shapes are in similar positions on the card.,0.0,b,All different,0.0
+1,A,test,05.png,Gemini_2_0_flash,a,The shapes are in similar positions on the card.,0.0,a,All same,0.0
+1,A,test,06.png,Gemini_2_0_flash,a,The shapes are in similar positions on the card.,0.0,a,All same,0.0
+1,A,test,07.png,Gemini_2_0_flash,b,The shapes are in similar positions on the card.,0.0,b,All different,0.0
+1,A,test,08.png,Gemini_2_0_flash,b,The shapes are in similar positions on the card.,0.0,b,All different,0.0
+1,A,test,09.png,Gemini_2_0_flash,a,The shapes are in similar positions on the card.,0.0,a,All same,0.0
+1,A,test,10.png,Gemini_2_0_flash,b,The shapes are in similar positions on the card.,0.0,b,All different,0.0
+1,A,test,01.png,Gemini_2_0_flash,a,The card has the same layout as card a (two identical symbols on opposite corners).,0.0,a,All same,1.0
+1,A,test,02.png,Gemini_2_0_flash,a,The card has the same layout as card a (two identical symbols on opposite corners).,0.0,a,All same,1.0
+1,A,test,03.png,Gemini_2_0_flash,b,The card has the same layout as card b (two distinct symbols on opposite corners).,0.0,b,All different,1.0
+1,A,test,04.png,Gemini_2_0_flash,b,The card has the same layout as card b (a symbol and a paw).,0.0,b,All different,0.0
+1,A,test,05.png,Gemini_2_0_flash,a,The card has the same layout as card a (two identical symbols on opposite corners).,0.0,a,All same,1.0
+1,A,test,06.png,Gemini_2_0_flash,a,The card has the same layout as card a (two identical symbols on opposite corners).,0.0,a,All same,1.0
+1,A,test,07.png,Gemini_2_0_flash,b,The card has the same layout as card b (two distinct symbols on opposite corners).,0.0,b,All different,1.0
+1,A,test,08.png,Gemini_2_0_flash,b,The card has the same layout as card b (two distinct symbols on opposite corners).,0.0,b,All different,1.0
+1,A,test,09.png,Gemini_2_0_flash,a,The card has the same layout as card a (two identical symbols on opposite corners).,0.0,a,All same,1.0
+1,A,test,10.png,Gemini_2_0_flash,b,The card has the same layout as card b (two distinct symbols on opposite corners).,0.0,b,All different,1.0
+1,B,test,01.png,Gemini_2_5_flash,a,"The card features two distinct, non-abstract icons, similar to card ""a"".",0.0,a,All different,1.0
+1,B,test,02.png,Gemini_2_5_flash,b,"The card features identical shapes arranged symmetrically, similar to card ""b"".",0.0,b,All same,1.0
+1,B,test,03.png,Gemini_2_5_flash,b,"The card features identical abstract shapes arranged symmetrically, similar to card ""b"".",0.0,b,All same,1.0
+1,B,test,04.png,Gemini_2_5_flash,a,"The card features two distinct, non-abstract icons, similar to card ""a"".",0.0,a,All different,1.0
+1,B,test,05.png,Gemini_2_5_flash,b,"The card features identical icons arranged symmetrically, similar to card ""b"".",0.0,b,All same,1.0
+1,B,test,06.png,Gemini_2_5_flash,b,"The card features identical icons arranged symmetrically, similar to card ""b"".",0.0,b,All same,1.0
+1,B,test,07.png,Gemini_2_5_flash,b,"The card features identical icons arranged symmetrically, similar to card ""b"".",0.0,b,All same,1.0
+1,B,test,08.png,Gemini_2_5_flash,a,"The card features two distinct, non-abstract icons, similar to card ""a"".",0.0,a,All different,1.0
+1,B,test,09.png,Gemini_2_5_flash,a,"The card features two distinct, non-abstract icons, similar to card ""a"".",0.0,a,All different,1.0
+1,B,test,10.png,Gemini_2_5_flash,a,"The card features two distinct, non-abstract icons, similar to card ""a"".",0.0,a,All different,1.0
+1,B,test,01.png,Gemini_2_5_flash,a,"It has two distinct, non-overlapping icons, similar to card ""a"".",0.0,a,All different,1.0
+1,B,test,02.png,Gemini_2_5_flash,b,"It features multiple instances of the same icon arranged symmetrically, similar to card ""b"".",0.0,b,All same,1.0
+1,B,test,03.png,Gemini_2_5_flash,b,"It features two identical icons arranged symmetrically, consistent with card ""b"".",0.0,b,All same,1.0
+1,B,test,04.png,Gemini_2_5_flash,a,"It has two distinct, non-overlapping icons, similar to card ""a"".",0.0,a,All different,1.0
+1,B,test,05.png,Gemini_2_5_flash,b,"It features two identical icons arranged symmetrically, consistent with card ""b"".",0.0,b,All same,1.0
+1,B,test,06.png,Gemini_2_5_flash,b,"It features two identical icons arranged symmetrically, consistent with card ""b"".",0.0,b,All same,1.0
+1,B,test,07.png,Gemini_2_5_flash,b,"It features two identical icons arranged symmetrically, consistent with card ""b"".",0.0,b,All same,1.0
+1,B,test,08.png,Gemini_2_5_flash,a,"It has two distinct, non-overlapping icons, similar to card ""a"".",0.0,a,All different,1.0
+1,B,test,09.png,Gemini_2_5_flash,a,"It has two distinct, non-overlapping icons, similar to card ""a"".",0.0,a,All different,1.0
+1,B,test,10.png,Gemini_2_5_flash,a,"It has two distinct, non-overlapping icons, similar to card ""a"".",0.0,a,All different,1.0
+1,B,test,01.png,Gemini_2_5_flash,a,"It features two distinct, unrelated icons, similar to card ""a"".",0.0,a,All different,1.0
+1,B,test,02.png,Gemini_2_5_flash,b,"It features two identical sets of icons placed diagonally, similar to card ""b"".",0.0,b,All same,1.0
+1,B,test,03.png,Gemini_2_5_flash,b,"It features two identical icons placed diagonally, similar to card ""b"".",0.0,b,All same,1.0
+1,B,test,04.png,Gemini_2_5_flash,a,"It features two distinct, unrelated icons, similar to card ""a"".",0.0,a,All different,1.0
+1,B,test,05.png,Gemini_2_5_flash,b,"It features two identical icons placed diagonally, similar to card ""b"".",0.0,b,All same,1.0
+1,B,test,06.png,Gemini_2_5_flash,b,"It features two identical icons placed diagonally, similar to card ""b"".",0.0,b,All same,1.0
+1,B,test,07.png,Gemini_2_5_flash,b,"It features two identical icons placed diagonally, similar to card ""b"".",0.0,b,All same,1.0
+1,B,test,08.png,Gemini_2_5_flash,a,"It features two distinct, unrelated icons, similar to card ""a"".",0.0,a,All different,1.0
+1,B,test,09.png,Gemini_2_5_flash,a,"It features two distinct, unrelated icons, similar to card ""a"".",0.0,a,All different,1.0
+1,B,test,10.png,Gemini_2_5_flash,a,"It features two distinct, unrelated icons, similar to card ""a"".",0.0,a,All different,1.0
+1,B,test,01.png,Gemini_2_5_flash,a,"The card contains distinct, recognizable icons, similar to card ""a"".",0.0,a,All different,1.0
+1,B,test,02.png,Gemini_2_5_flash,b,"The card features repeated, identical, and somewhat blurred shapes, similar to card ""b"".",0.0,b,All same,1.0
+1,B,test,03.png,Gemini_2_5_flash,b,"The card features repeated, identical, and somewhat blurred shapes, similar to card ""b"".",0.0,b,All same,1.0
+1,B,test,04.png,Gemini_2_5_flash,a,"The card contains distinct, recognizable icons, similar to card ""a"".",0.0,a,All different,1.0
+1,B,test,05.png,Gemini_2_5_flash,b,"The card features repeated, identical icons placed symmetrically, similar to card ""b"".",0.0,b,All same,1.0
+1,B,test,06.png,Gemini_2_5_flash,b,"The card features repeated, identical icons placed symmetrically, similar to card ""b"".",0.0,b,All same,1.0
+1,B,test,07.png,Gemini_2_5_flash,b,"The card features repeated, identical icons placed symmetrically, similar to card ""b"".",0.0,b,All same,1.0
+1,B,test,08.png,Gemini_2_5_flash,a,"The card contains two different, distinct icons, similar to card ""a"".",0.0,a,All different,1.0
+1,B,test,09.png,Gemini_2_5_flash,a,"The card contains two different, distinct icons, similar to card ""a"".",0.0,a,All different,1.0
+1,B,test,10.png,Gemini_2_5_flash,a,"The card contains two different, distinct icons, similar to card ""a"".",0.0,a,All different,1.0
+1,B,test,01.png,Gemini_2_5_flash,a,"It contains two distinct object icons, similar to card ""a"".",0.0,a,All different,1.0
+1,B,test,02.png,Gemini_2_5_flash,b,"It features two sets of the same icon, similar to card ""b"".",0.0,b,All same,1.0
+1,B,test,03.png,Gemini_2_5_flash,b,"It features two identical icons, similar to card ""b"".",0.0,b,All same,1.0
+1,B,test,04.png,Gemini_2_5_flash,a,"It contains two different icons, similar to card ""a"".",0.0,a,All different,1.0
+1,B,test,05.png,Gemini_2_5_flash,b,"It features two identical icons, similar to card ""b"".",0.0,b,All same,1.0
+1,B,test,06.png,Gemini_2_5_flash,b,"It features two identical icons, similar to card ""b"".",0.0,b,All same,1.0
+1,B,test,07.png,Gemini_2_5_flash,b,"It features two identical icons, similar to card ""b"".",0.0,b,All same,1.0
+1,B,test,08.png,Gemini_2_5_flash,a,"It contains two different icons, similar to card ""a"".",0.0,a,All different,1.0
+1,B,test,09.png,Gemini_2_5_flash,a,"It contains two different icons, similar to card ""a"".",0.0,a,All different,1.0
+1,B,test,10.png,Gemini_2_5_flash,a,"It contains two different icons, similar to card ""a"".",0.0,a,All different,1.0
+1,B,test,01.png,Gemini_2_5_flash,a,"It features two different, distinct, and meaningful icons.",0.0,a,All different,1.0
+1,B,test,02.png,Gemini_2_5_flash,b,It features two identical sets of icons in opposite corners.,0.0,b,All same,1.0
+1,B,test,03.png,Gemini_2_5_flash,b,It features two identical shapes in opposite corners.,0.0,b,All same,1.0
+1,B,test,04.png,Gemini_2_5_flash,a,"It features two different, distinct, and meaningful icons.",0.0,a,All different,1.0
+1,B,test,05.png,Gemini_2_5_flash,b,It features two identical icons in opposite corners.,0.0,b,All same,1.0
+1,B,test,06.png,Gemini_2_5_flash,b,It features two identical icons in opposite corners.,0.0,b,All same,1.0
+1,B,test,07.png,Gemini_2_5_flash,b,It features two identical icons in opposite corners.,0.0,b,All same,1.0
+1,B,test,08.png,Gemini_2_5_flash,a,"It features two different, distinct, and meaningful icons.",0.0,a,All different,1.0
+1,B,test,09.png,Gemini_2_5_flash,a,"It features two different, distinct, and meaningful icons.",0.0,a,All different,1.0
+1,B,test,10.png,Gemini_2_5_flash,a,"It features two different, distinct, and meaningful icons.",0.0,a,All different,1.0
+1,B,test,01.png,Gemini_2_5_flash,a,"It contains clear, identifiable icons and shapes, similar to card ""a"".",0.0,a,All different,0.0
+1,B,test,02.png,Gemini_2_5_flash,b,"It features blurred, abstract shapes arranged symmetrically, like card ""b"".",0.0,b,All same,0.0
+1,B,test,03.png,Gemini_2_5_flash,b,"It features blurred, abstract shapes arranged symmetrically, similar to card ""b"".",0.0,b,All same,0.0
+1,B,test,04.png,Gemini_2_5_flash,a,"It contains clear, identifiable icons, similar to card ""a"".",0.0,a,All different,0.0
+1,B,test,05.png,Gemini_2_5_flash,a,"It contains clear, identifiable icons, similar to card ""a"", even if arranged symmetrically.",0.0,b,All different,0.0
+1,B,test,06.png,Gemini_2_5_flash,b,"It features blurred shapes, similar to card ""b"".",0.0,b,All same,0.0
+1,B,test,07.png,Gemini_2_5_flash,a,"It contains clear, identifiable icons, similar to card ""a"", despite the symmetric arrangement.",0.0,b,All different,0.0
+1,B,test,08.png,Gemini_2_5_flash,a,"It contains clear, identifiable icons, similar to card ""a"", despite the symmetric arrangement and slight blur.",0.0,a,All different,0.0
+1,B,test,09.png,Gemini_2_5_flash,a,"It contains clear, identifiable icons, similar to card ""a"".",0.0,a,All different,0.0
+1,B,test,10.png,Gemini_2_5_flash,a,"It contains clear, identifiable icons and shapes, similar to card ""a"".",0.0,a,All different,0.0
+1,B,test,01.png,Gemini_2_5_flash,b,"The card contains a blurred shape, which aligns with the visual style of card 'b'.",0.0,a,All same,0.0
+1,B,test,02.png,Gemini_2_5_flash,b,"The card contains blurred shapes, similar to the style of card 'b'.",0.0,b,All same,0.0
+1,B,test,03.png,Gemini_2_5_flash,b,"The card contains blurred, abstract shapes, consistent with card 'b'.",0.0,b,All same,0.0
+1,B,test,04.png,Gemini_2_5_flash,b,"The card contains blurred shapes/icons, which is consistent with the style of card 'b'.",0.0,a,All same,0.0
+1,B,test,05.png,Gemini_2_5_flash,a,"The card contains clear, distinct icons, similar to card 'a'.",0.0,b,All different,1.0
+1,B,test,06.png,Gemini_2_5_flash,b,"The card contains blurred icons, consistent with the style of card 'b'.",0.0,b,All same,0.0
+1,B,test,07.png,Gemini_2_5_flash,b,"The card contains blurred icons, consistent with the visual style of card 'b'.",0.0,b,All same,0.0
+1,B,test,08.png,Gemini_2_5_flash,b,"The card contains blurred icons, consistent with the visual style of card 'b'.",0.0,a,All same,0.0
+1,B,test,09.png,Gemini_2_5_flash,a,"The card contains clear, distinct icons, similar to card 'a'.",0.0,a,All different,1.0
+1,B,test,10.png,Gemini_2_5_flash,b,"The card contains blurred shapes/icons, consistent with the style of card 'b'.",0.0,a,All same,0.0
+1,B,test,01.png,Gemini_2_5_flash,a,"The icons are distinct and different from each other, similar to card ""a"", and not blurred or identical like card ""b"".",0.0,a,All different,1.0
+1,B,test,02.png,Gemini_2_5_flash,b,"The card features identical, somewhat blurred icons in a mirrored arrangement, similar to card ""b"".",0.0,b,All same,1.0
+1,B,test,03.png,Gemini_2_5_flash,b,"The card features identical, blurred shapes in a mirrored arrangement, similar to card ""b"".",0.0,b,All same,1.0
+1,B,test,04.png,Gemini_2_5_flash,a,"The icons are distinct and different from each other, similar to card ""a"", and not blurred or identical like card ""b"".",0.0,a,All different,1.0
+1,B,test,05.png,Gemini_2_5_flash,b,"The card features identical megaphone icons in a mirrored arrangement, which aligns with the pattern of card ""b"".",0.0,b,All same,1.0
+1,B,test,06.png,Gemini_2_5_flash,b,"The card features identical, somewhat blurred speaker icons in a mirrored arrangement, similar to card ""b"".",0.0,b,All same,1.0
+1,B,test,07.png,Gemini_2_5_flash,b,"The card features identical, somewhat blurred trash can icons in a mirrored arrangement, similar to card ""b"".",0.0,b,All same,1.0
+1,B,test,08.png,Gemini_2_5_flash,a,"The icons are distinct and different from each other, similar to card ""a"", and not identical like card ""b"".",0.0,a,All different,1.0
+1,B,test,09.png,Gemini_2_5_flash,a,"The icons are distinct and different from each other, similar to card ""a"", and not blurred or identical like card ""b"".",0.0,a,All different,1.0
+1,B,test,10.png,Gemini_2_5_flash,a,"The icons are distinct and different from each other, similar to card ""a"", and not blurred or identical like card ""b"".",0.0,a,All different,1.0
+1,B,test,01.png,Gemini_2_5_flash,a,"The card contains two different recognizable objects, similar to card 'a' which has a drone and people.",0.0,a,All different,1.0
+1,B,test,02.png,Gemini_2_5_flash,b,"The card contains multiple instances of the same object type arranged diagonally, similar to card 'b'.",0.0,b,All same,1.0
+1,B,test,03.png,Gemini_2_5_flash,b,"The card contains multiple instances of the same object type arranged diagonally, similar to card 'b'.",0.0,b,All same,1.0
+1,B,test,04.png,Gemini_2_5_flash,a,"The card contains two different recognizable objects, similar to card 'a' which has a drone and people.",0.0,a,All different,1.0
+1,B,test,05.png,Gemini_2_5_flash,b,"The card contains multiple instances of the same object type arranged diagonally, similar to card 'b'.",0.0,b,All same,1.0
+1,B,test,06.png,Gemini_2_5_flash,b,"The card contains multiple instances of the same object type arranged diagonally, similar to card 'b'.",0.0,b,All same,1.0
+1,B,test,07.png,Gemini_2_5_flash,b,"The card contains multiple instances of the same object type arranged diagonally, similar to card 'b'.",0.0,b,All same,1.0
+1,B,test,08.png,Gemini_2_5_flash,a,"The card contains two different recognizable objects, similar to card 'a' which has a drone and people.",0.0,a,All different,1.0
+1,B,test,09.png,Gemini_2_5_flash,a,"The card contains two different recognizable objects, similar to card 'a' which has a drone and people.",0.0,a,All different,1.0
+1,B,test,10.png,Gemini_2_5_flash,a,"The card contains two different recognizable objects, similar to card 'a' which has a drone and people.",0.0,a,All different,1.0
+1,B,test,01.png,Gemini_2_0_flash,a,The card has two distinct symbols.,0.0,a,All different,1.0
+1,B,test,02.png,Gemini_2_0_flash,b,The card has the same symbol repeated.,0.0,b,All same,1.0
+1,B,test,03.png,Gemini_2_0_flash,b,It contains two of the same shapes.,0.0,b,All same,1.0
+1,B,test,04.png,Gemini_2_0_flash,a,It has two distinct symbols.,0.0,a,All different,1.0
+1,B,test,05.png,Gemini_2_0_flash,b,The card has the same symbol repeated.,0.0,b,All same,1.0
+1,B,test,06.png,Gemini_2_0_flash,b,The card contains a repetition of the same symbol.,0.0,b,All same,1.0
+1,B,test,07.png,Gemini_2_0_flash,b,The card contains two of the same symbol.,0.0,b,All same,1.0
+1,B,test,08.png,Gemini_2_0_flash,a,The card features two different symbols.,0.0,a,All different,1.0
+1,B,test,09.png,Gemini_2_0_flash,a,The card contains two different symbols.,0.0,a,All different,1.0
+1,B,test,10.png,Gemini_2_0_flash,a,The card contains two distinct symbols.,0.0,a,All different,1.0
+1,B,test,01.png,Gemini_2_0_flash,a,It has two gray icons.,0.0,a,All different,0.0
+1,B,test,02.png,Gemini_2_0_flash,b,It has two gray icons.,0.0,b,All same,0.0
+1,B,test,03.png,Gemini_2_0_flash,b,It has two gray icons.,0.0,b,All same,0.0
+1,B,test,04.png,Gemini_2_0_flash,a,It has two gray icons.,0.0,a,All different,0.0
+1,B,test,05.png,Gemini_2_0_flash,b,It has two gray icons.,0.0,b,All same,0.0
+1,B,test,06.png,Gemini_2_0_flash,b,It has two gray icons.,0.0,b,All same,0.0
+1,B,test,07.png,Gemini_2_0_flash,b,It has two gray icons.,0.0,b,All same,0.0
+1,B,test,08.png,Gemini_2_0_flash,a,It has two gray icons.,0.0,a,All different,0.0
+1,B,test,09.png,Gemini_2_0_flash,a,It has two gray icons.,0.0,a,All different,0.0
+1,B,test,10.png,Gemini_2_0_flash,a,It has two gray icons.,0.0,a,All different,0.0
+1,B,test,01.png,Gemini_2_0_flash,a,The shapes on the card do not match card b.,0.0,a,All different,1.0
+1,B,test,02.png,Gemini_2_0_flash,a,The shapes on the card do not match card b.,0.0,b,All different,0.0
+1,B,test,03.png,Gemini_2_0_flash,b,The shapes on the card match the layout of card b.,0.0,b,All same,0.0
+1,B,test,04.png,Gemini_2_0_flash,a,The shapes on the card do not match card b.,0.0,a,All different,0.0
+1,B,test,05.png,Gemini_2_0_flash,b,The shapes on the card match the layout of card b.,0.0,b,All same,0.0
+1,B,test,06.png,Gemini_2_0_flash,b,The shapes on the card match the layout of card b.,0.0,b,All same,0.0
+1,B,test,07.png,Gemini_2_0_flash,b,The shapes on the card match the layout of card b.,0.0,b,All same,0.0
+1,B,test,08.png,Gemini_2_0_flash,b,The shapes on the card match the layout of card b.,0.0,a,All same,0.0
+1,B,test,09.png,Gemini_2_0_flash,a,The shapes on the card do not match card b.,0.0,a,All different,1.0
+1,B,test,10.png,Gemini_2_0_flash,a,The shapes on the card do not match card b.,0.0,a,All different,1.0
+1,B,test,01.png,Gemini_2_0_flash,b,It has two shapes.,0.0,a,All same,0.0
+1,B,test,02.png,Gemini_2_0_flash,b,It contains two shapes.,0.0,b,All same,0.0
+1,B,test,03.png,Gemini_2_0_flash,b,It has two shapes.,0.0,b,All same,0.0
+1,B,test,04.png,Gemini_2_0_flash,a,It has two shapes.,0.0,a,All different,0.0
+1,B,test,05.png,Gemini_2_0_flash,b,It contains two shapes.,0.0,b,All same,0.0
+1,B,test,06.png,Gemini_2_0_flash,b,It contains two shapes.,0.0,b,All same,0.0
+1,B,test,07.png,Gemini_2_0_flash,b,It has two shapes.,0.0,b,All same,0.0
+1,B,test,08.png,Gemini_2_0_flash,b,It has two shapes.,0.0,a,All same,0.0
+1,B,test,09.png,Gemini_2_0_flash,a,It has two shapes.,0.0,a,All different,0.0
+1,B,test,10.png,Gemini_2_0_flash,a,It has two shapes.,0.0,a,All different,0.0
+1,B,test,01.png,Gemini_2_0_flash,a,"This card has two figures, similar to card ""a"".",0.0,a,All different,0.0
+1,B,test,02.png,Gemini_2_0_flash,b,"This card has two figures, similar to card ""b"".",0.0,b,All same,0.0
+1,B,test,03.png,Gemini_2_0_flash,b,"The card has two figures, similar to card ""b"".",0.0,b,All same,0.0
+1,B,test,04.png,Gemini_2_0_flash,a,"This card has two figures, like card ""a"".",0.0,a,All different,0.0
+1,B,test,05.png,Gemini_2_0_flash,b,"It has two figures, like card ""b"".",0.0,b,All same,0.0
+1,B,test,06.png,Gemini_2_0_flash,b,"The card contains two figures, similar to card ""b"".",0.0,b,All same,0.0
+1,B,test,07.png,Gemini_2_0_flash,b,"The card has two figures, like card ""b"".",0.0,b,All same,0.0
+1,B,test,08.png,Gemini_2_0_flash,a,"The card has two figures, similar to card ""a"".",0.0,a,All different,0.0
+1,B,test,09.png,Gemini_2_0_flash,a,"This card has two figures, like card ""a"".",0.0,a,All different,0.0
+1,B,test,10.png,Gemini_2_0_flash,a,"This card has two figures, similar to card ""a"".",0.0,a,All different,0.0
+1,B,test,01.png,Gemini_2_0_flash,b,"It has different grey icons, like card b.",0.0,a,All same,1.0
+1,B,test,02.png,Gemini_2_0_flash,b,It features two identical icons.,0.0,b,All same,1.0
+1,B,test,03.png,Gemini_2_0_flash,b,It has two of the same icons.,0.0,b,All same,1.0
+1,B,test,04.png,Gemini_2_0_flash,a,The card contains different icons at different locations on the card.,0.0,a,All different,1.0
+1,B,test,05.png,Gemini_2_0_flash,b,There are two of the same grey icons on the card.,0.0,b,All same,1.0
+1,B,test,06.png,Gemini_2_0_flash,b,There are two of the same icons on the card.,0.0,b,All same,1.0
+1,B,test,07.png,Gemini_2_0_flash,b,"This card contains two of the same icon, similar to card 'b'.",0.0,b,All same,1.0
+1,B,test,08.png,Gemini_2_0_flash,a,"This card has two different icons, similar to card 'a'.",0.0,a,All different,1.0
+1,B,test,09.png,Gemini_2_0_flash,a,"This card has two different icons in different positions, like card a.",0.0,a,All different,1.0
+1,B,test,10.png,Gemini_2_0_flash,a,"This card contains two different icons, similar to card 'a'.",0.0,a,All different,1.0
+1,B,test,01.png,Gemini_2_0_flash,b,It does not share any icons with card 'a'.,0.0,a,All same,0.0
+1,B,test,02.png,Gemini_2_0_flash,b,This card contains lightbulbs instead of the icons on card 'a'.,0.0,b,All same,0.0
+1,B,test,03.png,Gemini_2_0_flash,b,These icons are different from those on card 'a'.,0.0,b,All same,1.0
+1,B,test,04.png,Gemini_2_0_flash,b,The icons on this card are different from the icons on card 'a'.,0.0,a,All same,1.0
+1,B,test,05.png,Gemini_2_0_flash,b,"This card contains a megaphone/speaker icon, which isn't found in card 'a'.",0.0,b,All same,0.0
+1,B,test,06.png,Gemini_2_0_flash,b,"This card has a speaker icon, which doesn't appear on card 'a'.",0.0,b,All same,0.0
+1,B,test,07.png,Gemini_2_0_flash,b,"The card features trashcan icons, not present in reference card 'a'.",0.0,b,All same,0.0
+1,B,test,08.png,Gemini_2_0_flash,b,The icons in this card are different than the ones in card 'a'.,0.0,a,All same,1.0
+1,B,test,09.png,Gemini_2_0_flash,b,These icons are not the same as the ones on card 'a'.,0.0,a,All same,1.0
+1,B,test,10.png,Gemini_2_0_flash,b,This card contains icons that are not present in card 'a'.,0.0,a,All same,0.0
+1,B,test,01.png,Gemini_2_0_flash,b,It contains geometrical shapes.,0.0,a,All same,0.0
+1,B,test,02.png,Gemini_2_0_flash,b,It contains geometrical shapes.,0.0,b,All same,0.0
+1,B,test,03.png,Gemini_2_0_flash,b,It contains geometrical shapes.,0.0,b,All same,0.0
+1,B,test,04.png,Gemini_2_0_flash,a,"It contains objects and a group of people, like in card a.",0.0,a,All different,0.0
+1,B,test,05.png,Gemini_2_0_flash,a,"It contains objects, like in card a.",0.0,b,All different,0.0
+1,B,test,06.png,Gemini_2_0_flash,a,"It contains objects, like in card a.",0.0,b,All different,0.0
+1,B,test,07.png,Gemini_2_0_flash,a,"It contains objects, like in card a.",0.0,b,All different,0.0
+1,B,test,08.png,Gemini_2_0_flash,a,"It contains objects, like in card a.",0.0,a,All different,0.0
+1,B,test,09.png,Gemini_2_0_flash,a,"It contains objects, like in card a.",0.0,a,All different,0.0
+1,B,test,10.png,Gemini_2_0_flash,a,"It contains objects, like in card a.",0.0,a,All different,0.0
+1,B,test,01.png,Gemini_2_0_flash,a,This card has two different shapes in the corners like card a.,0.0,a,All different,1.0
+1,B,test,02.png,Gemini_2_0_flash,b,This card has the same shapes in opposite corners like card b.,0.0,b,All same,1.0
+1,B,test,03.png,Gemini_2_0_flash,b,This card has the same shapes in opposite corners like card b.,0.0,b,All same,1.0
+1,B,test,04.png,Gemini_2_0_flash,a,This card has two different shapes in the corners like card a.,0.0,a,All different,1.0
+1,B,test,05.png,Gemini_2_0_flash,b,This card has the same shapes in opposite corners like card b.,0.0,b,All same,1.0
+1,B,test,06.png,Gemini_2_0_flash,b,This card has the same shapes in opposite corners like card b.,0.0,b,All same,1.0
+1,B,test,07.png,Gemini_2_0_flash,b,This card has the same shapes in opposite corners like card b.,0.0,b,All same,1.0
+1,B,test,08.png,Gemini_2_0_flash,a,This card has two different shapes in the corners like card a.,0.0,a,All different,1.0
+1,B,test,09.png,Gemini_2_0_flash,a,This card has two different shapes in the corners like card a.,0.0,a,All different,1.0
+1,B,test,10.png,Gemini_2_0_flash,a,This card has two different shapes in the corners like card a.,0.0,a,All different,1.0
+1,B,test,01.png,Gemini_2_0_flash,b,The card has two shapes.,0.0,a,All same,0.0
+1,B,test,02.png,Gemini_2_0_flash,b,The card has two shapes.,0.0,b,All same,0.0
+1,B,test,03.png,Gemini_2_0_flash,b,The card has two shapes.,0.0,b,All same,0.0
+1,B,test,04.png,Gemini_2_0_flash,a,The card has two shapes.,0.0,a,All different,0.0
+1,B,test,05.png,Gemini_2_0_flash,b,The card has two shapes.,0.0,b,All same,0.0
+1,B,test,06.png,Gemini_2_0_flash,b,The card has two shapes.,0.0,b,All same,0.0
+1,B,test,07.png,Gemini_2_0_flash,b,The card has two shapes.,0.0,b,All same,0.0
+1,B,test,08.png,Gemini_2_0_flash,b,The card has two shapes.,0.0,a,All same,0.0
+1,B,test,09.png,Gemini_2_0_flash,a,The card has two shapes.,0.0,a,All different,0.0
+1,B,test,10.png,Gemini_2_0_flash,a,The card has two shapes.,0.0,a,All different,0.0
+1,B,test,01.png,GPT_o3,a,"card contains two different icons (megaphone and shield) like card a, whereas card b shows the same icon twice",9483.364485981308,a,All different,1.0
+1,B,test,02.png,GPT_o3,b,"the card displays the same icon (pair of light bulbs) twice, matching card b’s pattern of identical icons.",3737.055319148936,b,All same,1.0
+1,B,test,03.png,GPT_o3,b,"it has the same icon repeated twice, like card b.",3576.8,b,All same,1.0
+1,B,test,04.png,GPT_o3,a,"the two icons (flower/cross and house) are different, matching card a’s pattern of different icons.",4655.589743589743,a,All different,1.0
+1,B,test,05.png,GPT_o3,b,"same megaphone icon appears twice, matching card b’s repeated-icon pattern",5959.890410958904,b,All same,1.0
+1,B,test,06.png,GPT_o3,b,"the same speaker icon appears twice, matching card b’s repeated-icon pattern",4929.409691629956,b,All same,1.0
+1,B,test,07.png,GPT_o3,b,"the same trash-bin icon is shown twice, matching card b’s repeated-icon pattern",2023.2871287128712,b,All same,1.0
+1,B,test,08.png,GPT_o3,a,"the icons (folder and layout) are different, matching card a’s pattern of two distinct icons.",4063.238095238096,a,All different,1.0
+1,B,test,09.png,GPT_o3,a,"it shows two different icons (house and gear), matching card a’s two-distinct-icons pattern.",2568.5333333333333,a,All different,1.0
+1,B,test,10.png,GPT_o3,a,"it has two different icons (asterisk and dice), matching card a’s different-icon pattern.",5920.958083832335,a,All different,1.0
+1,B,test,01.png,GPT_o3,a,"it shows two different icons (megaphone and shield), matching card a’s pattern of two distinct symbols, whereas card b has the same symbol twice.",2932.558659217877,a,All different,1.0
+1,B,test,02.png,GPT_o3,b,"it repeats the same icon in both positions, like card b, whereas card a has two different icons.",3592.789699570816,b,All same,1.0
+1,B,test,03.png,GPT_o3,b,"the same icon is repeated in both positions, matching card b’s pattern of duplicate symbols.",4469.204819277108,b,All same,1.0
+1,B,test,04.png,GPT_o3,a,"two different icons are shown, fitting the pattern of card a.",3409.888198757764,a,All different,1.0
+1,B,test,05.png,GPT_o3,b,"the same megaphone icon appears in both positions, matching card b’s duplicate-symbol pattern.",3254.8571428571427,b,All same,1.0
+1,B,test,06.png,GPT_o3,b,"the same speaker icon appears in both positions, matching card b’s duplicate-symbol pattern.",4229.843478260869,b,All same,1.0
+1,B,test,07.png,GPT_o3,b,"identical trash-bin icons appear in both positions, matching card b’s duplicate-symbol pattern.",3546.443113772455,b,All same,1.0
+1,B,test,08.png,GPT_o3,a,"it has two different icons (folder and SD-card), which matches card a’s different-symbols pattern.",3792.410256410256,a,All different,1.0
+1,B,test,09.png,GPT_o3,a,two different icons (home and gear) match card a’s different-symbols pattern.,5690.181818181818,a,All different,1.0
+1,B,test,10.png,GPT_o3,a,two different icons (asterisk and dice) match card a’s different-symbols pattern,2723.4851485148515,a,All different,1.0
+1,B,test,01.png,GPT_o3,a,"it has two different icons, just like card “a”",12906.857142857143,a,All different,1.0
+1,B,test,02.png,GPT_o3,b,"two identical light-bulb icons, matching card “b” pattern",2910.5840707964603,b,All same,1.0
+1,B,test,03.png,GPT_o3,b,it shows two identical icons like card “b”,8026.810810810811,b,All same,1.0
+1,B,test,04.png,GPT_o3,a,"it shows two different icons, matching the pattern of card “a”",2712.4938271604938,a,All different,1.0
+1,B,test,05.png,GPT_o3,b,it has two identical megaphone icons like the identical‐icon pattern of card “b”,1318.5242718446602,b,All same,1.0
+1,B,test,06.png,GPT_o3,b,"the card shows two identical speaker icons, fitting the identical‐icon pattern of “b”",2989.803921568628,b,All same,1.0
+1,B,test,07.png,GPT_o3,b,"it has two identical trash-bin icons, matching the identical-icon pattern of card “b”",3664.0,b,All same,1.0
+1,B,test,08.png,GPT_o3,a,"it shows two different icons, like the mixed-icon pattern of card “a”",2982.012121212121,a,All different,1.0
+1,B,test,09.png,GPT_o3,a,two different icons (house and gear) like card “a”,0.0,a,All different,1.0
+1,B,test,10.png,GPT_o3,a,"it has two different icons, fitting the mixed-icon pattern of card “a”",4079.524752475248,a,All different,1.0
+1,B,test,01.png,GPT_o3,a,"it shows two different icons (megaphone and shield), like card “a”, whereas card “b” has two identical shapes.",6138.654292343387,a,All different,1.0
+1,B,test,02.png,GPT_o3,b,"both positions show the same light-bulb icon, matching card “b,” which has identical icons.",3187.124260355029,b,All same,1.0
+1,B,test,03.png,GPT_o3,b,"the same wavy rectangle icon appears at both positions, matching card “b,” which has identical icons.",3380.2603550295858,b,All same,1.0
+1,B,test,04.png,GPT_o3,a,"top and bottom icons are different, like card “a”.",3295.2,a,All different,1.0
+1,B,test,05.png,GPT_o3,b,"both positions have the same megaphone icon, matching the “identical icons” pattern of card b.",3251.95294117647,b,All same,1.0
+1,B,test,06.png,GPT_o3,b,"both positions display the same speaker icon, following the identical-icons pattern of card “b”.",3991.272727272728,b,All same,1.0
+1,B,test,07.png,GPT_o3,b,"both positions show the same trash-bin icon, matching card “b” which has identical icons.",6613.241379310345,b,All same,1.0
+1,B,test,08.png,GPT_o3,a,"the folder and card icons are different, matching the “two different icons” pattern of card a.",4247.172413793103,a,All different,1.0
+1,B,test,09.png,GPT_o3,a,"it has two different icons (house and gear), matching the “different icons” pattern of card a.",3871.05325443787,a,All different,1.0
+1,B,test,10.png,GPT_o3,a,"the top and bottom icons are different, matching the “different icons” pattern of card a.",2484.8155339805826,a,All different,1.0
+1,B,test,01.png,GPT_o3,a,"like card a, it shows two different icons (megaphone and shield) instead of two identical ones",4296.515021459228,a,All different,1.0
+1,B,test,02.png,GPT_o3,b,"it has the same icon repeated in two spots, like card b",3511.4666666666667,b,All same,1.0
+1,B,test,03.png,GPT_o3,b,"the same icon appears in both positions, matching card b’s pattern",4933.12,b,All same,1.0
+1,B,test,04.png,GPT_o3,a,"it shows two different icons, matching card a’s pattern of mixed images",3739.654320987656,a,All different,1.0
+1,B,test,05.png,GPT_o3,b,"both positions show the same megaphone icon, like card b’s identical-icons pattern",5113.878260869566,b,All same,1.0
+1,B,test,06.png,GPT_o3,b,"both spots show the same speaker icon, following the identical-icons pattern of card b",3709.672727272727,b,All same,1.0
+1,B,test,07.png,GPT_o3,b,"both positions have the same trash-can icon, matching card b’s identical-icons pattern",2620.86274509804,b,All same,1.0
+1,B,test,08.png,GPT_o3,a,it has two different icons (folder and another object) instead of two identical ones,4741.894736842105,a,All different,1.0
+1,B,test,09.png,GPT_o3,a,"it shows two different icons (house and gear), matching card a’s mixed-icons pattern",4209.349397590361,a,All different,1.0
+1,B,test,10.png,GPT_o3,a,"it has two different icons (asterisk and dice), matching card a’s mixed-icons pattern",8442.458100558659,a,All different,1.0
+1,B,test,01.png,GPT_o3,a,"it has two different icons (megaphone and shield), like card “a” which also shows two different icons.",5085.866666666667,a,All different,1.0
+1,B,test,02.png,GPT_o3,b,both instances show the same icon repeated twice.,6486.298642533937,b,All same,1.0
+1,B,test,03.png,GPT_o3,b,it repeats the same icon in both positions,2834.086956521739,b,All same,1.0
+1,B,test,04.png,GPT_o3,a,"it shows two different icons, matching the mixed-icon pattern of card “a”.",4650.105263157895,a,All different,1.0
+1,B,test,05.png,GPT_o3,b,"the same megaphone icon is repeated twice, like the identical-icon pattern on card “b”.",4994.482758620689,b,All same,1.0
+1,B,test,06.png,GPT_o3,b,"it shows the same speaker icon twice, matching the identical-icon pattern of card “b”.",7287.799442896936,b,All same,1.0
+1,B,test,07.png,GPT_o3,b,"the trash-can icon appears twice, matching the identical-icon pattern of card “b”.",2579.883495145631,b,All same,1.0
+1,B,test,08.png,GPT_o3,a,"it contains two different icons, matching the mixed-icon pattern of card “a”.",3899.733333333333,a,All different,1.0
+1,B,test,09.png,GPT_o3,a,"it has two different icons (house and gear), like card “a”.",5087.018404907975,a,All different,1.0
+1,B,test,10.png,GPT_o3,a,"two different icons are present, fitting the mixed-icon pattern of card “a”.",2874.181818181818,a,All different,1.0
+1,B,test,01.png,GPT_o3,a,"contains two different symbols (megaphone and shield), like card a which also has two different symbols, while card b has two identical symbols",6891.789473684211,a,All different,1.0
+1,B,test,02.png,GPT_o3,b,"both symbols are the same light-bulb shape, like card b which has two identical symbols",5584.479041916167,b,All same,1.0
+1,B,test,03.png,GPT_o3,b,"it has two identical shapes, matching card b’s pattern of duplicate symbols",3444.1481481481483,b,All same,1.0
+1,B,test,04.png,GPT_o3,a,"contains two different symbols (flower and house), like card a with mixed icons",4926.460481099656,a,All different,1.0
+1,B,test,05.png,GPT_o3,b,"it has two identical megaphone symbols, matching card b’s pattern of duplicate symbols",8407.808873720136,b,All same,1.0
+1,B,test,06.png,GPT_o3,b,"both images are the same speaker icon, matching card b’s two-identical-symbol pattern",2328.079207920792,b,All same,1.0
+1,B,test,07.png,GPT_o3,b,has two identical trash-bin symbols like card b’s duplicate-icon pattern,7294.429447852761,b,All same,1.0
+1,B,test,08.png,GPT_o3,a,"the two icons (folder and sim-card) are different, matching card a’s mixed-symbol pattern",3262.769230769231,a,All different,1.0
+1,B,test,09.png,GPT_o3,a,"two different symbols (house and gear), matching card a’s mixed-icon pattern",3382.3030303030305,a,All different,1.0
+1,B,test,10.png,GPT_o3,a,"contains two different symbols (asterisk and dice), like card a’s mixed-icon pattern",3261.2848484848487,a,All different,1.0
+1,B,test,01.png,GPT_o3,a,"it shows two different icons, while “b” cards have the same icon repeated",23328.192771084337,a,All different,1.0
+1,B,test,02.png,GPT_o3,b,"the same icon appears in both positions, matching card “b” pattern",12669.451327433628,b,All same,1.0
+1,B,test,03.png,GPT_o3,b,"the same icon appears twice on the card, just like in card “b”",3825.170731707317,b,All same,1.0
+1,B,test,04.png,GPT_o3,a,"the two positions show different icons (flower shape and house), matching card “a” pattern",4874.295652173913,a,All different,1.0
+1,B,test,05.png,GPT_o3,b,"the same megaphone icon appears in both positions, matching card “b” pattern",5263.290102389078,b,All same,1.0
+1,B,test,06.png,GPT_o3,b,"both positions have the same speaker icon, like the repeated-icon pattern of card “b”",2099.450980392157,b,All same,1.0
+1,B,test,07.png,GPT_o3,b,the same trash-bin icon appears in both positions,6423.351351351352,b,All same,1.0
+1,B,test,08.png,GPT_o3,a,"the icons at the two positions are different, matching the pattern of card “a”",27715.168316831685,a,All different,1.0
+1,B,test,09.png,GPT_o3,a,"the two positions contain different icons (house and gear), fitting card “a” pattern",2233.6633663366338,a,All different,1.0
+1,B,test,10.png,GPT_o3,a,the two positions show different icons (asterisk and dice stack),4945.066666666667,a,All different,1.0
+1,B,test,01.png,GPT_o3,a,"card has two different symbols, matching the pattern of card a",4845.428571428572,a,All different,1.0
+1,B,test,02.png,GPT_o3,b,"both positions show the same icon (a pair of light-bulbs), matching card b’s “identical icons” pattern",4480.53781512605,b,All same,1.0
+1,B,test,03.png,GPT_o3,b,"both spots contain the same icon, matching card b’s “identical symbols” pattern",5941.064425770308,b,All same,1.0
+1,B,test,04.png,GPT_o3,a,"the two positions contain different icons, matching card a’s “two distinct symbols” pattern",3630.545454545456,a,All different,1.0
+1,B,test,05.png,GPT_o3,b,"the same megaphone icon appears in both spots, matching card b’s “identical symbols” pattern",4608.0,b,All same,1.0
+1,B,test,06.png,GPT_o3,b,"both positions show the same speaker icon, fitting card b’s “identical symbols” pattern",3449.8313253012047,b,All same,1.0
+1,B,test,07.png,GPT_o3,b,"both spots show the same trash-can icon, matching card b’s identical-symbols pattern",2406.274509803922,b,All same,1.0
+1,B,test,08.png,GPT_o3,a,"the two positions have different icons, fitting card a’s “two distinct symbols” pattern",3666.4454148471614,a,All different,1.0
+1,B,test,09.png,GPT_o3,a,"two different icons (house and gear), matching card a’s pattern",5397.465838509317,a,All different,1.0
+1,B,test,10.png,GPT_o3,a,"two different icons (asterisk and dice), matching card a’s “two distinct symbols” pattern",5969.572881355933,a,All different,1.0
+1,B,test,01.png,GPT_o3,a,"it contains two different symbols (megaphone and shield), matching card a’s pattern of mixed icons, while card b shows two identical ones.",8303.004149377593,a,All different,1.0
+1,B,test,02.png,GPT_o3,b,"the card repeats the same light-bulb icon twice, matching card b’s pattern of identical symbols.",4932.963988919668,b,All same,1.0
+1,B,test,03.png,GPT_o3,b,"the same wavy block icon appears twice, fitting b’s “two identical symbols” rule.",0.0,b,All same,1.0
+1,B,test,04.png,GPT_o3,a,"it has two different symbols (flower-like shape and house), matching card a’s mix of distinct icons.",2493.741176470588,a,All different,1.0
+1,B,test,05.png,GPT_o3,b,"it shows the same megaphone icon twice, fitting the “two identical symbols” pattern of card b.",4353.641025641025,b,All same,1.0
+1,B,test,06.png,GPT_o3,b,"it repeats the same speaker icon twice, matching card b’s identical-symbols pattern.",5517.694323144105,b,All same,1.0
+1,B,test,07.png,GPT_o3,b,"the card has two identical trash-bin icons, matching card b’s identical-symbols pattern.",8372.501694915254,b,All same,1.0
+1,B,test,08.png,GPT_o3,a,"it has two different symbols (folder and another shape), fitting card a’s “mixed icons” rule.",7232.354570637119,a,All different,1.0
+1,B,test,09.png,GPT_o3,a,"it shows two different icons (house and gear), matching card a’s mixed-symbol pattern.",4935.281437125748,a,All different,1.0
+1,B,test,10.png,GPT_o3,a,"features two different icons (asterisk and dice), matching card a’s mixed-symbol pattern.",2416.466019417476,a,All different,1.0
+1,B,test,01.png,GPT_o4_mini_high,a,it has two different icons (shield and megaphone) like card a rather than two identical shapes.,10510.328358208955,a,All different,1.0
+1,B,test,02.png,GPT_o4_mini_high,b,it shows two identical icons (footprints) like card b rather than two different ones.,4022.346368715084,b,All same,1.0
+1,B,test,03.png,GPT_o4_mini_high,b,it has two identical icons like card b.,3122.389140271493,b,All same,1.0
+1,B,test,04.png,GPT_o4_mini_high,a,it features two different icons rather than a matching pair.,3901.547038327526,a,All different,1.0
+1,B,test,05.png,GPT_o4_mini_high,b,it shows two identical megaphone icons.,3836.332378223496,b,All same,1.0
+1,B,test,06.png,GPT_o4_mini_high,b,it shows two identical speaker icons.,4565.917808219178,b,All same,1.0
+1,B,test,07.png,GPT_o4_mini_high,b,it shows two identical trash can icons.,2637.128205128205,b,All same,1.0
+1,B,test,08.png,GPT_o4_mini_high,a,it shows two different folder/document icons rather than a matching pair.,2544.64,a,All different,1.0
+1,B,test,09.png,GPT_o4_mini_high,a,it shows two different icons (house and gear).,2262.6835443037976,a,All different,1.0
+1,B,test,10.png,GPT_o4_mini_high,a,it shows two different icons (asterisk and dice) like card a rather than a matching pair.,1778.5904761904762,a,All different,1.0
+1,B,test,01.png,GPT_o4_mini_high,a,it has two different icons like card a.,3175.832167832168,a,All different,1.0
+1,B,test,02.png,GPT_o4_mini_high,b,it shows the same icon twice like card b.,3843.5679442508713,b,All same,1.0
+1,B,test,03.png,GPT_o4_mini_high,b,it has the same icon twice like card b.,5736.867469879519,b,All same,1.0
+1,B,test,04.png,GPT_o4_mini_high,a,it features two different icons like card a.,1408.0,a,All different,1.0
+1,B,test,05.png,GPT_o4_mini_high,b,"it shows the same megaphone icon twice, matching card b.",3820.6460481099657,b,All same,1.0
+1,B,test,06.png,GPT_o4_mini_high,b,it has the same speaker icon twice like card b.,1505.6842105263158,b,All same,1.0
+1,B,test,07.png,GPT_o4_mini_high,b,it shows the same trash can icon twice like card b.,2862.9480968858134,b,All same,1.0
+1,B,test,08.png,GPT_o4_mini_high,b,it shows the same folder icon twice like card b.,2904.9686098654706,a,All same,1.0
+1,B,test,09.png,GPT_o4_mini_high,a,it has two different icons like card a.,1485.763440860215,a,All different,1.0
+1,B,test,10.png,GPT_o4_mini_high,a,it features two different icons like card a.,2093.6560509554142,a,All different,1.0
+1,B,test,01.png,GPT_o4_mini_high,a,"it has two different icons at opposite corners like card a, not two matching shapes like card b.",5194.816901408451,a,All different,1.0
+1,B,test,02.png,GPT_o4_mini_high,b,"it shows two identical icons in opposite corners, matching card b’s pattern.",1832.0490797546013,b,All same,1.0
+1,B,test,03.png,GPT_o4_mini_high,b,it has two identical icons in opposite corners like card b.,5070.8,b,All same,1.0
+1,B,test,04.png,GPT_o4_mini_high,a,"it has two different icons in opposite corners, matching card a.",4864.362606232295,a,All different,1.0
+1,B,test,05.png,GPT_o4_mini_high,b,it has two identical speaker icons in opposite corners like card b.,4090.685121107266,b,All same,1.0
+1,B,test,06.png,GPT_o4_mini_high,b,"it features two identical speaker icons in opposite corners, matching card b’s pattern.",1319.68,b,All same,1.0
+1,B,test,07.png,GPT_o4_mini_high,b,"it shows two identical trash-can icons in opposite corners, matching card b’s pattern.",1717.2048192771083,b,All same,1.0
+1,B,test,08.png,GPT_o4_mini_high,a,"it has two different folder-style icons in opposite corners, matching card a.",2195.6319018404906,a,All different,1.0
+1,B,test,09.png,GPT_o4_mini_high,a,"it shows two different icons (house and gear) in opposite corners, matching card a.",2624.5565217391304,a,All different,1.0
+1,B,test,10.png,GPT_o4_mini_high,a,"it has two different icons in opposite corners, matching card a.",3783.3079584775087,a,All different,1.0
+1,B,test,01.png,GPT_o4_mini_high,a,"it features two different icons, matching the mixed‐icon pattern of card a.",5012.632443531827,a,All different,1.0
+1,B,test,02.png,GPT_o4_mini_high,b,it shows two identical footprint icons.,5403.351578947369,b,All same,1.0
+1,B,test,03.png,GPT_o4_mini_high,b,it has two identical flag icons.,5770.24,b,All same,1.0
+1,B,test,04.png,GPT_o4_mini_high,a,it features two different icons (a flower-shaped pad and a house).,3546.067415730337,a,All different,1.0
+1,B,test,05.png,GPT_o4_mini_high,a,it shows two different megaphone icons.,8742.281068524971,b,All different,1.0
+1,B,test,06.png,GPT_o4_mini_high,b,it shows two identical speaker icons.,7270.284857571214,b,All same,1.0
+1,B,test,07.png,GPT_o4_mini_high,b,it has two identical trash-can icons.,5555.38784067086,b,All same,1.0
+1,B,test,08.png,GPT_o4_mini_high,a,"it shows a folder and a stack icon, so two different icons.",3960.3444976076553,a,All different,1.0
+1,B,test,09.png,GPT_o4_mini_high,a,it shows two different icons (a house and a gear).,3325.714285714286,a,All different,1.0
+1,B,test,10.png,GPT_o4_mini_high,a,it shows two different icons (an asterisk and a dice).,6826.076124567474,a,All different,1.0
+1,B,test,01.png,GPT_o4_mini_high,a,"It pairs two different icons like card a, not two identical shapes like card b.",5411.590243902439,a,All different,1.0
+1,B,test,02.png,GPT_o4_mini_high,b,It shows two identical boot icons like card b.,3430.937062937063,b,All same,1.0
+1,B,test,03.png,GPT_o4_mini_high,b,It has two identical wavy-flag icons like card b.,5461.020183486238,b,All same,1.0
+1,B,test,04.png,GPT_o4_mini_high,a,"It features two different icons, matching the mixed-icon pattern of card a.",3761.3392070484574,a,All different,1.0
+1,B,test,05.png,GPT_o4_mini_high,b,It has two identical megaphone icons like card b.,3108.4444444444443,b,All same,1.0
+1,B,test,06.png,GPT_o4_mini_high,b,It shows two identical speaker icons like card b.,5484.634686346863,b,All same,1.0
+1,B,test,07.png,GPT_o4_mini_high,b,It has two identical trash can icons like card b.,2912.717488789237,b,All same,1.0
+1,B,test,08.png,GPT_o4_mini_high,a,"It shows two different icons (folder and files), matching the mixed-icon pattern of card a.",2735.3766233766232,a,All different,1.0
+1,B,test,09.png,GPT_o4_mini_high,a,"It shows two different icons (house and gear), matching the mixed-icon pattern of card a.",3747.771043771044,a,All different,1.0
+1,B,test,10.png,GPT_o4_mini_high,a,"It features two different icons (asterisk and dice), matching the mixed-icon pattern of card a.",6026.470347648262,a,All different,1.0
+1,B,test,01.png,GPT_o4_mini_high,a,"it pairs two different icons like card a, not matching shapes like card b.",2250.024096385542,a,All different,1.0
+1,B,test,02.png,GPT_o4_mini_high,b,"it shows two identical footprints, like sample b.",3435.885714285714,b,All same,1.0
+1,B,test,03.png,GPT_o4_mini_high,b,it has two identical flag icons like sample b.,2982.886075949368,b,All same,1.0
+1,B,test,04.png,GPT_o4_mini_high,a,it shows two different icons (the house and the flower) like sample a.,2716.70303030303,a,All different,1.0
+1,B,test,05.png,GPT_o4_mini_high,b,it shows two identical megaphone icons like sample b.,3088.8888888888887,b,All same,1.0
+1,B,test,06.png,GPT_o4_mini_high,b,it shows two identical speaker icons like sample b.,4444.342857142857,b,All same,1.0
+1,B,test,07.png,GPT_o4_mini_high,b,it shows two identical trash can icons like sample b.,3986.780626780627,b,All same,1.0
+1,B,test,08.png,GPT_o4_mini_high,a,it shows two different icons (the folder and the panel) like sample a.,3182.921348314607,a,All different,1.0
+1,B,test,09.png,GPT_o4_mini_high,a,it shows two different icons (house and gear) like sample a.,1281.9591836734694,a,All different,1.0
+1,B,test,10.png,GPT_o4_mini_high,a,it pairs two different icons (the asterisk and the dice) like sample a.,2665.362445414847,a,All different,1.0
+1,B,test,01.png,GPT_o4_mini_high,a,it pairs two different icons (megaphone and shield) just like card a does,5638.045602605863,a,All different,1.0
+1,B,test,02.png,GPT_o4_mini_high,b,"it features the same icon in both corners, just like card b.",4240.0,b,All same,1.0
+1,B,test,03.png,GPT_o4_mini_high,b,"it features the same icon in both corners, matching card b.",1289.2371134020618,b,All same,1.0
+1,B,test,04.png,GPT_o4_mini_high,a,"it shows two different icons (house and flower), matching card a.",3214.7256637168143,a,All different,1.0
+1,B,test,05.png,GPT_o4_mini_high,b,"it has the same megaphone icon in both corners, matching card b.",2519.414634146341,b,All same,1.0
+1,B,test,06.png,GPT_o4_mini_high,b,"it has the same speaker icon in both corners, matching card b.",4041.268965517241,b,All same,1.0
+1,B,test,07.png,GPT_o4_mini_high,b,"it shows the same trash can icon in both corners, matching card b.",3150.904109589041,b,All same,1.0
+1,B,test,08.png,GPT_o4_mini_high,a,"it shows two different icons (single folder and file stack), matching card a.",4674.157303370786,a,All different,1.0
+1,B,test,09.png,GPT_o4_mini_high,a,"it has two different icons (house and gear), matching card a.",2369.3241379310343,a,All different,1.0
+1,B,test,10.png,GPT_o4_mini_high,a,"it shows two different icons (asterisk and dice), matching card a.",3629.392070484581,a,All different,1.0
+1,B,test,01.png,GPT_o4_mini_high,a,it has two different icons (megaphone and shield) like card a’s distinct symbols.,4115.555555555556,a,All different,1.0
+1,B,test,02.png,GPT_o4_mini_high,b,"it shows the same footprint icon in both spots, just like card b.",6047.058823529412,b,All same,1.0
+1,B,test,03.png,GPT_o4_mini_high,b,"it features the same flag icon in both positions, matching card b’s identical-symbol pattern.",2065.2521739130434,b,All same,1.0
+1,B,test,04.png,GPT_o4_mini_high,a,"it has two different icons (flower and house), matching card a’s pattern of distinct symbols.",4671.54609929078,a,All different,1.0
+1,B,test,05.png,GPT_o4_mini_high,a,"it has two different megaphone icons (one with sound lines, one without), matching card a’s distinct-symbol pattern.",13793.826005612722,b,All different,1.0
+1,B,test,06.png,GPT_o4_mini_high,b,"it shows the same speaker icon in both positions, matching card b’s identical-symbol pattern.",2058.6666666666665,b,All same,1.0
+1,B,test,07.png,GPT_o4_mini_high,b,"it features the same trash-can icon in both spots, matching card b’s identical-symbol pattern.",2524.190476190476,b,All same,1.0
+1,B,test,08.png,GPT_o4_mini_high,a,"it shows two different folder symbols, matching card a’s pattern of distinct icons.",1965.2682926829268,a,All different,1.0
+1,B,test,09.png,GPT_o4_mini_high,a,"it has two different icons (house and gear), matching card a’s pattern of distinct symbols.",2555.012987012987,a,All different,1.0
+1,B,test,10.png,GPT_o4_mini_high,a,"it shows two different icons (asterisk and dice), matching card a’s pattern of distinct symbols.",2380.9655172413795,a,All different,1.0
+1,B,test,01.png,GPT_o4_mini_high,a,"it has two different symbols like card a, not two matching ones like card b.",1275.6504854368932,a,All different,1.0
+1,B,test,02.png,GPT_o4_mini_high,b,it shows two identical footprints like card b.,2805.221052631579,b,All same,1.0
+1,B,test,03.png,GPT_o4_mini_high,b,it has two identical flag symbols like card b.,5120.0,b,All same,1.0
+1,B,test,04.png,GPT_o4_mini_high,a,"it shows two different symbols, matching the mixed icons on card a.",4050.6214689265535,a,All different,1.0
+1,B,test,05.png,GPT_o4_mini_high,b,it has two identical megaphone symbols like card b.,3946.153846153846,b,All same,1.0
+1,B,test,06.png,GPT_o4_mini_high,b,it has two identical speaker symbols like card b.,2099.037974683544,b,All same,1.0
+1,B,test,07.png,GPT_o4_mini_high,b,it has two identical trash can symbols like card b.,4888.366265060241,b,All same,1.0
+1,B,test,08.png,GPT_o4_mini_high,a,"it shows two different icons (single folder vs. folder stack), matching the mixed symbols of card a.",3674.696132596685,a,All different,1.0
+1,B,test,09.png,GPT_o4_mini_high,a,"it shows two different symbols (house and gear), matching the mixed icons of card a.",1494.5882352941176,a,All different,1.0
+1,B,test,10.png,GPT_o4_mini_high,a,it has two different symbols like card a.,2071.3978494623657,a,All different,1.0
+1,B,test,01.png,GPT_o4_mini_high,a,"the card has two different icons (megaphone and shield), matching the distinct symbols layout of card a.",3547.9194630872485,a,All different,1.0
+1,B,test,02.png,GPT_o4_mini_high,b,it shows two identical footprint icons just like card b’s matching symbols.,3353.512027491409,b,All same,1.0
+1,B,test,03.png,GPT_o4_mini_high,b,"it has two identical flag icons, matching the identical-symbol pattern of card b.",1738.9268292682927,b,All same,1.0
+1,B,test,04.png,GPT_o4_mini_high,a,"it shows two different icons (a cross-shaped and a house), matching the mixed-symbol pattern of card a.",2813.422818791946,a,All different,1.0
+1,B,test,05.png,GPT_o4_mini_high,b,"it has two identical megaphone icons, matching the identical-symbol pattern of card b.",4076.843537414966,b,All same,1.0
+1,B,test,06.png,GPT_o4_mini_high,b,"it has two identical speaker icons, matching the identical-symbol pattern of card b.",1475.84,b,All same,1.0
+1,B,test,07.png,GPT_o4_mini_high,b,"it has two identical trash can icons, matching the identical-symbol pattern of card b.",1112.079207920792,b,All same,1.0
+1,B,test,08.png,GPT_o4_mini_high,a,"it shows two different icons (a folder and a stack), matching the mixed-symbol pattern of card a.",4940.941828254848,a,All different,1.0
+1,B,test,09.png,GPT_o4_mini_high,a,"it has two different icons (house and gear), matching the mixed-symbol pattern of card a.",3255.688311688312,a,All different,1.0
+1,B,test,10.png,GPT_o4_mini_high,a,"it has two different icons (an asterisk and dice), matching the mixed-symbol pattern of card a.",3194.3973063973062,a,All different,1.0
+1,B,test,01.png,Gemini_2_5_flash_lite,b,"This card has a megaphone and a hexagon. Neither of these objects are present in card ""a"".",0.0,a,All same,0.0
+1,B,test,02.png,Gemini_2_5_flash_lite,b,"This card has four lightbulbs. Card ""a"" has people and a drone. Card ""b"" has two cones. Neither card ""a"" nor card ""b"" go with this card.",0.0,b,All same,0.0
+1,B,test,03.png,Gemini_2_5_flash_lite,b,"This card has two bow-tie shapes. Card ""a"" has people and a drone. Card ""b"" has two cones. Neither card ""a"" nor card ""b"" go with this card.",0.0,b,All same,1.0
+1,B,test,04.png,Gemini_2_5_flash_lite,a,"This card has a plus sign and houses. Card ""a"" has people and a drone. Card ""b"" has cones. Neither card ""a"" nor card ""b"" go with this card.",0.0,a,All different,0.0
+1,B,test,05.png,Gemini_2_5_flash_lite,b,"This card has two megaphones. Card ""a"" has people and a drone. Card ""b"" has two cones. Neither card ""a"" nor card ""b"" go with this card.",0.0,b,All same,0.0
+1,B,test,06.png,Gemini_2_5_flash_lite,b,"This card has two speakers. Card ""a"" has people and a drone. Card ""b"" has two cones. Neither card ""a"" nor card ""b"" go with this card.",0.0,b,All same,0.0
+1,B,test,07.png,Gemini_2_5_flash_lite,b,"This card has two trash cans. Card ""a"" has people and a drone. Card ""b"" has two cones. Neither card ""a"" nor card ""b"" go with this card.",0.0,b,All same,0.0
+1,B,test,08.png,Gemini_2_5_flash_lite,a,"This card has a folder and a card with a corner. Card ""a"" has people and a drone. Card ""b"" has cones. Neither card ""a"" nor card ""b"" go with this card.",0.0,a,All different,0.0
+1,B,test,09.png,Gemini_2_5_flash_lite,a,"This card has a house and a gear. Card ""a"" has people and a drone. Card ""b"" has cones. Neither card ""a"" nor card ""b"" go with this card.",0.0,a,All different,0.0
+1,B,test,10.png,Gemini_2_5_flash_lite,b,"This card has an asterisk and two dice. Card ""a"" has people and a drone. Card ""b"" has two cones. Neither card ""a"" nor card ""b"" go with this card.",0.0,a,All same,1.0
+1,B,test,01.png,Gemini_2_5_flash_lite,a,"The card shows a megaphone and a hexagon, which could relate to communication and perhaps a geometric shape. Card ""a"" has icons that could be abstract or symbolic.",0.0,a,All different,0.0
+1,B,test,02.png,Gemini_2_5_flash_lite,a,"This card has lightbulbs, which can represent ideas. Card ""a"" has icons that could also represent abstract concepts or technology.",0.0,b,All different,0.0
+1,B,test,03.png,Gemini_2_5_flash_lite,b,"The card shows two bow-tie shapes, which are similar in their geometric and abstract nature to the two conical shapes on card ""b"".",0.0,b,All same,0.0
+1,B,test,04.png,Gemini_2_5_flash_lite,a,"This card shows a play button icon and a set of houses. The play button could be interpreted as a symbol for starting something, and the houses represent a location or community. Card ""a"" has a drone and people, which are also related to activities and presence.",0.0,a,All different,0.0
+1,B,test,05.png,Gemini_2_5_flash_lite,a,"This card shows two megaphones, which are symbols of communication and broadcasting. Card ""a"" has a drone and people, which can be associated with communication and human interaction.",0.0,b,All different,0.0
+1,B,test,06.png,Gemini_2_5_flash_lite,a,"This card shows two speakers, which are related to sound and audio. Card ""a"" has a drone and people, and drones can be used for aerial photography and videography, which often involve sound. Also, people are associated with experiencing sound.",0.0,b,All different,0.0
+1,B,test,07.png,Gemini_2_5_flash_lite,a,"This card shows two trash cans, which are symbols of disposal or removal. Card ""a"" has a drone and people. A drone could be used for surveying or delivery, and if something needs to be removed or disposed of, it might be part of a process that involves these elements. The connection is indirect, but ""a"" is the more likely candidate as it features elements that are part of a broader system or activity.",0.0,b,All different,0.0
+1,B,test,08.png,Gemini_2_5_flash_lite,a,"This card shows a folder icon and a credit card icon, which are related to data and transactions. Card ""a"" has a drone and people. Drones can be used for data collection and for carrying packages, which could be related to transactions or managing information.",0.0,a,All different,0.0
+1,B,test,09.png,Gemini_2_5_flash_lite,a,"This card shows a house icon and a gear icon, representing home and settings or operations. Card ""a"" has a drone and people. Drones can be operated from a home base and people operate them, connecting to the idea of home and settings.",0.0,a,All different,0.0
+1,B,test,10.png,Gemini_2_5_flash_lite,a,"This card has an asterisk and dice, which could represent random elements or scoring in a game. Card ""a"" has a drone and people. While not a direct connection, if we consider the possibility of games or entertainment involving drones and people, this card could loosely fit. However, the elements are quite abstract. Given the prior examples, the abstract nature of the icons in ""a"" might be the intended link.",0.0,a,All different,0.0
+1,B,test,01.png,Gemini_2_5_flash_lite,a,"This card has a megaphone and a hexagonal shape, which are different from the three figures and drone on card ""a"".",0.0,a,All different,0.0
+1,B,test,02.png,Gemini_2_5_flash_lite,b,"This card has two lightbulbs on the top and two on the bottom, similar to the two cones on card ""b"".",0.0,b,All same,0.0
+1,B,test,03.png,Gemini_2_5_flash_lite,b,"This card has two bowtie shapes, similar to the two cones on card ""b"".",0.0,b,All same,0.0
+1,B,test,04.png,Gemini_2_5_flash_lite,a,"This card has a directional pad and a house, which are different from the three figures and drone on card ""a"".",0.0,a,All different,0.0
+1,B,test,05.png,Gemini_2_5_flash_lite,a,"This card has two megaphones, which are different from the three figures and drone on card ""a"".",0.0,b,All different,1.0
+1,B,test,06.png,Gemini_2_5_flash_lite,b,"This card has two speakers, similar to the two cones on card ""b"".",0.0,b,All same,0.0
+1,B,test,07.png,Gemini_2_5_flash_lite,b,"This card has two trash cans, similar to the two cones on card ""b"".",0.0,b,All same,1.0
+1,B,test,08.png,Gemini_2_5_flash_lite,a,"This card has a folder icon and a SIM card icon, which are different from the three figures and drone on card ""a"".",0.0,a,All different,1.0
+1,B,test,09.png,Gemini_2_5_flash_lite,a,"This card has a house and a gear icon, which are different from the three figures and drone on card ""a"".",0.0,a,All different,1.0
+1,B,test,10.png,Gemini_2_5_flash_lite,a,"This card has an asterisk and two dice, which are different from the three figures and drone on card ""a"".",0.0,a,All different,1.0
+1,B,test,01.png,Gemini_2_5_flash_lite,a,"The card shows a megaphone, which is used for public announcements, similar to how drones and people can be used for surveillance.",0.0,a,All different,0.0
+1,B,test,02.png,Gemini_2_5_flash_lite,b,"This card has a lightbulb symbol, which often represents an idea. Card ""b"" also has a symbol that could represent an idea or a concept.",0.0,b,All same,0.0
+1,B,test,03.png,Gemini_2_5_flash_lite,b,"The card has two bow-tie-like shapes, which are similar in form and placement to the shapes in card ""b"".",0.0,b,All same,0.0
+1,B,test,04.png,Gemini_2_5_flash_lite,a,"The card shows a house and a directional pad, which is commonly found on game controllers. Card ""a"" also has a drone and people, which can be related to observation or control, similar to gaming.",0.0,a,All different,0.0
+1,B,test,05.png,Gemini_2_5_flash_lite,a,"This card has two megaphones, which are used for making announcements. Card ""a"" has a drone and people, which can be used for broadcasting or communication.",0.0,b,All different,0.0
+1,B,test,06.png,Gemini_2_5_flash_lite,a,"The card shows two speakers, which are used for emitting sound. Card ""a"" has a drone and people, which could be used for communication or broadcasting, similar to speakers.",0.0,b,All different,0.0
+1,B,test,07.png,Gemini_2_5_flash_lite,b,"This card has two trash cans, which are related to disposal or discarding. Card ""b"" has two cone shapes, which are abstract and could represent elements that are being sorted or categorized, similar to items being placed in a trash can.",0.0,b,All same,0.0
+1,B,test,08.png,Gemini_2_5_flash_lite,a,"This card shows a folder and a tabbed document, which are related to organization and data management. Card ""a"" has a drone and people, which can be used for collecting and analyzing data.",0.0,a,All different,0.0
+1,B,test,09.png,Gemini_2_5_flash_lite,a,"This card depicts a house and a gear. Card ""a"" includes a drone and people, which can be associated with control and operation of systems (like a drone over a house) or work environments (gears).",0.0,a,All different,0.0
+1,B,test,10.png,Gemini_2_5_flash_lite,a,"The card shows dice and an asterisk. Card ""a"" has a drone and people. Dice represent chance or games, while an asterisk can be a wildcard or a symbol for special instructions, connecting to the unpredictability or control elements present in card ""a"".",0.0,a,All different,0.0
+1,B,test,01.png,Gemini_2_5_flash_lite,a,"This card has two icons, and card ""a"" also has two icons.",0.0,a,All different,0.0
+1,B,test,02.png,Gemini_2_5_flash_lite,b,"This card has four identical shapes, and card ""b"" also has identical shapes.",0.0,b,All same,1.0
+1,B,test,03.png,Gemini_2_5_flash_lite,b,"This card has two identical shapes, and card ""b"" also has two identical shapes.",0.0,b,All same,1.0
+1,B,test,04.png,Gemini_2_5_flash_lite,a,"This card has two icons, and card ""a"" also has two icons.",0.0,a,All different,0.0
+1,B,test,05.png,Gemini_2_5_flash_lite,b,"This card has two identical icons, and card ""b"" also has two identical shapes.",0.0,b,All same,1.0
+1,B,test,06.png,Gemini_2_5_flash_lite,b,"This card has two identical shapes, and card ""b"" also has two identical shapes.",0.0,b,All same,1.0
+1,B,test,07.png,Gemini_2_5_flash_lite,b,"This card has two identical shapes, and card ""b"" also has two identical shapes.",0.0,b,All same,1.0
+1,B,test,08.png,Gemini_2_5_flash_lite,a,"This card has two icons, and card ""a"" also has two icons.",0.0,a,All different,0.0
+1,B,test,09.png,Gemini_2_5_flash_lite,a,"This card has two icons, and card ""a"" also has two icons.",0.0,a,All different,0.0
+1,B,test,10.png,Gemini_2_5_flash_lite,a,"This card has two icons, and card ""a"" also has two icons.",0.0,a,All different,0.0
+1,B,test,01.png,Gemini_2_5_flash_lite,a,"This card has a megaphone, which can be used to address a group of people, similar to the group icon on card ""a"".",0.0,a,All different,0.0
+1,B,test,02.png,Gemini_2_5_flash_lite,b,"This card has two lightbulbs in the top right and two lightbulbs in the bottom left, which is similar to the pattern of two cone shapes on card ""b"".",0.0,b,All same,0.0
+1,B,test,03.png,Gemini_2_5_flash_lite,b,"This card has two shapes, one in the top right and one in the bottom left, similar to card ""b"" which also has two shapes arranged in a similar way.",0.0,b,All same,0.0
+1,B,test,04.png,Gemini_2_5_flash_lite,a,"This card has a house, which is a place where people live, and card ""a"" has icons representing people.",0.0,a,All different,0.0
+1,B,test,05.png,Gemini_2_5_flash_lite,b,"This card has two megaphones, one in the top right and one in the bottom left, which mirrors the two cone shapes of card ""b"".",0.0,b,All same,0.0
+1,B,test,06.png,Gemini_2_5_flash_lite,b,"This card has two speakers, one in the top right and one in the bottom left, which aligns with the arrangement of the two cone shapes on card ""b"".",0.0,b,All same,0.0
+1,B,test,07.png,Gemini_2_5_flash_lite,b,"This card has two trash cans, one in the top right and one in the bottom left, which matches the placement of the two cone shapes on card ""b"".",0.0,b,All same,0.0
+1,B,test,08.png,Gemini_2_5_flash_lite,a,"This card has a folder icon, which is related to organization and files, and card ""a"" has icons that could represent various elements in a system or process.",0.0,a,All different,0.0
+1,B,test,09.png,Gemini_2_5_flash_lite,a,"This card has a house and a gear icon. Card ""a"" has a drone and people icons, suggesting a context where these elements could coexist or interact.",0.0,a,All different,0.0
+1,B,test,10.png,Gemini_2_5_flash_lite,a,"This card has dice, which are often associated with games or chance, and an asterisk which could represent a wildcard or special item. Card ""a"" has general icons that could be part of a larger system or interface where such elements might be found.",0.0,a,All different,0.0
+1,B,test,01.png,Gemini_2_5_flash_lite,a,"The card has a megaphone and a hexagonal shape. Card ""a"" has a group of people and a drone. The connection is a bit abstract, but the megaphone could be used for communication to a group of people, and the drone could be used for observation or delivery to a group of people. The hexagonal shape is not directly represented in ""a"", but it's a geometric shape, similar to how the drone is a geometric shape.",0.0,a,All different,0.0
+1,B,test,02.png,Gemini_2_5_flash_lite,b,"This card has four lightbulbs. Card ""b"" has two triangular shapes. The lightbulbs are a cluster of similar objects, and the triangles are also a set of similar objects. This is a visual similarity in arrangement and quantity (groups of items).",0.0,b,All same,0.0
+1,B,test,03.png,Gemini_2_5_flash_lite,b,"This card has two dumbbell shapes. Card ""b"" has two triangular shapes. Both cards feature two identical, symmetrical objects arranged vertically. The shapes are distinct but the pattern of two identical objects is similar.",0.0,b,All same,1.0
+1,B,test,04.png,Gemini_2_5_flash_lite,a,"This card has a directional pad (like on a game controller) and a group of buildings. Card ""a"" has a group of people and a drone. The directional pad suggests control or direction, which could relate to a drone. The buildings could represent a place for people to live or gather, connecting to the group of people.",0.0,a,All different,0.0
+1,B,test,05.png,Gemini_2_5_flash_lite,a,"This card has two megaphones. Card ""a"" has a group of people and a drone. Megaphones are used for broadcasting messages, which relates to communication to a group of people.",0.0,b,All different,0.0
+1,B,test,06.png,Gemini_2_5_flash_lite,a,"This card has two speakers. Card ""a"" has a group of people and a drone. Speakers are used for emitting sound, which could be for entertainment or information for a group of people.",0.0,b,All different,0.0
+1,B,test,07.png,Gemini_2_5_flash_lite,b,"This card has two trash cans. Card ""b"" has two triangular shapes. Both cards have two identical items. The visual similarity is in the quantity and arrangement of two identical objects.",0.0,b,All same,1.0
+1,B,test,08.png,Gemini_2_5_flash_lite,a,"This card has a folder icon and a sim card icon. Card ""a"" has a group of people and a drone. Folders and sim cards are related to data storage and organization, which could be associated with managing information or tasks for a group or a drone.",0.0,a,All different,0.0
+1,B,test,09.png,Gemini_2_5_flash_lite,a,"This card has a house icon and a gear icon. Card ""a"" has a group of people and a drone. The house icon can represent a place for people, and the gear icon can represent operations or control, which might apply to managing a drone or a system for people.",0.0,a,All different,0.0
+1,B,test,10.png,Gemini_2_5_flash_lite,b,"This card has an asterisk and two dice. Card ""b"" has two triangular shapes. The asterisk is a symbol, and the dice are objects. There isn't a strong visual or conceptual link to card ""b"". However, if we consider abstract shapes or symbols, the asterisk is a distinct symbol and the dice are also distinct objects. Card ""b"" has two identical triangular shapes. There's no clear match. Let's re-evaluate the initial cards.
+
+Card ""a"" has people and a drone.
+Card ""b"" has two triangles.
+
+Looking at the current card (asterisk and dice):
+- The asterisk is a single symbol.
+- The dice are a pair of objects.
+
+Let's consider if either ""a"" or ""b"" is a better fit. There's no clear thematic connection to people or drones with an asterisk or dice, unless it's a game context.
+
+If we're looking for a visual similarity:
+- Card ""b"" has two similar objects. The current card has two dice (similar objects) and one asterisk (a single symbol).
+- Card ""a"" has two distinct objects (people and drone).
+
+Given the lack of strong thematic connections and the nature of the previous pairings, it's possible this is based on visual groupings. Card ""b"" has a simpler, more abstract form (two triangles). The current card has two dice, which are a pair of similar objects, and then a single asterisk. This doesn't fit cleanly with the ""two similar objects"" pattern of card ""b"".
+
+Let's reconsider the possibility of a weaker link to ""a"". Could the dice and asterisk represent a game or a random element, which might be associated with a drone's operation or a social activity (people)? This is quite a stretch.
+
+Let's assume the task is looking for *any* kind of consistency, even if it's abstract.
+
+If the previous pairings are a guide, we've seen pairings based on:
+- Abstract shapes/groups of shapes (e.g., lightbulbs with triangles)
+- Functional relation (e.g., megaphone to people)
+- Object types (e.g., speakers to people)
+- Number of items (e.g., trash cans to triangles, both having two).
+
+The current card has an asterisk and two dice.
+Card ""b"" has two triangles. This card has two similar objects (dice). This could be a weak link to card ""b"" because card ""b"" also has two similar objects.
+
+Let's try to see if there's a stronger link to ""a"". People and a drone. The dice could represent a game people play, and the asterisk could be a symbol within that game. This is also a stretch.
+
+Given the prompt asks for ""which of the cards goes with the card in this prompt"", and we are forced to choose between ""a"" and ""b"".
+
+Let's consider the simplest visual cue. Card ""b"" is defined by having two similar objects. The current card has two dice which are similar objects. This is the most direct visual parallelism we can find.
+
+b - The card contains two dice, which are similar objects, similar to how card ""b"" contains two similar triangular shapes.",0.0,a,All same,1.0
+1,B,test,01.png,Gemini_2_5_flash_lite,a,"The card shows a megaphone and a hexagonal shape. While the hexagonal shape is abstract, the megaphone is a symbol that could relate to communication or events, similar to how the drone and people on card ""a"" suggest an activity. Card ""b"" has abstract shapes that do not appear to have a clear connection.",0.0,a,All different,0.0
+1,B,test,02.png,Gemini_2_5_flash_lite,a,"This card shows multiple lightbulbs, representing ideas or innovation, which can be seen as related to the technological and human elements present in card ""a"". Card ""b"" has abstract shapes with no clear connection.",0.0,b,All different,0.0
+1,B,test,03.png,Gemini_2_5_flash_lite,b,"This card contains two abstract shapes that are similar to the shapes on card ""b"". Card ""a"" has distinct icons (people, drone) that don't directly relate to these abstract shapes.",0.0,b,All same,1.0
+1,B,test,04.png,Gemini_2_5_flash_lite,a,"This card features a directional pad (often associated with gaming or controllers) and a cluster of houses. Both of these icons can be seen as representing activities or places, which aligns with the theme of activities and people represented on card ""a"". Card ""b"" consists of abstract shapes without a clear thematic link.",0.0,a,All different,0.0
+1,B,test,05.png,Gemini_2_5_flash_lite,a,"This card shows two megaphones, which are symbols of communication or announcements. Card ""a"" includes a drone and people, suggesting activities or a group, which can be related to communication or events. Card ""b"" has abstract shapes that do not connect.",0.0,b,All different,0.0
+1,B,test,06.png,Gemini_2_5_flash_lite,a,"This card depicts two speakers, which are associated with audio and sound. Card ""a"" contains a drone and people, which can be interpreted as elements involved in activities or events where sound might be present (e.g., music, announcements, or the sound of a drone). Card ""b"" has abstract shapes with no clear thematic link.",0.0,b,All different,0.0
+1,B,test,07.png,Gemini_2_5_flash_lite,a,"This card shows two trash cans, representing disposal or cleanup. Card ""a"" has a drone and people, which could be associated with activities that generate waste or require cleanup. Card ""b"" has abstract shapes with no clear connection.",0.0,b,All different,0.0
+1,B,test,08.png,Gemini_2_5_flash_lite,a,"This card displays a folder icon and a card-like icon, both suggesting data management or organization. Card ""a"" includes a drone and people, which could be associated with data collection, analysis, or projects requiring organization. Card ""b"" has abstract shapes with no clear thematic link.",0.0,a,All different,0.0
+1,B,test,09.png,Gemini_2_5_flash_lite,a,"This card shows a house icon and a gear icon. The house can represent a location or home, and the gear represents functionality or settings. Card ""a"" has a drone and people, which can be seen as elements related to activities, locations, or operational settings. Card ""b"" has abstract shapes that do not connect.",0.0,a,All different,0.0
+1,B,test,10.png,Gemini_2_5_flash_lite,a,"This card displays an asterisk symbol and dice, suggesting randomness, chance, or perhaps a game. Card ""a"" features a drone and people, which could be involved in activities or scenarios where elements of chance or decision-making (like in a game) are present. Card ""b"" has abstract shapes without a clear connection.",0.0,a,All different,0.0
+1,B,test,01.png,Gemini_2_5_flash_lite,a,"The card shows a megaphone and a hexagonal shape, which is similar to the drone on card ""a"".",0.0,a,All different,0.0
+1,B,test,02.png,Gemini_2_5_flash_lite,b,"The card shows pairs of lightbulbs, similar to the pairs of cones on card ""b"".",0.0,b,All same,1.0
+1,B,test,03.png,Gemini_2_5_flash_lite,b,"The card shows two bowtie shapes, similar to the two cones on card ""b"".",0.0,b,All same,0.0
+1,B,test,04.png,Gemini_2_5_flash_lite,a,"The card shows a plus sign and houses, which are both present on card ""a"".",0.0,a,All different,0.0
+1,B,test,05.png,Gemini_2_5_flash_lite,a,"The card shows two megaphones, and card ""a"" also has a megaphone.",0.0,b,All different,0.0
+1,B,test,06.png,Gemini_2_5_flash_lite,b,"The card shows two speakers, similar to the two cones on card ""b"".",0.0,b,All same,0.0
+1,B,test,07.png,Gemini_2_5_flash_lite,a,"The card shows two trash cans, and card ""a"" has a drone and people. The trash cans and drone could be related to disposal or a task.",0.0,b,All different,0.0
+1,B,test,08.png,Gemini_2_5_flash_lite,a,"The card shows a folder and a tabbed document, which are related to organization and files, similar to the drone and people on card ""a"" which could represent a project or task.",0.0,a,All different,0.0
+1,B,test,09.png,Gemini_2_5_flash_lite,a,"The card shows a house and a gear, both of which are elements that could be associated with the concepts represented on card ""a"" (people and a drone, suggesting a project or task).",0.0,a,All different,0.0
+1,B,test,10.png,Gemini_2_5_flash_lite,b,"The card shows an asterisk and dice, and card ""b"" has pairs of cones. The asterisk could be seen as a multiplier or a special item, and the dice represent chance, which might fit with the abstract nature of the cones on card ""b"".",0.0,a,All same,0.0
+1,B,test,01.png,Gemini_2_5_flash_lite,a,"This card has a megaphone and a hexagon, similar to card ""a"" which has people and a drone, both representing objects or figures. Card ""b"" has abstract shapes.",0.0,a,All different,0.0
+1,B,test,02.png,Gemini_2_5_flash_lite,b,"This card has multiple lightbulb shapes, similar to card ""b"" which has multiple cone shapes. Both cards feature a repetition of abstract geometric forms. Card ""a"" has distinct objects.",0.0,b,All same,1.0
+1,B,test,03.png,Gemini_2_5_flash_lite,b,"This card has two identical, abstract shapes, similar to card ""b"" which also has two identical abstract shapes. Card ""a"" has different, representational figures.",0.0,b,All same,1.0
+1,B,test,04.png,Gemini_2_5_flash_lite,a,"This card features a house and a directional pad, which are both concrete objects. Card ""a"" also contains distinct objects (people and a drone). Card ""b"" consists of abstract shapes.",0.0,a,All different,0.0
+1,B,test,05.png,Gemini_2_5_flash_lite,a,"This card has two identical megaphones, similar to card ""a"" which has distinct, representational objects. Card ""b"" has abstract shapes.",0.0,b,All different,1.0
+1,B,test,06.png,Gemini_2_5_flash_lite,a,"This card shows two speakers, which are distinct objects, similar to card ""a"" which has distinct objects like people and a drone. Card ""b"" contains abstract shapes.",0.0,b,All different,1.0
+1,B,test,07.png,Gemini_2_5_flash_lite,a,"This card features two trash cans, which are distinct, recognizable objects. Card ""a"" also contains specific objects. Card ""b"" has abstract shapes.",0.0,b,All different,0.0
+1,B,test,08.png,Gemini_2_5_flash_lite,a,"This card contains icons representing a folder and a credit card, both of which are specific objects. Card ""a"" also depicts specific objects. Card ""b"" shows abstract shapes.",0.0,a,All different,0.0
+1,B,test,09.png,Gemini_2_5_flash_lite,a,"This card shows a house and a gear, both of which are distinct objects. Card ""a"" also features specific objects. Card ""b"" consists of abstract shapes.",0.0,a,All different,0.0
+1,B,test,10.png,Gemini_2_5_flash_lite,a,"This card features an asterisk and dice, both of which are distinct symbols or objects. Card ""a"" also has specific objects. Card ""b"" consists of abstract shapes.",0.0,a,All different,1.0
+1,B,test,01.png,GPT_4o,b,"This card has shapes (megaphone and shield), similar to the cones on card ""b"".",0.0,a,All same,0.0
+1,B,test,02.png,GPT_4o,b,"This card contains pairs of identical items, similar to the cones on card ""b"".",0.0,b,All same,1.0
+1,B,test,03.png,GPT_4o,b,"This card has two identical shapes, similar to the cones on card ""b"".",0.0,b,All same,1.0
+1,B,test,04.png,GPT_4o,b,"This card contains distinct shapes, similar to card ""b"".",0.0,a,All same,1.0
+1,B,test,05.png,GPT_4o,b,"This card has two identical items, similar to the cones on card ""b"".",0.0,b,All same,1.0
+1,B,test,06.png,GPT_4o,b,"This card has two identical items, similar to the cones on card ""b"".",0.0,b,All same,1.0
+1,B,test,07.png,GPT_4o,b,"This card has two identical items, similar to the cones on card ""b"".",0.0,b,All same,1.0
+1,B,test,08.png,GPT_4o,b,"This card contains distinct shapes, similar to card ""b"".",0.0,a,All same,1.0
+1,B,test,09.png,GPT_4o,b,"This card contains distinct shapes, similar to card ""b"".",0.0,a,All same,1.0
+1,B,test,10.png,GPT_4o,b,"This card contains distinct shapes, similar to card ""b"".",0.0,a,All same,1.0
+1,B,test,01.png,GPT_4o,b,"The card features two different symbols similar to card ""b.""",0.0,a,All same,1.0
+1,B,test,02.png,GPT_4o,b,"The card features pairs of the same symbol, similar to card ""b.""",0.0,b,All same,1.0
+1,B,test,03.png,GPT_4o,b,"The card features two identical symbols, similar to card ""b.""",0.0,b,All same,1.0
+1,B,test,04.png,GPT_4o,a,"The card contains two different symbols like card ""a.""",0.0,a,All different,1.0
+1,B,test,05.png,GPT_4o,b,"The card shows two identical symbols, similar to card ""b.""",0.0,b,All same,1.0
+1,B,test,06.png,GPT_4o,b,"The card features two identical symbols, similar to card ""b.""",0.0,b,All same,1.0
+1,B,test,07.png,GPT_4o,b,"The card shows two identical symbols, similar to card ""b.""",0.0,b,All same,1.0
+1,B,test,08.png,GPT_4o,a,"The card contains two different symbols like card ""a.""",0.0,a,All different,1.0
+1,B,test,09.png,GPT_4o,a,"The card contains two different symbols like card ""a.""",0.0,a,All different,1.0
+1,B,test,10.png,GPT_4o,a,"The card contains two different symbols like card ""a.""",0.0,a,All different,1.0
+1,B,test,01.png,GPT_4o,b,"The card has shapes similar to card ""b"".",0.0,a,All same,0.0
+1,B,test,02.png,GPT_4o,b,"The card has pairs of items similar to card ""b"".",0.0,b,All same,1.0
+1,B,test,03.png,GPT_4o,b,"The card has two similar shapes, matching the pattern in card ""b"".",0.0,b,All same,1.0
+1,B,test,04.png,GPT_4o,a,"The card has distinct and different symbols, similar to card ""a"".",0.0,a,All different,1.0
+1,B,test,05.png,GPT_4o,b,"The card has two similar symbols, matching the pattern in card ""b"".",0.0,b,All same,1.0
+1,B,test,06.png,GPT_4o,b,"The card has two similar items, matching the pattern in card ""b"".",0.0,b,All same,1.0
+1,B,test,07.png,GPT_4o,b,"The card has two similar items, matching the pattern in card ""b"".",0.0,b,All same,1.0
+1,B,test,08.png,GPT_4o,a,"The card has distinct and different symbols, similar to card ""a"".",0.0,a,All different,1.0
+1,B,test,09.png,GPT_4o,a,"The card has distinct and different symbols, similar to card ""a"".",0.0,a,All different,1.0
+1,B,test,10.png,GPT_4o,a,"The card has distinct and different symbols, similar to card ""a"".",0.0,a,All different,1.0
+1,B,test,01.png,GPT_4o,b,"The card has geometric shapes similar to card ""b"".",0.0,a,All same,0.0
+1,B,test,02.png,GPT_4o,b,"The card features pairs of identical shapes, like card ""b"".",0.0,b,All same,1.0
+1,B,test,03.png,GPT_4o,b,"The card has geometric shapes similar to card ""b"".",0.0,b,All same,0.0
+1,B,test,04.png,GPT_4o,a,"The card features distinct icons, similar to card ""a"".",0.0,a,All different,1.0
+1,B,test,05.png,GPT_4o,a,"The card features distinct icons, similar to card ""a"".",0.0,b,All different,1.0
+1,B,test,06.png,GPT_4o,b,"The card features pairs of identical shapes, similar to card ""b"".",0.0,b,All same,1.0
+1,B,test,07.png,GPT_4o,b,"The card features pairs of identical shapes, similar to card ""b"".",0.0,b,All same,1.0
+1,B,test,08.png,GPT_4o,a,"The card features distinct icons, similar to card ""a"".",0.0,a,All different,1.0
+1,B,test,09.png,GPT_4o,a,"The card features distinct icons, similar to card ""a"".",0.0,a,All different,1.0
+1,B,test,10.png,GPT_4o,a,"The card features distinct icons, similar to card ""a"".",0.0,a,All different,1.0
+1,B,test,01.png,GPT_4o,b,"The card shows a pattern of two different symbols, similar to card ""b"".",0.0,a,All same,1.0
+1,B,test,02.png,GPT_4o,b,"The card shows identical pairs of symbols, arranged similarly to card ""b"".",0.0,b,All same,1.0
+1,B,test,03.png,GPT_4o,b,"The card has two identical symbols in opposite corners, like card ""b"".",0.0,b,All same,1.0
+1,B,test,04.png,GPT_4o,a,"The card has two different symbols in opposite corners, similar to card ""a"".",0.0,a,All different,1.0
+1,B,test,05.png,GPT_4o,b,"The card has two identical symbols in opposite corners, like card ""b"".",0.0,b,All same,1.0
+1,B,test,06.png,GPT_4o,b,"The card has two identical symbols in opposite corners, like card ""b"".",0.0,b,All same,1.0
+1,B,test,07.png,GPT_4o,b,"The card has two identical symbols in opposite corners, like card ""b"".",0.0,b,All same,1.0
+1,B,test,08.png,GPT_4o,a,"The card has two different symbols in opposite corners, similar to card ""a"".",0.0,a,All different,1.0
+1,B,test,09.png,GPT_4o,a,"The card has two different symbols in opposite corners, similar to card ""a"".",0.0,a,All different,1.0
+1,B,test,10.png,GPT_4o,a,"The card has two different symbols in opposite corners, similar to card ""a"".",0.0,a,All different,1.0
+1,B,test,01.png,GPT_4o,b,"The card has a similar layout and icon style to card ""b"".",0.0,a,All same,0.0
+1,B,test,02.png,GPT_4o,b,"The card features a similar layout and recurring icon pattern like card ""b"".",0.0,b,All same,1.0
+1,B,test,03.png,GPT_4o,b,"The card has a similar configuration and icon positioning to card ""b"".",0.0,b,All same,0.0
+1,B,test,04.png,GPT_4o,a,"The card has a layout and icon style similar to card ""a"".",0.0,a,All different,0.0
+1,B,test,05.png,GPT_4o,b,"The card displays a similar icon positioning and pattern to card ""b"".",0.0,b,All same,1.0
+1,B,test,06.png,GPT_4o,b,"The card features a similar icon placement and recurring pattern like card ""b"".",0.0,b,All same,1.0
+1,B,test,07.png,GPT_4o,b,"The card shows a similar icon layout and recurring pattern like card ""b"".",0.0,b,All same,1.0
+1,B,test,08.png,GPT_4o,b,"The card has a similar icon placement and pattern to card ""b"".",0.0,a,All same,1.0
+1,B,test,09.png,GPT_4o,a,"The card features a similar layout and icon positioning to card ""a"".",0.0,a,All different,0.0
+1,B,test,10.png,GPT_4o,a,"The card has a similar layout and icon arrangement to card ""a"".",0.0,a,All different,0.0
+1,B,test,01.png,GPT_4o,b,"explanation: The card features single symbols positioned similarly to those on card ""b"".",0.0,a,All same,0.0
+1,B,test,02.png,GPT_4o,b,"explanation: The card has pairs of similar symbols positioned vertically, like on card ""b"".",0.0,b,All same,1.0
+1,B,test,03.png,GPT_4o,b,"explanation: The card has two identical symbols positioned similarly to those on card ""b"".",0.0,b,All same,1.0
+1,B,test,04.png,GPT_4o,a,"explanation: The card features distinct symbols in the top and bottom, similar to card ""a"".",0.0,a,All different,1.0
+1,B,test,05.png,GPT_4o,b,"explanation: The card has two identical symbols positioned similarly to those on card ""b"".",0.0,b,All same,1.0
+1,B,test,06.png,GPT_4o,b,"explanation: The card features two identical symbols positioned similarly to those on card ""b"".",0.0,b,All same,1.0
+1,B,test,07.png,GPT_4o,b,"explanation: The card has identical symbols positioned similarly to those on card ""b"".",0.0,b,All same,1.0
+1,B,test,08.png,GPT_4o,a,"explanation: The card features distinct symbols in the top and bottom, similar to card ""a"".",0.0,a,All different,1.0
+1,B,test,09.png,GPT_4o,a,"explanation: The card features distinct symbols in the top and bottom, similar to card ""a"".",0.0,a,All different,1.0
+1,B,test,10.png,GPT_4o,a,"explanation: The card features distinct symbols in the top and bottom, similar to card ""a"".",0.0,a,All different,1.0
+1,B,test,01.png,GPT_4o,b,"The card features two distinct icons similar to card ""b.""",0.0,a,All same,1.0
+1,B,test,02.png,GPT_4o,b,"The card features identical icons, similar to card ""b.""",0.0,b,All same,1.0
+1,B,test,03.png,GPT_4o,b,"The card features two identical icons, similar to card ""b.""",0.0,b,All same,1.0
+1,B,test,04.png,GPT_4o,a,"The card features two different icons, similar to card ""a.""",0.0,a,All different,1.0
+1,B,test,05.png,GPT_4o,b,"The card features identical icons, similar to card ""b.""",0.0,b,All same,1.0
+1,B,test,06.png,GPT_4o,b,"The card features identical icons, similar to card ""b.""",0.0,b,All same,1.0
+1,B,test,07.png,GPT_4o,b,"The card features identical icons, similar to card ""b.""",0.0,b,All same,1.0
+1,B,test,08.png,GPT_4o,a,"The card features two different icons, similar to card ""a.""",0.0,a,All different,1.0
+1,B,test,09.png,GPT_4o,a,"The card features two different icons, similar to card ""a.""",0.0,a,All different,1.0
+1,B,test,10.png,GPT_4o,a,"The card features two different icons, similar to card ""a.""",0.0,a,All different,1.0
+1,B,test,01.png,GPT_4o,b,"The card shares a similar pattern with card ""b"".",0.0,a,All same,1.0
+1,B,test,02.png,GPT_4o,b,"The card has a similar abstract pattern to card ""b"".",0.0,b,All same,0.0
+1,B,test,03.png,GPT_4o,b,"The card features a pattern similar to card ""b"".",0.0,b,All same,1.0
+1,B,test,04.png,GPT_4o,a,"The card has icons similar to those on card ""a"".",0.0,a,All different,1.0
+1,B,test,05.png,GPT_4o,b,"The card has a similar pattern to card ""b"".",0.0,b,All same,1.0
+1,B,test,06.png,GPT_4o,b,"The card has a similar abstract pattern to card ""b"".",0.0,b,All same,0.0
+1,B,test,07.png,GPT_4o,b,"The card shares a similar pattern with card ""b"".",0.0,b,All same,1.0
+1,B,test,08.png,GPT_4o,b,"The card has a similar pattern to card ""b"".",0.0,a,All same,1.0
+1,B,test,09.png,GPT_4o,a,"The card features icons similar to those on card ""a"".",0.0,a,All different,0.0
+1,B,test,10.png,GPT_4o,a,"The card features icons similar to those on card ""a"".",0.0,a,All different,0.0
+1,B,test,01.png,GPT_4o,b,Explanation: Similar design layout with distinct icons.,0.0,a,All same,1.0
+1,B,test,02.png,GPT_4o,b,Explanation: Similar design layout with paired icons.,0.0,b,All same,0.0
+1,B,test,03.png,GPT_4o,b,Explanation: Similar design layout with matching single icons.,0.0,b,All same,0.0
+1,B,test,04.png,GPT_4o,a,Explanation: Similar design layout with distinct icons in opposite corners.,0.0,a,All different,1.0
+1,B,test,05.png,GPT_4o,b,Explanation: Similar design layout with matching single icons.,0.0,b,All same,0.0
+1,B,test,06.png,GPT_4o,b,Explanation: Similar design layout with paired icons.,0.0,b,All same,0.0
+1,B,test,07.png,GPT_4o,b,Explanation: Similar design layout with paired icons.,0.0,b,All same,0.0
+1,B,test,08.png,GPT_4o,a,Explanation: Similar design layout with distinct icons in opposite corners.,0.0,a,All different,1.0
+1,B,test,09.png,GPT_4o,a,Explanation: Similar design layout with distinct icons in opposite corners.,0.0,a,All different,1.0
+1,B,test,10.png,GPT_4o,a,Explanation: Similar design layout with distinct icons in opposite corners.,0.0,a,All different,1.0
+1,A,test,01.png,GPT_o4_mini,a,"it shows the same “X” icon in both corners, just like card a has matching icons.",4751.246537396122,a,All same,1
+1,A,test,02.png,GPT_o4_mini,a,it has the same circle icon in both corners.,3677.090909090909,a,All same,1
+1,A,test,03.png,GPT_o4_mini,b,it has different icons (medal vs. purse) unlike matching pairs.,3055.929515418502,b,All different,1
+1,A,test,04.png,GPT_o4_mini,b,it shows different icons (pencil vs. speaker).,1329.8526315789477,b,All different,1
+1,A,test,05.png,GPT_o4_mini,a,it has matching pause-bar icons in both corners.,4377.867595818815,a,All same,1
+1,A,test,06.png,GPT_o4_mini,a,it has matching radio icons in both corners.,1571.0967741935483,a,All same,1
+1,A,test,07.png,GPT_o4_mini,b,it has different icons (camera vs. tag).,2231.0886075949365,b,All different,1
+1,A,test,08.png,GPT_o4_mini,b,it has different icons (wavy lines with droplet vs. cake).,2616.1057268722466,b,All different,1
+1,A,test,09.png,GPT_o4_mini,b,"the arrow clusters aren’t identical shapes in both corners, so it pairs with b.",9487.342026078237,a,All different,1
+1,A,test,10.png,GPT_o4_mini,b,it shows different icons (thermometer vs. football).,2378.4,b,All different,1
+1,A,test,01.png,GPT_o4_mini,a,"both the top-right and bottom-left icons are identical, just like in card “a.”",2484.313043478261,a,All same,1
+1,A,test,02.png,GPT_o4_mini,a,both icons are identical circles.,2220.051948051948,a,All same,1
+1,A,test,03.png,GPT_o4_mini,b,the two corner icons differ.,2392.103896103896,b,All different,1
+1,A,test,04.png,GPT_o4_mini,b,the two corner icons are different.,3164.931506849315,b,All different,1
+1,A,test,05.png,GPT_o4_mini,a,both corner icons are the same pair of vertical bars.,2168.754716981132,a,All same,1
+1,A,test,06.png,GPT_o4_mini,a,both corner icons are identical radios.,3338.5205479452056,a,All same,1
+1,A,test,07.png,GPT_o4_mini,b,the top-right camera icon and the bottom-left tag icon are different.,3383.8951965065503,b,All different,1
+1,A,test,08.png,GPT_o4_mini,b,the top-right droplet icon and bottom-left cake icon are different.,4309.152542372882,b,All different,1
+1,A,test,09.png,GPT_o4_mini,a,both corner icons are the same set of directional arrows.,2816.286995515696,a,All same,1
+1,A,test,10.png,GPT_o4_mini,b,the top-right thermometer icon and the bottom-left football icon are different.,2025.0864197530864,b,All different,1
+1,A,test,01.png,GPT_o4_mini,a,it matches sample “a”’s pattern of having the same icon in both corners.,2990.191304347826,a,All same,1
+1,A,test,02.png,GPT_o4_mini,a,both corners feature the same circle icon.,2649.6,a,All same,1
+1,A,test,03.png,GPT_o4_mini,b,it has two different icons in the corners.,2862.6244343891403,b,All different,1
+1,A,test,04.png,GPT_o4_mini,b,it has two different icons in the corners.,5670.909853249476,b,All different,1
+1,A,test,05.png,GPT_o4_mini,a,both corners show the same double-bar icon.,2168.7088607594937,a,All same,1
+1,A,test,06.png,GPT_o4_mini,a,both corners show the same radio icon.,2260.5128205128203,a,All same,1
+1,A,test,07.png,GPT_o4_mini,b,it has two different icons in the corners.,2143.388535031847,b,All different,1
+1,A,test,08.png,GPT_o4_mini,b,it has two different icons in the corners.,2780.9592760180994,b,All different,1
+1,A,test,09.png,GPT_o4_mini,a,both corners feature the same arrow-key cluster icon.,2212.22641509434,a,All same,1
+1,A,test,10.png,GPT_o4_mini,b,it shows two different icons in the corners.,2738.547770700637,b,All different,1
+1,A,test,01.png,GPT_o4_mini,a,"it has two identical X icons, matching the “a” pattern of paired identical symbols.",4537.9336492891,a,All same,1
+1,A,test,02.png,GPT_o4_mini,a,"it shows two identical gray circles, matching the paired-symbol pattern of “a.”",1703.8048780487804,a,All same,1
+1,A,test,03.png,GPT_o4_mini,b,"it features two different icons (medal and purse), matching the mixed-symbol pattern of “b.”",2773.6995708154504,b,All different,1
+1,A,test,04.png,GPT_o4_mini,b,"it has two different icons (pencil and speaker), matching the mixed-symbol pattern of “b.”",2089.904761904762,b,All different,1
+1,A,test,05.png,GPT_o4_mini,a,"it shows two identical double-bar icons, matching the paired-symbol pattern of “a.”",3682.240896358544,a,All same,1
+1,A,test,06.png,GPT_o4_mini,a,"it shows two identical radio icons, matching the paired-symbol pattern of “a.”",2564.2105263157896,a,All same,1
+1,A,test,07.png,GPT_o4_mini,b,"it has two different icons (camera and tag), matching the mixed-symbol pattern of “b.”",2627.324675324676,b,All different,1
+1,A,test,08.png,GPT_o4_mini,b,"it shows two different icons (water droplet with waves and cake), matching the mixed-symbol pattern of “b.”",3286.046822742475,b,All different,1
+1,A,test,09.png,GPT_o4_mini,a,"it shows two identical arrow-key clusters, matching the paired-symbol pattern of “a.”",2178.327272727273,a,All same,1
+1,A,test,10.png,GPT_o4_mini,b,"it has two different icons (thermometer and football), matching the mixed-symbol pattern of “b.”",2091.171597633136,b,All different,1
+1,A,test,01.png,GPT_o4_mini,a,"it has the same “X” icon in both spots, matching the identical‐icon pattern of card a.",3249.2936170212765,a,All same,1
+1,A,test,02.png,GPT_o4_mini,a,"it shows the same circle icon in both positions, matching the identical‐icon pattern of card a.",2814.4761904761904,a,All same,1
+1,A,test,03.png,GPT_o4_mini,b,"it features two different icons, matching card b’s pattern of distinct symbols.",1815.919191919192,b,All different,1
+1,A,test,04.png,GPT_o4_mini,b,"it has two different icons, matching card b’s distinct‐icon pattern.",3233.7668711656443,b,All different,1
+1,A,test,05.png,GPT_o4_mini,a,"it shows the same double‐bar icon in both spots, matching card a’s identical‐icon pattern.",2568.331360946745,a,All same,1
+1,A,test,06.png,GPT_o4_mini,a,"it shows two identical radio icons, matching card a’s identical‐icon pattern.",3226.5365853658536,a,All same,1
+1,A,test,07.png,GPT_o4_mini,b,"it shows two different icons (camera and tag), matching card b’s distinct-icon pattern.",2049.864077669903,b,All different,1
+1,A,test,08.png,GPT_o4_mini,b,"it shows two different icons (water drop and cake), matching card b’s distinct‐icon pattern.",1206.7692307692307,b,All different,1
+1,A,test,09.png,GPT_o4_mini,a,"it shows the same arrow‐key cluster in both positions, matching card a’s identical‐icon pattern.",3690.020202020202,a,All same,1
+1,A,test,10.png,GPT_o4_mini,b,"it has two different icons, matching card b’s distinct‐icon pattern.",1572.8484848484848,b,All different,1
+1,A,test,01.png,GPT_o4_mini,a,"it has identical X icons top right and bottom left, matching like card a.",4367.640449438202,a,All same,1
+1,A,test,02.png,GPT_o4_mini,a,"it shows two identical circle icons in matching positions, like card a.",3368.495575221239,a,All same,1
+1,A,test,03.png,GPT_o4_mini,b,"it has two different icons (medal and bag), matching the mixed-icon pattern of card b.",2182.095238095238,b,All different,1
+1,A,test,04.png,GPT_o4_mini,b,"it shows a pencil and a speaker icon, two different symbols like card b.",3025.684210526316,b,All different,1
+1,A,test,05.png,GPT_o4_mini,a,"it shows the same double-bar icon top right and bottom left, matching card a.",3191.3739130434783,a,All same,1
+1,A,test,06.png,GPT_o4_mini,a,"it has identical radio icons top right and bottom left, matching card a.",2361.325153374233,a,All same,1
+1,A,test,07.png,GPT_o4_mini,b,"it has two different icons (camera and tag), matching card b.",3523.0896551724136,b,All different,1
+1,A,test,08.png,GPT_o4_mini,b,"it shows two different icons (waves with a droplet and a cake), matching the mixed-icon pattern of card b.",3266.9767441860463,b,All different,1
+1,A,test,09.png,GPT_o4_mini,a,"it has identical arrow-pad icons top right and bottom left, matching card a.",2757.0526315789475,a,All same,1
+1,A,test,10.png,GPT_o4_mini,b,"it shows two different icons (thermometer and football), matching card b.",2358.634146341464,b,All different,1
+1,A,test,01.png,GPT_o4_mini,a,it has two identical “X in a box” icons just like card a’s matching icons.,4040.6486486486488,a,All same,1
+1,A,test,02.png,GPT_o4_mini,a,"it shows two identical circle icons, matching card a’s identical-icon pattern.",3685.215859030837,a,All same,1
+1,A,test,03.png,GPT_o4_mini,b,"it has two different icons, matching card b’s mixed-icon pattern.",2838.3716814159293,b,All different,1
+1,A,test,04.png,GPT_o4_mini,b,"it has two different icons, fitting card b’s pattern.",2713.44099378882,b,All different,1
+1,A,test,05.png,GPT_o4_mini,a,"it shows two identical bar icons, matching card a’s identical-icon pattern.",2994.185022026432,a,All same,1
+1,A,test,06.png,GPT_o4_mini,a,"it shows two identical radio icons, fitting card a’s identical-icon pattern.",2718.625766871165,a,All same,1
+1,A,test,07.png,GPT_o4_mini,b,"it has two different icons, fitting card b’s mixed-icon pattern.",1718.857142857143,b,All different,1
+1,A,test,08.png,GPT_o4_mini,b,"it has two different icons, matching card b’s mixed-icon pattern.",2341.925925925926,b,All different,1
+1,A,test,09.png,GPT_o4_mini,a,"it shows two identical arrow-key cluster icons, matching card a’s identical-icon pattern.",7931.091445427729,a,All same,1
+1,A,test,10.png,GPT_o4_mini,b,"it has two different icons (thermometer and football), matching card b’s mixed-icon pattern.",2928.8275862068967,b,All different,1
+1,A,test,01.png,GPT_o4_mini,a,it has two identical “X” icons like card a has two identical jacket icons.,4623.91061452514,a,All same,1
+1,A,test,02.png,GPT_o4_mini,a,"it shows two identical circle icons, matching card a’s pattern of duplicate symbols.",2223.609756097561,a,All same,1
+1,A,test,03.png,GPT_o4_mini,b,"it shows two different icons (medal and purse), matching card b’s mixed‐symbol pattern.",2261.333333333333,b,All different,1
+1,A,test,04.png,GPT_o4_mini,b,"it has two different icons (pencil and speaker), matching card b’s mixed‐symbol pattern.",5217.72972972973,b,All different,1
+1,A,test,05.png,GPT_o4_mini,b,"it shows two different bar icons (tall and short), matching card b’s mixed-symbol pattern.",3852.929292929293,a,All different,1
+1,A,test,06.png,GPT_o4_mini,a,"it shows two identical radio icons, matching card a’s duplicate-symbol pattern.",1589.010101010101,a,All same,1
+1,A,test,07.png,GPT_o4_mini,b,"it has two different icons (camera and tag), matching card b’s mixed‐symbol pattern.",3179.220779220779,b,All different,1
+1,A,test,08.png,GPT_o4_mini,b,"it has two different icons (water droplet and cake), matching card b’s mixed-symbol pattern.",1304.3809523809523,b,All different,1
+1,A,test,09.png,GPT_o4_mini,a,"it shows two identical arrow‐key clusters, matching card a’s duplicate‐symbol pattern.",4682.905027932961,a,All same,1
+1,A,test,10.png,GPT_o4_mini,b,"it has two different icons (thermometer and football), matching card b’s mixed‐symbol pattern.",1444.571428571429,b,All different,1
+1,A,test,01.png,GPT_o4_mini,a,"it has the same “X” symbol in both corners, just like card a’s matching icons.",3444.463519313305,a,All same,1
+1,A,test,02.png,GPT_o4_mini,a,it shows two identical circles like card a’s matching-icon pattern.,3345.92,a,All same,1
+1,A,test,03.png,GPT_o4_mini,b,"it has two different icons (medal and bag), matching card b’s pattern of distinct symbols.",2049.5147928994083,b,All different,1
+1,A,test,04.png,GPT_o4_mini,b,"it shows two different icons (pencil and speaker), matching card b’s pattern of distinct symbols.",1951.0532544378696,b,All different,1
+1,A,test,05.png,GPT_o4_mini,a,"it shows two identical bar icons, matching card a’s pattern of identical symbols.",2421.853658536585,a,All same,1
+1,A,test,06.png,GPT_o4_mini,a,"it has two identical radio icons, matching card a’s pattern of identical symbols.",2357.853658536585,a,All same,1
+1,A,test,07.png,GPT_o4_mini,b,"it shows two different icons (camera and tag), matching card b’s pattern of distinct symbols.",2310.8982035928143,b,All different,1
+1,A,test,08.png,GPT_o4_mini,b,"it has two different icons (water drop with waves and a cake), matching card b’s pattern of distinct symbols.",1486.3551401869158,b,All different,1
+1,A,test,09.png,GPT_o4_mini,a,"it has two identical arrow‐key clusters, matching card a’s pattern of identical symbols.",5629.876777251185,a,All same,1
+1,A,test,10.png,GPT_o4_mini,b,"it shows two different icons (thermometer and football), matching card b’s pattern of distinct symbols.",2761.3390557939915,b,All different,1
+1,A,test,01.png,GPT_o4_mini,a,"it has the same icon in both corners, matching card a’s pattern.",2630.736842105264,a,All same,1
+1,A,test,02.png,GPT_o4_mini,a,"it features the same circle icon in both corners, matching card a’s pattern.",3441.972602739726,a,All same,1
+1,A,test,03.png,GPT_o4_mini,b,"it has two different icons in the corners, matching card b’s pattern.",3266.5374449339206,b,All different,1
+1,A,test,04.png,GPT_o4_mini,b,"it has two different icons in the corners, matching card b’s pattern.",2170.5030674846626,b,All different,1
+1,A,test,05.png,GPT_o4_mini,a,"it shows the same double-bar icon in both corners, matching card a’s pattern.",4842.767772511848,a,All same,1
+1,A,test,06.png,GPT_o4_mini,a,"it features the same radio icon in both corners, matching card a’s pattern.",1199.36,a,All same,1
+1,A,test,07.png,GPT_o4_mini,b,"it shows two different icons in the corners, matching card b’s pattern.",2649.938325991189,b,All different,1
+1,A,test,08.png,GPT_o4_mini,b,"it has two different icons in the corners, matching card b’s pattern.",2393.521472392638,b,All different,1
+1,A,test,09.png,GPT_o4_mini,a,"it shows the identical arrow-key cluster in both corners, matching card a’s pattern.",8931.723122238585,a,All same,1
+1,A,test,10.png,GPT_o4_mini,b,"it has two different icons in the corners, matching card b’s pattern.",3140.511013215859,b,All different,1
+1,B,test,01.png,GPT_o4_mini,a,"this card features object icons (megaphone, shield) like “a,” whereas “b” only shows abstract geometric shapes.",4796.502732240438,a,All different,0
+1,B,test,02.png,GPT_o4_mini,a,"it shows representational icons (footprints) like those on “a,” not abstract shapes.",2883.809523809524,b,All different,0
+1,B,test,03.png,GPT_o4_mini,b,"it displays abstract shapes like “b,” not concrete object icons.",2404.968944099379,b,All same,0
+1,B,test,04.png,GPT_o4_mini,a,"it features recognizable object icons (house and control pad) like those on “a,” not abstract shapes.",6579.058171745152,a,All different,0
+1,B,test,05.png,GPT_o4_mini,a,"it shows representational icons (megaphones) like those on “a,” not abstract shapes.",4389.189189189189,b,All different,0
+1,B,test,06.png,GPT_o4_mini,a,"it shows representational speaker icons like those on “a,” not abstract shapes.",3850.5205479452056,b,All different,0
+1,B,test,07.png,GPT_o4_mini,a,"it shows representational trash-can icons like those on “a,” not abstract shapes.",2569.253012048193,b,All different,0
+1,B,test,08.png,GPT_o4_mini,a,"it shows concrete object icons (folder and files) like “a,” not abstract shapes.",2683.373493975904,a,All different,0
+1,B,test,09.png,GPT_o4_mini,a,"it shows concrete object icons (house and gear) like “a,” not abstract shapes.",3153.808695652174,a,All different,0
+1,B,test,10.png,GPT_o4_mini,a,"it includes a representational object icon (the dice) like the “a” cards, not purely abstract shapes.",9054.92904953146,a,All different,0
+1,B,test,01.png,GPT_o4_mini,b,"it matches the two-icon layout (one at top right, one at bottom left) like card b.",2918.5641025641025,a,All same,0
+1,B,test,02.png,GPT_o4_mini,b,"it has two icons placed top-right and bottom-left, matching card b’s layout.",6234.518760195759,b,All same,0
+1,B,test,03.png,GPT_o4_mini,b,"it shows the same banner icon in both corners, just like card b.",6168.470588235294,b,All same,1
+1,B,test,04.png,GPT_o4_mini,a,"it shows two different icons (flower and house), matching card a’s mixed-icon pattern.",10667.627627627628,a,All different,1
+1,B,test,05.png,GPT_o4_mini,b,"it features the same megaphone icon in both corners, matching card b’s pattern.",4217.938718662953,b,All same,1
+1,B,test,06.png,GPT_o4_mini,b,"it has the same speaker icon in both corners, matching card b’s identical-icon pattern.",9211.235732009924,b,All same,1
+1,B,test,07.png,GPT_o4_mini,b,"it features the same trash can icon in both corners, matching card b’s identical-icon pattern.",3792.432432432433,b,All same,1
+1,B,test,08.png,GPT_o4_mini,a,"it shows two different icons (a folder and a stack), matching card a’s mixed-icon pattern.",5928.655737704919,a,All different,1
+1,B,test,09.png,GPT_o4_mini,a,"it shows two different icons (house and gear), matching card a’s mixed-icon pattern.",1639.3253012048192,a,All different,1
+1,B,test,10.png,GPT_o4_mini,a,"it has two different icons (asterisk and dice), matching card a’s mixed-icon pattern.",5208.056737588652,a,All different,1
+1,B,test,01.png,GPT_o4_mini,a,"It has two different icons (megaphone and shield) just like card a, whereas card b shows two identical icons.",2073.895953757225,a,All different,1
+1,B,test,02.png,GPT_o4_mini,b,"It shows two identical footprint icons, matching the “two same icons” pattern of card b.",3930.0278551532033,b,All same,1
+1,B,test,03.png,GPT_o4_mini,b,"It features two identical flag icons, matching the “same‐icon” pattern of card b.",2089.1428571428573,b,All same,1
+1,B,test,04.png,GPT_o4_mini,a,"It has two different icons (petal flower and house), matching the mixed‐icon pattern of card a.",1944.0941176470587,a,All different,1
+1,B,test,05.png,GPT_o4_mini,b,"It shows two identical megaphone icons, matching card b’s same-icon pattern.",2954.295652173913,b,All same,1
+1,B,test,06.png,GPT_o4_mini,b,"It shows two identical speaker icons, matching card b’s same-icon pattern.",2804.7224669603524,b,All same,1
+1,B,test,07.png,GPT_o4_mini,b,"It shows two identical trash-bin icons, matching the “same-icon” pattern of card b.",1843.5029585798816,b,All same,1
+1,B,test,08.png,GPT_o4_mini,a,"It shows two different file-related icons (a folder and a document stack), matching card a’s mixed-icon pattern.",2923.1186440677966,a,All different,1
+1,B,test,09.png,GPT_o4_mini,a,"It has two different icons (house and gear), matching card a’s mixed-icon pattern.",2362.602409638554,a,All different,1
+1,B,test,10.png,GPT_o4_mini,a,"It has two different icons (asterisk and dice), matching card a’s mixed-icon pattern.",3849.545762711864,a,All different,1
+1,B,test,01.png,GPT_o4_mini,a,The card has the same sharp-cornered frame and top-right/bottom-left icon layout as “a.”,4811.397260273972,a,All different,0
+1,B,test,02.png,GPT_o4_mini,b,"it shows the same footprint icon in both corners, matching the paired-icon layout of “b.”",6285.798767967146,b,All same,1
+1,B,test,03.png,GPT_o4_mini,b,"It has the rounded-corner frame and the same icon in both corners, like “b.”",6231.346642468239,b,All same,1
+1,B,test,04.png,GPT_o4_mini,a,"It has different icons in the two corners, matching the mismatched-icon pattern of “a.”",5454.978723404255,a,All different,1
+1,B,test,05.png,GPT_o4_mini,b,"It shows the same speaker icon in both corners, matching “b.”",2776.4938271604938,b,All same,1
+1,B,test,06.png,GPT_o4_mini,b,"It has the same speaker icon in both corners and the rounded frame, matching “b.”",4059.428571428572,b,All same,1
+1,B,test,07.png,GPT_o4_mini,b,"It has identical trash-can icons in both corners, matching “b.”",4050.096551724138,b,All same,1
+1,B,test,08.png,GPT_o4_mini,a,"It shows two different folder/file icons in opposite corners, matching the mismatched-icon pattern of “a.”",2804.1888412017165,a,All different,1
+1,B,test,09.png,GPT_o4_mini,a,"It has different icons (house vs. gear) in opposite corners, matching “a.”",3248.1391304347826,a,All different,1
+1,B,test,10.png,GPT_o4_mini,a,"It shows two different icons (asterisk vs. dice), matching the mismatched-icon pattern of “a.”",3159.4212765957445,a,All different,1
+1,B,test,01.png,GPT_o4_mini,a,"it has two different icons (megaphone and shield) like card a, whereas card b shows the same shape twice.",5843.555555555556,a,All different,1
+1,B,test,02.png,GPT_o4_mini,b,"it shows the same boot icon twice, matching card b’s repeated-shape pattern.",2064.2909090909093,b,All same,1
+1,B,test,03.png,GPT_o4_mini,b,"it has two identical flag icons, matching card b’s repeated-shape pattern.",2613.894736842105,b,All same,1
+1,B,test,04.png,GPT_o4_mini,a,"it shows two different icons (a house and a petal shape), matching card a’s mixed-icon pattern.",2770.871794871795,a,All different,1
+1,B,test,05.png,GPT_o4_mini,b,"it has two identical megaphone icons, matching card b’s repeated-shape pattern.",3351.5102040816328,b,All same,1
+1,B,test,06.png,GPT_o4_mini,b,"it has two identical speaker icons, matching card b’s repeated-shape pattern.",1291.52,b,All same,1
+1,B,test,07.png,GPT_o4_mini,b,"it features two identical trash bin icons, matching card b’s repeated-shape pattern.",2304.0,b,All same,1
+1,B,test,08.png,GPT_o4_mini,a,"it shows two different icons (a folder and a document stack), matching card a’s mixed-icon pattern.",2817.37339055794,a,All different,1
+1,B,test,09.png,GPT_o4_mini,a,"it features two different icons (a house and a gear), matching card a’s mixed-icon pattern.",1348.3076923076924,a,All different,1
+1,B,test,10.png,GPT_o4_mini,a,"it shows two different icons (an asterisk and dice), matching card a’s mixed-icon pattern.",4532.756756756757,a,All different,1
+1,B,test,01.png,GPT_o4_mini,a,"It has two different icons (top and bottom) just like card “a,” unlike “b” which repeats the same shape.",3088.953642384106,a,All different,1
+1,B,test,02.png,GPT_o4_mini,b,It shows two identical icons (matching shapes) just like card “b.”,2113.1779141104294,b,All same,1
+1,B,test,03.png,GPT_o4_mini,b,"It displays the same icon top and bottom, matching card “b.”",5443.980861244019,b,All same,1
+1,B,test,04.png,GPT_o4_mini,a,"It has two different icons top and bottom, just like card “a.”",2483.312775330397,a,All different,1
+1,B,test,05.png,GPT_o4_mini,b,It has two identical megaphone icons top and bottom.,2824.285714285714,b,All same,1
+1,B,test,06.png,GPT_o4_mini,b,"It shows the same speaker icon in both positions, matching card “b.”",2806.4140969162995,b,All same,1
+1,B,test,07.png,GPT_o4_mini,b,"It features the same trash bin icon at top and bottom, matching card “b.”",2845.624454148472,b,All same,1
+1,B,test,08.png,GPT_o4_mini,a,"It shows two different icons (a folder and a stack) top and bottom, like card “a.”",2322.9349112426034,a,All different,1
+1,B,test,09.png,GPT_o4_mini,a,"It has two different icons (house and gear) top and bottom, just like card “a.”",1010.4615384615385,a,All different,1
+1,B,test,10.png,GPT_o4_mini,a,"It has two different icons top and bottom, just like card “a.”",2301.6441717791413,a,All different,1
+1,B,test,01.png,GPT_o4_mini,a,it has two different icons (shield and megaphone) like card a,3331.368421052632,a,All different,1
+1,B,test,02.png,GPT_o4_mini,b,it shows two identical boot icons like card b.,4948.114285714286,b,All same,1
+1,B,test,03.png,GPT_o4_mini,b,it has two identical flag icons like card b.,2153.3164556962024,b,All same,1
+1,B,test,04.png,GPT_o4_mini,a,it shows two different icons (flower and house) like card a.,3078.7665198237887,a,All different,1
+1,B,test,05.png,GPT_o4_mini,b,it has two identical megaphone icons like card b.,2688.8,b,All same,1
+1,B,test,06.png,GPT_o4_mini,b,it has two identical speaker icons like card b.,2650.810810810811,b,All same,1
+1,B,test,07.png,GPT_o4_mini,b,it has two identical trash can icons like card b.,2383.698113207547,b,All same,1
+1,B,test,08.png,GPT_o4_mini,a,it shows two different file/folder icons like card a.,4015.4545454545455,a,All different,1
+1,B,test,09.png,GPT_o4_mini,a,it has two different icons (house and gear) like card a.,1665.3061224489795,a,All different,1
+1,B,test,10.png,GPT_o4_mini,a,it has two different icons (asterisk and dice) like card a.,2114.7484662576685,a,All different,1
+1,B,test,01.png,GPT_o4_mini,a,"it pairs two different icons (megaphone and shield) just like card a does (people and drone), unlike card b which shows two identical cones.",5471.680638722555,a,All different,1
+1,B,test,02.png,GPT_o4_mini,b,"it shows two identical footprints in opposite corners, matching card b’s pattern of identical icons.",3098.810810810811,b,All same,1
+1,B,test,03.png,GPT_o4_mini,b,"it shows two identical flags in opposite corners, matching card b’s pattern.",2616.95154185022,b,All same,1
+1,B,test,04.png,GPT_o4_mini,a,"it features two different icons (flower and house) in opposite corners, matching card a’s pattern.",2515.776824034335,a,All different,1
+1,B,test,05.png,GPT_o4_mini,b,"it shows two identical megaphones in opposite corners, matching card b’s pattern.",2177.397379912664,b,All same,1
+1,B,test,06.png,GPT_o4_mini,b,"it shows two identical speaker icons in opposite corners, matching card b’s pattern.",1000.32,b,All same,1
+1,B,test,07.png,GPT_o4_mini,b,"it shows two identical trash bins in opposite corners, matching card b’s pattern.",1189.12,b,All same,1
+1,B,test,08.png,GPT_o4_mini,a,"it pairs two different folder icons in opposite corners, matching card a’s pattern.",1192.96,a,All different,1
+1,B,test,09.png,GPT_o4_mini,a,"it pairs two different icons (house and gear) in opposite corners, matching card a’s pattern.",2013.7142857142856,a,All different,1
+1,B,test,10.png,GPT_o4_mini,a,"it shows two different icons (asterisk and dice) in opposite corners, matching card a’s pattern.",2517.585798816568,a,All different,1
+1,B,test,01.png,GPT_o4_mini,a,"it has two different symbols like card a, not matching identical shapes as in card b.",2328.0,a,All different,1
+1,B,test,02.png,GPT_o4_mini,b,"it shows the same icon in both spots, matching the identical-shape pattern of card b.",3203.45945945946,b,All same,1
+1,B,test,03.png,GPT_o4_mini,b,it has two identical shapes just like card b’s matching-shape pattern.,1312.64,b,All same,1
+1,B,test,04.png,GPT_o4_mini,a,"it features two different icons, matching the mixed‐shape pattern of card a.",2985.2631578947367,a,All different,1
+1,B,test,05.png,GPT_o4_mini,b,"it shows two identical megaphone icons, matching card b’s identical-shape pattern.",3045.28695652174,b,All same,1
+1,B,test,06.png,GPT_o4_mini,b,"it has two identical speaker icons, matching the identical-shape pattern of card b.",2802.0262008733625,b,All same,1
+1,B,test,07.png,GPT_o4_mini,b,"it shows two identical trash-can icons, matching card b’s identical-shape pattern.",2428.235294117647,b,All same,1
+1,B,test,08.png,GPT_o4_mini,a,"it shows two different icons (folder and papers), matching card a’s mixed-shape pattern.",1890.1077844311376,a,All different,1
+1,B,test,09.png,GPT_o4_mini,a,"it has two different icons, matching card a’s mixed‐shape pattern.",1925.4969325153368,a,All different,1
+1,B,test,10.png,GPT_o4_mini,a,"it has two different icons (an asterisk and dice), matching card a’s mixed-shape pattern.",1582.3238095238096,a,All different,1
+1,B,test,01.png,GPT_o4_mini,a,it has two different icons like card a rather than two of the same icon like card b.,5528.081799591002,a,All different,1
+1,B,test,02.png,GPT_o4_mini,b,"it has two identical shoe-print icons, matching card b’s pattern.",2738.5263157894738,b,All same,1
+1,B,test,03.png,GPT_o4_mini,b,"it features two identical flag icons, matching the pattern of card b.",2106.1104294478528,b,All same,1
+1,B,test,04.png,GPT_o4_mini,a,"it shows two different icons (flower and house), matching card a’s pattern.",2312.5853658536585,a,All different,1
+1,B,test,05.png,GPT_o4_mini,b,"it shows two identical megaphone icons, matching card b’s pattern.",3511.8237885462554,b,All same,1
+1,B,test,06.png,GPT_o4_mini,b,"it displays two identical speaker icons, matching card b’s pattern.",3271.68,b,All same,1
+1,B,test,07.png,GPT_o4_mini,b,"it has two identical trash can icons, matching card b’s pattern.",3107.6814159292035,b,All same,1
+1,B,test,08.png,GPT_o4_mini,a,"it shows two different icons (a folder and a document), matching card a’s pattern.",6458.205761316873,a,All different,1
+1,B,test,09.png,GPT_o4_mini,a,"it shows two different icons (house and gear), matching card a’s pattern.",2533.4634146341464,a,All different,1
+1,B,test,10.png,GPT_o4_mini,a,"it has two different icons (star/asterisk and dice), matching card a’s pattern.",2857.3892215568862,a,All different,1

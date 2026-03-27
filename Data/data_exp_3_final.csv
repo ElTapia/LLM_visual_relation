@@ -1,0 +1,1427 @@
+Exp,Set,Split,File,Model,Answer,Explanation,Razon time,Entropy,Decision,Relevance
+3,A,test,01.png,Gemini_2_5_flash,b,"It contains multiple identical icons, similar to card ""b"".",0.0,0,All same,1
+3,A,test,02.png,Gemini_2_5_flash,a,"It contains a variety of different icons, similar to card ""a"".",0.0,4,All different,1
+3,A,test,03.png,Gemini_2_5_flash,a,"It contains a mix of different icons, similar to card ""a"".",0.0,1,All different,1
+3,A,test,04.png,Gemini_2_5_flash,a,"It contains a variety of different icons, similar to card ""a"".",0.0,3,All different,1
+3,A,test,05.png,Gemini_2_5_flash,a,"It contains a mix of different icons, similar to card ""a"".",0.0,2,All different,1
+3,A,test,06.png,Gemini_2_5_flash,a,"It contains a variety of different icons, similar to card ""a"".",0.0,4,All different,1
+3,A,test,07.png,Gemini_2_5_flash,a,"It contains a variety of different icons, similar to card ""a"".",0.0,3,All different,1
+3,A,test,08.png,Gemini_2_5_flash,b,"It contains multiple identical icons, similar to card ""b"".",0.0,0,All same,1
+3,A,test,09.png,Gemini_2_5_flash,a,"It contains a mix of different icons, similar to card ""a"".",0.0,1,All different,1
+3,A,test,10.png,Gemini_2_5_flash,a,"It contains a mix of different icons, similar to card ""a"".",0.0,2,All different,1
+3,A,test,01.png,Gemini_2_5_flash,b,"It contains multiple identical icons, similar to card ""b"".",0.0,0,All same,1
+3,A,test,02.png,Gemini_2_5_flash,a,"It contains a variety of different icons, similar to card ""a"".",0.0,4,All different,1
+3,A,test,03.png,Gemini_2_5_flash,a,"It contains a variety of different icons, similar to card ""a"".",0.0,1,All different,1
+3,A,test,04.png,Gemini_2_5_flash,a,"It contains a variety of different icons, similar to card ""a"".",0.0,3,All different,1
+3,A,test,05.png,Gemini_2_5_flash,a,"It contains a variety of different icons, similar to card ""a"".",0.0,2,All different,1
+3,A,test,06.png,Gemini_2_5_flash,a,"It contains a variety of different icons, similar to card ""a"".",0.0,4,All different,1
+3,A,test,07.png,Gemini_2_5_flash,a,"It contains a variety of different icons, similar to card ""a"".",0.0,3,All different,1
+3,A,test,08.png,Gemini_2_5_flash,b,"It contains multiple identical icons, similar to card ""b"".",0.0,0,All same,1
+3,A,test,09.png,Gemini_2_5_flash,a,"It contains a variety of different icons, similar to card ""a"", despite having a predominant icon.",0.0,1,All different,1
+3,A,test,10.png,Gemini_2_5_flash,a,"It contains a variety of different icons, similar to card ""a"".",0.0,2,All different,1
+3,A,test,01.png,Gemini_2_5_flash,b,"All icons are identical, similar to card ""b"".",0.0,0,All same,1
+3,A,test,02.png,Gemini_2_5_flash,a,"The card contains diverse icons, similar to card ""a"".",0.0,4,All different,1
+3,A,test,03.png,Gemini_2_5_flash,a,"The card contains diverse icons, not all identical.",0.0,1,All different,1
+3,A,test,04.png,Gemini_2_5_flash,a,"The card contains diverse icons, similar to card ""a"".",0.0,3,All different,1
+3,A,test,05.png,Gemini_2_5_flash,a,"The card contains diverse icons, similar to card ""a"".",0.0,2,All different,1
+3,A,test,06.png,Gemini_2_5_flash,a,"The card contains diverse icons, similar to card ""a"".",0.0,4,All different,1
+3,A,test,07.png,Gemini_2_5_flash,a,"The card contains diverse icons, similar to card ""a"".",0.0,3,All different,1
+3,A,test,08.png,Gemini_2_5_flash,b,"All icons are identical, similar to card ""b"".",0.0,0,All same,1
+3,A,test,09.png,Gemini_2_5_flash,a,"The card contains diverse icons, not all identical.",0.0,1,All different,1
+3,A,test,10.png,Gemini_2_5_flash,a,"The card contains diverse icons, similar to card ""a"".",0.0,2,All different,1
+3,A,test,01.png,Gemini_2_5_flash,b,"All icons on the card are identical, similar to card ""b"".",0.0,0,All same,1
+3,A,test,02.png,Gemini_2_5_flash,a,"The card contains a variety of different icons, similar to card ""a"".",0.0,4,All different,1
+3,A,test,03.png,Gemini_2_5_flash,a,"The card contains a variety of different icons, similar to card ""a"".",0.0,1,All different,1
+3,A,test,04.png,Gemini_2_5_flash,a,"The card contains a variety of different icons, similar to card ""a"".",0.0,3,All different,1
+3,A,test,05.png,Gemini_2_5_flash,a,"The card contains a variety of different icons, similar to card ""a"".",0.0,2,All different,1
+3,A,test,06.png,Gemini_2_5_flash,a,"The card contains a variety of different icons, similar to card ""a"".",0.0,4,All different,1
+3,A,test,07.png,Gemini_2_5_flash,a,"The card contains a variety of different icons, similar to card ""a"".",0.0,3,All different,1
+3,A,test,08.png,Gemini_2_5_flash,b,"All icons on the card are identical, similar to card ""b"".",0.0,0,All same,1
+3,A,test,09.png,Gemini_2_5_flash,a,"The card features a primary repeating icon with several different unique icons, similar to card ""a"" which has some icons that repeat multiple times but also has some unique ones. It does not fit the pattern of ""b"" where all icons are identical.",0.0,1,All different,1
+3,A,test,10.png,Gemini_2_5_flash,a,"The card features a primary repeating icon with several different unique icons, similar to card ""a"".",0.0,2,All different,1
+3,A,test,01.png,Gemini_2_5_flash,b,"All icons on the card are identical, similar to card ""b"".",0.0,0,All same,1
+3,A,test,02.png,Gemini_2_5_flash,a,"The card contains a variety of different icons, similar to card ""a"".",0.0,4,All different,1
+3,A,test,03.png,Gemini_2_5_flash,a,"The card contains a variety of different icons, similar to card ""a"".",0.0,1,All different,1
+3,A,test,04.png,Gemini_2_5_flash,a,"The card contains a variety of different icons, similar to card ""a"".",0.0,3,All different,1
+3,A,test,05.png,Gemini_2_5_flash,a,"The card contains a variety of different icons, similar to card ""a"".",0.0,2,All different,1
+3,A,test,06.png,Gemini_2_5_flash,a,"The card contains a variety of different icons, similar to card ""a"".",0.0,4,All different,1
+3,A,test,07.png,Gemini_2_5_flash,a,"The card contains a variety of different icons, similar to card ""a"".",0.0,3,All different,1
+3,A,test,08.png,Gemini_2_5_flash,b,"All icons on the card are identical, similar to card ""b"".",0.0,0,All same,1
+3,A,test,09.png,Gemini_2_5_flash,a,"The card contains a variety of different icons, not just one repeating icon.",0.0,1,All different,1
+3,A,test,10.png,Gemini_2_5_flash,a,"The card contains a variety of different icons, similar to card ""a"".",0.0,2,All different,1
+3,A,test,01.png,Gemini_2_5_flash,b,"The card shows repeated identical icons, similar to card ""b"".",0.0,0,All same,1
+3,A,test,02.png,Gemini_2_5_flash,a,"The card shows different icons, similar to card ""a"".",0.0,4,All different,1
+3,A,test,03.png,Gemini_2_5_flash,a,"The card shows different icons, similar to card ""a"".",0.0,1,All different,1
+3,A,test,04.png,Gemini_2_5_flash,a,"The card shows different icons, similar to card ""a"".",0.0,3,All different,1
+3,A,test,05.png,Gemini_2_5_flash,a,"The card shows different icons, similar to card ""a"".",0.0,2,All different,1
+3,A,test,06.png,Gemini_2_5_flash,a,"The card shows different icons, similar to card ""a"".",0.0,4,All different,1
+3,A,test,07.png,Gemini_2_5_flash,a,"The card shows different icons, similar to card ""a"".",0.0,3,All different,1
+3,A,test,08.png,Gemini_2_5_flash,b,"The card shows repeated identical icons, similar to card ""b"".",0.0,0,All same,1
+3,A,test,09.png,Gemini_2_5_flash,a,"The card shows different icons, similar to card ""a"", despite having many repeated icons.",0.0,1,All different,1
+3,A,test,10.png,Gemini_2_5_flash,a,"The card shows different icons, similar to card ""a"", despite having many repeated icons.",0.0,2,All different,1
+3,A,test,01.png,Gemini_2_5_flash,b,"It contains repetitions of the same icon, like card ""b"".",0.0,0,All same,1
+3,A,test,02.png,Gemini_2_5_flash,a,"It contains a variety of different icons, like card ""a"".",0.0,4,All different,1
+3,A,test,03.png,Gemini_2_5_flash,a,"It contains a variety of different icons, like card ""a"".",0.0,1,All different,1
+3,A,test,04.png,Gemini_2_5_flash,a,"It contains a variety of different icons, like card ""a"".",0.0,3,All different,1
+3,A,test,05.png,Gemini_2_5_flash,a,"It contains a variety of different icons, like card ""a"".",0.0,2,All different,1
+3,A,test,06.png,Gemini_2_5_flash,a,"It contains a variety of different icons, like card ""a"".",0.0,4,All different,1
+3,A,test,07.png,Gemini_2_5_flash,a,"It contains a variety of different icons, like card ""a"".",0.0,3,All different,1
+3,A,test,08.png,Gemini_2_5_flash,b,"It contains repetitions of the same icon, like card ""b"".",0.0,0,All same,1
+3,A,test,09.png,Gemini_2_5_flash,a,"It contains a variety of different icons, like card ""a"".",0.0,1,All different,1
+3,A,test,10.png,Gemini_2_5_flash,a,"It contains a variety of different icons, like card ""a"".",0.0,2,All different,1
+3,A,test,01.png,Gemini_2_5_flash,b,"The card shows repeated identical icons, similar to card ""b"".",0.0,0,All same,1
+3,A,test,02.png,Gemini_2_5_flash,a,"The card displays a variety of different icons, similar to card ""a"".",0.0,4,All different,1
+3,A,test,03.png,Gemini_2_5_flash,a,"The card displays multiple different types of icons, even if some are repeated, similar to card ""a"".",0.0,1,All different,1
+3,A,test,04.png,Gemini_2_5_flash,a,"The card displays a variety of different icons, similar to card ""a"".",0.0,3,All different,1
+3,A,test,05.png,Gemini_2_5_flash,a,"The card displays a variety of different icons, similar to card ""a"".",0.0,2,All different,1
+3,A,test,06.png,Gemini_2_5_flash,a,"The card displays a variety of different icons, similar to card ""a"".",0.0,4,All different,1
+3,A,test,07.png,Gemini_2_5_flash,a,"The card displays a variety of different icons, similar to card ""a"".",0.0,3,All different,1
+3,A,test,08.png,Gemini_2_5_flash,b,"The card shows repeated identical icons, similar to card ""b"".",0.0,0,All same,1
+3,A,test,09.png,Gemini_2_5_flash,a,"The card displays multiple different types of icons, even if some are repeated, similar to card ""a"".",0.0,1,All different,1
+3,A,test,10.png,Gemini_2_5_flash,a,"The card displays multiple different types of icons, even if some are repeated, similar to card ""a"".",0.0,2,All different,1
+3,A,test,01.png,Gemini_2_5_flash,b,"All icons on the card are identical, similar to card ""b"".",0.0,0,All same,1
+3,A,test,02.png,Gemini_2_5_flash,a,"The card displays various different icons, similar to card ""a"".",0.0,4,All different,1
+3,A,test,03.png,Gemini_2_5_flash,a,"The card displays various different icons mixed with repeated ones, similar to card ""a"" which also has different icons.",0.0,1,All different,1
+3,A,test,04.png,Gemini_2_5_flash,a,"The card displays various different icons mixed with repeated ones, similar to card ""a"" which also has different icons.",0.0,3,All different,1
+3,A,test,05.png,Gemini_2_5_flash,a,"The card displays various different icons mixed with repeated ones, similar to card ""a"" which also has different icons.",0.0,2,All different,1
+3,A,test,06.png,Gemini_2_5_flash,a,"The card displays various different icons, similar to card ""a"".",0.0,4,All different,1
+3,A,test,07.png,Gemini_2_5_flash,a,"The card displays various different icons mixed with repeated ones, similar to card ""a"" which also has different icons.",0.0,3,All different,1
+3,A,test,08.png,Gemini_2_5_flash,b,"All icons on the card are identical, similar to card ""b"".",0.0,0,All same,1
+3,A,test,09.png,Gemini_2_5_flash,a,"The card displays various different icons mixed with repeated ones, similar to card ""a"" which also has different icons.",0.0,1,All different,1
+3,A,test,10.png,Gemini_2_5_flash,a,"The card displays various different icons mixed with repeated ones, similar to card ""a"" which also has different icons.",0.0,2,All different,1
+3,A,test,01.png,Gemini_2_5_flash,b,"The card shows repeated identical icons, similar to card ""b"".",0.0,0,All same,1
+3,A,test,02.png,Gemini_2_5_flash,a,"The card shows a variety of different icons, similar to card ""a"".",0.0,4,All different,1
+3,A,test,03.png,Gemini_2_5_flash,a,"The card shows a mix of different icons, similar to card ""a"".",0.0,1,All different,1
+3,A,test,04.png,Gemini_2_5_flash,a,"The card shows a variety of different icons, similar to card ""a"".",0.0,3,All different,1
+3,A,test,05.png,Gemini_2_5_flash,a,"The card displays a variety of different icons, even with some repeats, it still has the variety of card ""a"".",0.0,2,All different,1
+3,A,test,06.png,Gemini_2_5_flash,a,"The card displays a variety of different icons, similar to card ""a"".",0.0,4,All different,1
+3,A,test,07.png,Gemini_2_5_flash,a,"The card displays a variety of different icons, similar to card ""a"".",0.0,3,All different,1
+3,A,test,08.png,Gemini_2_5_flash,b,"The card shows repeated identical icons, similar to card ""b"".",0.0,0,All same,1
+3,A,test,09.png,Gemini_2_5_flash,a,"The card displays a variety of different icons, similar to card ""a"".",0.0,1,All different,1
+3,A,test,10.png,Gemini_2_5_flash,a,"The card displays a variety of different icons, similar to card ""a"".",0.0,2,All different,1
+3,A,test,01.png,Gemini_2_0_flash,b,"All the images in card ""b"" and in this prompt are the same.",0.0,0,All same,1
+3,A,test,02.png,Gemini_2_0_flash,a,"This card has many different images like card ""a.""",0.0,4,All different,1
+3,A,test,03.png,Gemini_2_0_flash,a,"While the main image is of dice, there are other images in the prompt, like card a.",0.0,1,All different,0
+3,A,test,04.png,Gemini_2_0_flash,a,"This card contains various images similar to card ""a.""",0.0,3,All different,0
+3,A,test,05.png,Gemini_2_0_flash,a,"It's a mix of different images, like card ""a.""",0.0,2,All different,1
+3,A,test,06.png,Gemini_2_0_flash,a,"Multiple different images, like in card ""a.""",0.0,4,All different,1
+3,A,test,07.png,Gemini_2_0_flash,a,"There is a variety of images in this prompt, just like card ""a"".",0.0,3,All different,1
+3,A,test,08.png,Gemini_2_0_flash,b,"The card contains many of the same image, similar to card ""b"".",0.0,0,All same,1
+3,A,test,09.png,Gemini_2_0_flash,a,"There is a majority of one image but there are other images in the prompt, similar to card a.",0.0,1,All different,0
+3,A,test,10.png,Gemini_2_0_flash,a,"It's a combination of different images, which is similar to card ""a"".",0.0,2,All different,1
+3,A,test,01.png,Gemini_2_0_flash,b,"The card features a grid of identical icons, similar to card ""b"".",0.0,0,All same,1
+3,A,test,02.png,Gemini_2_0_flash,a,"The card features a collection of different icons, similar to card ""a"".",0.0,4,All different,1
+3,A,test,03.png,Gemini_2_0_flash,a,"The card features different icons, similar to card ""a"".",0.0,1,All different,1
+3,A,test,04.png,Gemini_2_0_flash,a,"The card features a collection of different icons, similar to card ""a"".",0.0,3,All different,1
+3,A,test,05.png,Gemini_2_0_flash,a,"The card features a collection of different icons, similar to card ""a"".",0.0,2,All different,1
+3,A,test,06.png,Gemini_2_0_flash,a,"The card features a collection of different icons, similar to card ""a"".",0.0,4,All different,1
+3,A,test,07.png,Gemini_2_0_flash,a,"The card features a collection of different icons, similar to card ""a"".",0.0,3,All different,1
+3,A,test,08.png,Gemini_2_0_flash,b,"The card features a grid of identical icons, similar to card ""b"".",0.0,0,All same,1
+3,A,test,09.png,Gemini_2_0_flash,a,"The card features different icons, similar to card ""a"".",0.0,1,All different,1
+3,A,test,10.png,Gemini_2_0_flash,a,"The card features different icons, similar to card ""a"".",0.0,2,All different,1
+3,A,test,01.png,Gemini_2_0_flash,b,The card shows a repeated icon like card b.,0.0,0,All same,1
+3,A,test,02.png,Gemini_2_0_flash,a,"The card shows a set of different icons, like card a.",0.0,4,All different,1
+3,A,test,03.png,Gemini_2_0_flash,a,"The card shows a set of different icons, like card a.",0.0,1,All different,1
+3,A,test,04.png,Gemini_2_0_flash,a,"The card shows a set of different icons, like card a.",0.0,3,All different,1
+3,A,test,05.png,Gemini_2_0_flash,a,"The card shows a set of different icons, like card a.",0.0,2,All different,1
+3,A,test,06.png,Gemini_2_0_flash,a,"The card shows a set of different icons, like card a.",0.0,4,All different,1
+3,A,test,07.png,Gemini_2_0_flash,a,"The card shows a set of different icons, like card a.",0.0,3,All different,1
+3,A,test,08.png,Gemini_2_0_flash,b,The card shows a repeated icon like card b.,0.0,0,All same,1
+3,A,test,09.png,Gemini_2_0_flash,a,"The card shows a set of different icons, like card a.",0.0,1,All different,1
+3,A,test,10.png,Gemini_2_0_flash,a,"The card shows a set of different icons, like card a.",0.0,2,All different,1
+3,A,test,01.png,Gemini_2_0_flash,b,"The card contains a repetition of the same object, which is also the case for card b.",0.0,0,All same,1
+3,A,test,02.png,Gemini_2_0_flash,a,"The card contains a collection of different objects, which is also the case for card a.",0.0,4,All different,1
+3,A,test,03.png,Gemini_2_0_flash,a,"The card contains a collection of different objects, which is also the case for card a.",0.0,1,All different,1
+3,A,test,04.png,Gemini_2_0_flash,a,"The card contains a collection of different objects, which is also the case for card a.",0.0,3,All different,1
+3,A,test,05.png,Gemini_2_0_flash,a,"The card contains a collection of different objects, which is also the case for card a.",0.0,2,All different,1
+3,A,test,06.png,Gemini_2_0_flash,a,"The card contains a collection of different objects, which is also the case for card a.",0.0,4,All different,1
+3,A,test,07.png,Gemini_2_0_flash,a,"The card contains a collection of different objects, which is also the case for card a.",0.0,3,All different,1
+3,A,test,08.png,Gemini_2_0_flash,b,"The card contains a repetition of the same object, which is also the case for card b.",0.0,0,All same,1
+3,A,test,09.png,Gemini_2_0_flash,a,"The card contains a collection of different objects, which is also the case for card a.",0.0,1,All different,1
+3,A,test,10.png,Gemini_2_0_flash,a,"The card contains a collection of different objects, which is also the case for card a.",0.0,2,All different,1
+3,A,test,01.png,Gemini_2_0_flash,b,"The card contains multiple instances of the same image, like card b.",0.0,0,All same,1
+3,A,test,02.png,Gemini_2_0_flash,a,"The card contains different images, like card a.",0.0,4,All different,1
+3,A,test,03.png,Gemini_2_0_flash,a,"The card contains different images, like card a.",0.0,1,All different,1
+3,A,test,04.png,Gemini_2_0_flash,a,"The card contains different images, like card a.",0.0,3,All different,1
+3,A,test,05.png,Gemini_2_0_flash,a,"The card contains different images, like card a.",0.0,2,All different,1
+3,A,test,06.png,Gemini_2_0_flash,a,"The card contains different images, like card a.",0.0,4,All different,1
+3,A,test,07.png,Gemini_2_0_flash,a,"The card contains different images, like card a.",0.0,3,All different,1
+3,A,test,08.png,Gemini_2_0_flash,b,"The card contains multiple instances of the same image, like card b.",0.0,0,All same,1
+3,A,test,09.png,Gemini_2_0_flash,a,"The card contains different images, like card a.",0.0,1,All different,1
+3,A,test,10.png,Gemini_2_0_flash,a,"The card contains different images, like card a.",0.0,2,All different,1
+3,A,test,01.png,Gemini_2_0_flash,b,It has the same repeating pattern of icons.,0.0,0,All same,1
+3,A,test,02.png,Gemini_2_0_flash,a,"It has the same format, containing different icons.",0.0,4,All different,1
+3,A,test,03.png,Gemini_2_0_flash,a,"It has the same format, containing different icons.",0.0,1,All different,1
+3,A,test,04.png,Gemini_2_0_flash,a,"It has the same format, containing different icons.",0.0,3,All different,1
+3,A,test,05.png,Gemini_2_0_flash,a,"It has the same format, containing different icons.",0.0,2,All different,1
+3,A,test,06.png,Gemini_2_0_flash,a,"It has the same format, containing different icons.",0.0,4,All different,1
+3,A,test,07.png,Gemini_2_0_flash,a,"It has the same format, containing different icons.",0.0,3,All different,1
+3,A,test,08.png,Gemini_2_0_flash,b,It has the same repeating pattern of icons.,0.0,0,All same,1
+3,A,test,09.png,Gemini_2_0_flash,a,"It has the same format, containing different icons.",0.0,1,All different,1
+3,A,test,10.png,Gemini_2_0_flash,a,"It has the same format, containing different icons.",0.0,2,All different,1
+3,A,test,01.png,Gemini_2_0_flash,b,It shows multiple of the same image like card b.,0.0,0,All same,1
+3,A,test,02.png,Gemini_2_0_flash,a,It has a variety of different images.,0.0,4,All different,1
+3,A,test,03.png,Gemini_2_0_flash,a,It has a variety of different images.,0.0,1,All different,1
+3,A,test,04.png,Gemini_2_0_flash,a,It has a variety of different images.,0.0,3,All different,1
+3,A,test,05.png,Gemini_2_0_flash,a,It has a variety of different images.,0.0,2,All different,1
+3,A,test,06.png,Gemini_2_0_flash,a,It has a variety of different images.,0.0,4,All different,1
+3,A,test,07.png,Gemini_2_0_flash,a,It has a variety of different images.,0.0,3,All different,1
+3,A,test,08.png,Gemini_2_0_flash,b,It shows multiple of the same image like card b.,0.0,0,All same,1
+3,A,test,09.png,Gemini_2_0_flash,a,It has a variety of different images.,0.0,1,All different,1
+3,A,test,10.png,Gemini_2_0_flash,a,It has a variety of different images.,0.0,2,All different,1
+3,A,test,01.png,Gemini_2_0_flash,b,It shows the same object repeated multiple times like card b.,0.0,0,All same,1
+3,A,test,02.png,Gemini_2_0_flash,a,It has different icons like card a.,0.0,4,All different,1
+3,A,test,03.png,Gemini_2_0_flash,a,It contains different icons in the same card like card a.,0.0,1,All different,1
+3,A,test,04.png,Gemini_2_0_flash,a,It contains different icons like card a.,0.0,3,All different,1
+3,A,test,05.png,Gemini_2_0_flash,a,It contains different icons in the same card like card a.,0.0,2,All different,1
+3,A,test,06.png,Gemini_2_0_flash,a,It has different icons like card a.,0.0,4,All different,1
+3,A,test,07.png,Gemini_2_0_flash,a,It contains different icons like card a.,0.0,3,All different,1
+3,A,test,08.png,Gemini_2_0_flash,b,It shows the same object repeated multiple times like card b.,0.0,0,All same,1
+3,A,test,09.png,Gemini_2_0_flash,a,It contains different icons in the same card like card a.,0.0,1,All different,1
+3,A,test,10.png,Gemini_2_0_flash,a,It contains different icons in the same card like card a.,0.0,2,All different,1
+3,A,test,01.png,Gemini_2_0_flash,b,"The card contains multiple instances of the same icon, like card b.",0.0,0,All same,1
+3,A,test,02.png,Gemini_2_0_flash,a,"The card contains multiple different icons, like card a.",0.0,4,All different,1
+3,A,test,03.png,Gemini_2_0_flash,a,"This card contains multiple different icons, like card a.",0.0,1,All different,1
+3,A,test,04.png,Gemini_2_0_flash,a,"The card contains multiple different icons, like card a.",0.0,3,All different,1
+3,A,test,05.png,Gemini_2_0_flash,a,"The card contains multiple different icons, like card a.",0.0,2,All different,1
+3,A,test,06.png,Gemini_2_0_flash,a,"The card contains multiple different icons, like card a.",0.0,4,All different,1
+3,A,test,07.png,Gemini_2_0_flash,a,"The card contains multiple different icons, like card a.",0.0,3,All different,1
+3,A,test,08.png,Gemini_2_0_flash,b,"The card contains multiple instances of the same icon, like card b.",0.0,0,All same,1
+3,A,test,09.png,Gemini_2_0_flash,a,"This card contains multiple different icons, like card a.",0.0,1,All different,1
+3,A,test,10.png,Gemini_2_0_flash,a,"This card contains multiple different icons, like card a.",0.0,2,All different,1
+3,A,test,01.png,Gemini_2_0_flash,b,"The card shows multiple instances of the same item (t-shirt), similar to card ""b"" which has multiple hammers.",0.0,0,All same,1
+3,A,test,02.png,Gemini_2_0_flash,a,"The card contains different icons, similar to card ""a.""",0.0,4,All different,1
+3,A,test,03.png,Gemini_2_0_flash,a,"This card has different elements on it, like dice and a stove, like card ""a"".",0.0,1,All different,1
+3,A,test,04.png,Gemini_2_0_flash,a,"The card has a variety of different icons, just like card ""a.""",0.0,3,All different,1
+3,A,test,05.png,Gemini_2_0_flash,b,"This card is difficult to categorize, as it contains several instances of the same icon (soccer field) but also other different icons. I will consider the presence of many soccer fields and categorize it as: The card shows multiple instances of the same item (soccer field), similar to card ""b"" which has multiple hammers.",0.0,2,All same,1
+3,A,test,06.png,Gemini_2_0_flash,a,"This card contains a diverse set of icons, much like card ""a.""",0.0,4,All different,1
+3,A,test,07.png,Gemini_2_0_flash,a,"This card displays a variety of different icons, similar to card ""a"".",0.0,3,All different,1
+3,A,test,08.png,Gemini_2_0_flash,b,"The card shows multiple instances of the same item (mug), similar to card ""b"" which has multiple hammers.",0.0,0,All same,1
+3,A,test,09.png,Gemini_2_0_flash,b,"This card is difficult to categorize, as it contains several instances of the same icon (lightning bolt) but also other different icons. I will consider the presence of many lightning bolts and categorize it as: The card shows multiple instances of the same item (lightning bolt), similar to card ""b"" which has multiple hammers.",0.0,1,All same,1
+3,A,test,10.png,Gemini_2_0_flash,b,"This card is difficult to categorize, as it contains several instances of the same icon (lamp) but also other different icons. I will consider the presence of many lamps and categorize it as: The card shows multiple instances of the same item (lamp), similar to card ""b"" which has multiple hammers.",0.0,2,All same,1
+3,A,test,01.png,Gemini_2_5_pro,b,The card contains a grid of a single repeating icon.,0.0,0,All same,1
+3,A,test,02.png,Gemini_2_5_pro,a,The card contains a grid of many different icons.,0.0,4,All different,1
+3,A,test,03.png,Gemini_2_5_pro,a,The card contains a grid of many different icons.,0.0,1,All different,1
+3,A,test,04.png,Gemini_2_5_pro,a,The card contains a grid of many different icons.,0.0,3,All different,1
+3,A,test,05.png,Gemini_2_5_pro,a,The card contains a grid of many different icons.,0.0,2,All different,1
+3,A,test,06.png,Gemini_2_5_pro,a,The card contains a grid of many different icons.,0.0,4,All different,1
+3,A,test,07.png,Gemini_2_5_pro,a,The card contains a grid of many different icons.,0.0,3,All different,1
+3,A,test,08.png,Gemini_2_5_pro,b,The card contains a grid of a single repeating icon.,0.0,0,All same,1
+3,A,test,09.png,Gemini_2_5_pro,a,The card contains a grid of many different icons.,0.0,1,All different,1
+3,A,test,10.png,Gemini_2_5_pro,a,The card contains a grid of many different icons.,0.0,2,All different,1
+3,A,test,01.png,Gemini_2_5_pro,b,"This card has a single repeating icon, just like card b.",0.0,0,All same,1
+3,A,test,02.png,Gemini_2_5_pro,a,"This card contains multiple different icons, just like card a.",0.0,4,All different,1
+3,A,test,03.png,Gemini_2_5_pro,a,"This card contains multiple different icons, just like card a.",0.0,1,All different,1
+3,A,test,04.png,Gemini_2_5_pro,a,"This card contains multiple different icons, just like card a.",0.0,3,All different,1
+3,A,test,05.png,Gemini_2_5_pro,a,"This card contains multiple different icons, just like card a.",0.0,2,All different,1
+3,A,test,01.png,Gemini_2_5_flash_lite,b,"This card has multiple instances of the same icon (t-shirts), similar to card ""b"" which has multiple instances of hammers.",0.0,0,All same,1
+3,A,test,02.png,Gemini_2_5_flash_lite,a,"This card contains a collection of diverse icons, similar to the first reference card ""a"" which also features a variety of distinct icons.",0.0,4,All different,1
+3,A,test,03.png,Gemini_2_5_flash_lite,a,"This card has a variety of icons, similar to the original card ""a"" which also had diverse icons.",0.0,1,All different,1
+3,A,test,04.png,Gemini_2_5_flash_lite,a,"This card contains a variety of icons, much like the original card ""a.""",0.0,3,All different,1
+3,A,test,05.png,Gemini_2_5_flash_lite,a,"This card contains a variety of icons, similar to the original card ""a"" which also had diverse icons.",0.0,2,All different,1
+3,A,test,06.png,Gemini_2_5_flash_lite,a,"This card has a variety of icons, similar to the original card ""a"" which also had diverse icons.",0.0,4,All different,1
+3,A,test,07.png,Gemini_2_5_flash_lite,a,"This card has a variety of icons, similar to the original card ""a"" which also had diverse icons.",0.0,3,All different,1
+3,A,test,08.png,Gemini_2_5_flash_lite,b,"This card has multiple instances of the same icon (cups), similar to card ""b"" which has multiple instances of hammers.",0.0,0,All same,1
+3,A,test,09.png,Gemini_2_5_flash_lite,a,"This card has a variety of icons, similar to the original card ""a"" which also had diverse icons.",0.0,1,All different,1
+3,A,test,10.png,Gemini_2_5_flash_lite,a,"This card contains a variety of icons, much like the original card ""a"" which also featured diverse icons.",0.0,2,All different,1
+3,A,test,01.png,Gemini_2_5_flash_lite,b,"The card contains multiple instances of the same icon, just like card b.",0.0,0,All same,1
+3,A,test,02.png,Gemini_2_5_flash_lite,a,"The card contains multiple distinct icons, similar to card a.",0.0,4,All different,1
+3,A,test,03.png,Gemini_2_5_flash_lite,b,"The card contains multiple instances of the same icon, just like card b.",0.0,1,All same,1
+3,A,test,04.png,Gemini_2_5_flash_lite,a,"The card contains multiple distinct icons, similar to card a.",0.0,3,All different,1
+3,A,test,01.png,Gemini_2_5_flash_lite,b,"The card contains only one type of icon (t-shirts), similar to card ""b"".",0.0,0,All same,1
+3,A,test,02.png,Gemini_2_5_flash_lite,a,"The card contains a variety of different icons, similar to card ""a"".",0.0,4,All different,1
+3,A,test,03.png,Gemini_2_5_flash_lite,a,"The card contains a variety of different icons, similar to card ""a"".",0.0,1,All different,1
+3,A,test,04.png,Gemini_2_5_flash_lite,a,"The card contains a variety of different icons, similar to card ""a"".",0.0,3,All different,1
+3,A,test,05.png,Gemini_2_5_flash_lite,a,"The card contains a variety of different icons, similar to card ""a"".",0.0,2,All different,1
+3,A,test,06.png,Gemini_2_5_flash_lite,a,"The card contains a variety of different icons, similar to card ""a"".",0.0,4,All different,1
+3,A,test,07.png,Gemini_2_5_flash_lite,a,"The card contains a variety of different icons, similar to card ""a"".",0.0,3,All different,1
+3,A,test,08.png,Gemini_2_5_flash_lite,b,"The card contains only one type of icon (mugs), similar to card ""b"".",0.0,0,All same,1
+3,A,test,09.png,Gemini_2_5_flash_lite,a,"The card contains a variety of different icons, similar to card ""a"".",0.0,1,All different,1
+3,A,test,10.png,Gemini_2_5_flash_lite,a,"The card contains a variety of different icons, similar to card ""a"".",0.0,2,All different,1
+3,A,test,01.png,Gemini_2_5_flash_lite,b,"This card shows multiple instances of the same icon, similar to card ""b"".",0.0,0,All same,1
+3,A,test,02.png,Gemini_2_5_flash_lite,a,"This card shows a variety of different icons, just like the original card ""a"".",0.0,4,All different,1
+3,A,test,03.png,Gemini_2_5_flash_lite,b,"This card shows multiple instances of the same icon, similar to card ""b"".",0.0,1,All same,1
+3,A,test,04.png,Gemini_2_5_flash_lite,a,"This card shows a variety of different icons, similar to card ""a"".",0.0,3,All different,1
+3,A,test,05.png,Gemini_2_5_flash_lite,a,"This card shows a variety of different icons, similar to card ""a"".",0.0,2,All different,1
+3,A,test,06.png,Gemini_2_5_flash_lite,a,"This card shows a variety of different icons, similar to card ""a"".",0.0,4,All different,1
+3,A,test,07.png,Gemini_2_5_flash_lite,a,"This card shows a variety of different icons, similar to card ""a"".",0.0,3,All different,1
+3,A,test,08.png,Gemini_2_5_flash_lite,b,"This card shows multiple instances of the same icon, similar to card ""b"".",0.0,0,All same,1
+3,A,test,09.png,Gemini_2_5_flash_lite,b,"This card shows multiple instances of the same icon, similar to card ""b"".",0.0,1,All same,1
+3,A,test,10.png,Gemini_2_5_flash_lite,a,"This card shows a variety of different icons, similar to card ""a"".",0.0,2,All different,1
+3,A,test,01.png,Gemini_2_5_flash_lite,b,"This card is similar to card ""b"" because it contains multiple instances of the same icon, whereas card ""a"" contains a variety of different icons.",0.0,0,All same,1
+3,A,test,02.png,Gemini_2_5_flash_lite,a,"This card is similar to card ""a"" because it contains a variety of different icons, whereas card ""b"" contains multiple instances of the same icon.",0.0,4,All different,1
+3,A,test,03.png,Gemini_2_5_flash_lite,b,"This card is similar to card ""b"" because it contains multiple instances of the same icon, whereas card ""a"" contains a variety of different icons.",0.0,1,All same,1
+3,A,test,04.png,Gemini_2_5_flash_lite,a,"This card is similar to card ""a"" because it contains a variety of different icons, whereas card ""b"" contains multiple instances of the same icon.",0.0,3,All different,1
+3,A,test,05.png,Gemini_2_5_flash_lite,b,"This card is similar to card ""b"" because it contains multiple instances of the same icon, whereas card ""a"" contains a variety of different icons.",0.0,2,All same,1
+3,A,test,06.png,Gemini_2_5_flash_lite,a,"This card is similar to card ""a"" because it contains a variety of different icons, whereas card ""b"" contains multiple instances of the same icon.",0.0,4,All different,1
+3,A,test,07.png,Gemini_2_5_flash_lite,a,"This card is similar to card ""a"" because it contains a variety of different icons, whereas card ""b"" contains multiple instances of the same icon.",0.0,3,All different,1
+3,A,test,01.png,Gemini_2_5_flash_lite,a,"This card contains multiple instances of the same icon (t-shirts), similar to card ""b"" (hammers), and contrasts with card ""a"" which contains a variety of different icons.",0.0,0,All different,1
+3,A,test,02.png,Gemini_2_5_flash_lite,a,"This card contains various icons, similar to the reference card ""a"".",0.0,4,All different,0
+3,A,test,03.png,Gemini_2_5_flash_lite,a,"This card contains various icons, similar to the reference card ""a"".",0.0,1,All different,0
+3,A,test,04.png,Gemini_2_5_flash_lite,a,"This card contains various icons, similar to the reference card ""a"".",0.0,3,All different,0
+3,A,test,05.png,Gemini_2_5_flash_lite,a,"This card contains various icons, similar to the reference card ""a"".",0.0,2,All different,0
+3,A,test,06.png,Gemini_2_5_flash_lite,a,"This card contains various icons, similar to the reference card ""a"".",0.0,4,All different,0
+3,A,test,07.png,Gemini_2_5_flash_lite,a,"This card contains various icons, similar to the reference card ""a"".",0.0,3,All different,0
+3,A,test,08.png,Gemini_2_5_flash_lite,b,"This card contains multiple instances of the same icon (cups), similar to card ""b"" (hammers), and contrasts with card ""a"" which contains a variety of different icons.",0.0,0,All same,1
+3,A,test,09.png,Gemini_2_5_flash_lite,a,"This card contains various icons, similar to the reference card ""a"".",0.0,1,All different,0
+3,A,test,10.png,Gemini_2_5_flash_lite,a,"This card contains various icons, similar to the reference card ""a"".",0.0,2,All different,0
+3,A,test,01.png,Gemini_2_5_flash_lite,b,"This card has multiple identical objects, just like card ""b"".",0.0,0,All same,1
+3,A,test,02.png,Gemini_2_5_flash_lite,a,"This card contains different icons, just like card ""a"".",0.0,4,All different,1
+3,A,test,03.png,Gemini_2_5_flash_lite,a,"This card contains a similar grouping of multiple identical objects, similar to card ""a"".",0.0,1,All different,1
+3,A,test,04.png,Gemini_2_5_flash_lite,a,"This card contains multiple instances of the same icon, similar to card ""a"".",0.0,3,All different,1
+3,A,test,05.png,Gemini_2_5_flash_lite,a,"This card has multiple identical icons, similar to card ""a"".",0.0,2,All different,1
+3,A,test,06.png,Gemini_2_5_flash_lite,a,"This card contains multiple icons, unlike card ""b"" which has many identical icons.",0.0,4,All different,1
+3,A,test,07.png,Gemini_2_5_flash_lite,a,"This card contains multiple instances of the same icon, similar to card ""a"".",0.0,3,All different,1
+3,A,test,08.png,Gemini_2_5_flash_lite,b,"This card has multiple identical objects, just like card ""b"".",0.0,0,All same,1
+3,A,test,09.png,Gemini_2_5_flash_lite,b,"This card has multiple identical objects, just like card ""b"".",0.0,1,All same,1
+3,A,test,10.png,Gemini_2_5_flash_lite,a,"This card contains multiple identical icons, similar to card ""a"".",0.0,2,All different,1
+3,A,test,01.png,Gemini_2_5_flash_lite,a,"The card contains multiple instances of the same icon (a t-shirt), similar to how the reference card ""a"" contains multiple instances of different icons. The key similarity is the repetition of a single element, rather than a variety of unrelated elements.",0.0,0,All different,1
+3,A,test,02.png,Gemini_2_5_flash_lite,a,The card contains a variety of different icons.,0.0,4,All different,1
+3,A,test,03.png,Gemini_2_5_flash_lite,a,"The card contains multiple instances of the same icon (two dice), whereas card ""b"" contains multiple instances of a different icon (hammers). Both cards repeat a single element across the grid.",0.0,1,All different,1
+3,A,test,04.png,Gemini_2_5_flash_lite,a,"The card contains multiple instances of the same icon (a shower head), similar to how card ""b"" contains multiple instances of a different icon (hammers). Both cards repeat a single element across the grid.",0.0,3,All different,1
+3,A,test,05.png,Gemini_2_5_flash_lite,a,"The card contains multiple instances of the same icon (a soccer field), whereas card ""b"" contains multiple instances of a different icon (hammers). Both cards repeat a single element across the grid.",0.0,2,All different,1
+3,A,test,06.png,Gemini_2_5_flash_lite,a,"The card contains multiple instances of the same icon (a leaf sprout), whereas card ""b"" contains multiple instances of a different icon (hammers). Both cards repeat a single element across the grid.",0.0,4,All different,1
+3,A,test,07.png,Gemini_2_5_flash_lite,a,"The card contains multiple instances of the same icon (a scroll), whereas card ""b"" contains multiple instances of a different icon (hammers). Both cards repeat a single element across the grid.",0.0,3,All different,1
+3,A,test,08.png,Gemini_2_5_flash_lite,a,"The card contains multiple instances of the same icon (a mug), whereas card ""b"" contains multiple instances of a different icon (hammers). Both cards repeat a single element across the grid.",0.0,0,All different,1
+3,A,test,09.png,Gemini_2_5_flash_lite,a,"The card contains multiple instances of the same icon (a lightning bolt), whereas card ""b"" contains multiple instances of a different icon (hammers). Both cards repeat a single element across the grid.",0.0,1,All different,1
+3,A,test,10.png,Gemini_2_5_flash_lite,a,"The card contains multiple instances of the same icon (a lamp), whereas card ""b"" contains multiple instances of a different icon (hammers). Both cards repeat a single element across the grid.",0.0,2,All different,1
+3,A,test,01.png,Gemini_2_5_flash_lite,a,"This card contains multiple t-shirt icons, similar to how card ""a"" has multiple icons. Card ""b"" only contains one type of icon.",0.0,0,All different,0
+3,A,test,02.png,Gemini_2_5_flash_lite,a,"This card contains multiple different icons, similar to how card ""a"" has multiple icons. Card ""b"" only contains one type of icon.",0.0,4,All different,1
+3,A,test,03.png,Gemini_2_5_flash_lite,a,"This card contains multiple dice icons, similar to how card ""a"" has multiple icons. Card ""b"" only contains one type of icon.",0.0,1,All different,1
+3,A,test,04.png,Gemini_2_5_flash_lite,a,"This card contains multiple showerhead icons, similar to how card ""a"" has multiple icons. Card ""b"" only contains one type of icon.",0.0,3,All different,1
+3,A,test,05.png,Gemini_2_5_flash_lite,a,"This card contains multiple soccer field icons, similar to how card ""a"" has multiple icons. Card ""b"" only contains one type of icon.",0.0,2,All different,0
+3,A,test,06.png,Gemini_2_5_flash_lite,a,"This card contains multiple icons, similar to how card ""a"" has multiple icons. Card ""b"" only contains one type of icon.",0.0,4,All different,0
+3,A,test,07.png,Gemini_2_5_flash_lite,a,"This card contains multiple scroll icons, similar to how card ""a"" has multiple icons. Card ""b"" only contains one type of icon.",0.0,3,All different,1
+3,A,test,08.png,Gemini_2_5_flash_lite,a,"This card contains multiple mug icons, similar to how card ""a"" has multiple icons. Card ""b"" only contains one type of icon.",0.0,0,All different,0
+3,A,test,09.png,Gemini_2_5_flash_lite,a,"This card contains multiple lightning bolt icons, similar to how card ""a"" has multiple icons. Card ""b"" only contains one type of icon.",0.0,1,All different,0
+3,A,test,10.png,Gemini_2_5_flash_lite,a,"This card contains multiple lamp icons, similar to how card ""a"" has multiple icons. Card ""b"" only contains one type of icon.",0.0,2,All different,0
+3,A,test,01.png,Gemini_2_5_flash_lite,b,"This card contains multiple instances of the same icon, similar to card ""b"".",0.0,0,All same,1
+3,A,test,02.png,Gemini_2_5_flash_lite,a,"This card contains a variety of different icons, similar to card ""a"".",0.0,4,All different,1
+3,A,test,03.png,Gemini_2_5_flash_lite,b,"This card contains multiple instances of the same icon, similar to card ""b"".",0.0,1,All same,1
+3,A,test,04.png,Gemini_2_5_flash_lite,a,"This card contains a variety of different icons, similar to card ""a"".",0.0,3,All different,1
+3,A,test,05.png,Gemini_2_5_flash_lite,a,"This card contains a variety of different icons, similar to card ""a"".",0.0,2,All different,1
+3,A,test,06.png,Gemini_2_5_flash_lite,a,"This card contains a variety of different icons, similar to card ""a"".",0.0,4,All different,1
+3,A,test,07.png,Gemini_2_5_flash_lite,a,"This card contains a variety of different icons, similar to card ""a"".",0.0,3,All different,1
+3,A,test,08.png,Gemini_2_5_flash_lite,b,"This card contains multiple instances of the same icon, similar to card ""b"".",0.0,0,All same,1
+3,A,test,09.png,Gemini_2_5_flash_lite,b,"This card contains multiple instances of the same icon, similar to card ""b"".",0.0,1,All same,1
+3,A,test,10.png,Gemini_2_5_flash_lite,b,"This card contains multiple instances of the same icon, similar to card ""b"".",0.0,2,All same,1
+3,A,test,01.png,Gemini_2_5_flash_lite,a,"This card has multiple different icons, while the provided card has many of the same icon.",0.0,0,All different,1
+3,A,test,02.png,Gemini_2_5_flash_lite,a,"This card contains multiple icons, similar to the reference card ""a"".",0.0,4,All different,0
+3,A,test,03.png,Gemini_2_5_flash_lite,a,"This card has many of the same icon, just like card ""a"".",0.0,1,All different,1
+3,A,test,04.png,Gemini_2_5_flash_lite,a,"This card has multiple different icons, just like card ""a"".",0.0,3,All different,1
+3,A,test,05.png,Gemini_2_5_flash_lite,a,"This card contains multiple different icons, similar to card ""a"".",0.0,2,All different,1
+3,A,test,06.png,Gemini_2_5_flash_lite,a,"This card features a variety of different icons, just like card ""a"".",0.0,4,All different,1
+3,A,test,07.png,Gemini_2_5_flash_lite,a,"This card contains many different icons, similar to card ""a"".",0.0,3,All different,1
+3,A,test,08.png,Gemini_2_5_flash_lite,b,"This card has multiple of the same icon, just like the reference card ""b"".",0.0,0,All same,1
+3,A,test,09.png,Gemini_2_5_flash_lite,b,"This card has multiple of the same icon, just like the reference card ""b"".",0.0,1,All same,1
+3,A,test,10.png,Gemini_2_5_flash_lite,a,"This card has multiple of the same icon, just like card ""a"".",0.0,2,All different,1
+3,A,test,01.png,Gemini_2_5_flash_lite,b,"The card contains multiple of the same icon, similar to card b.",0.0,0,All same,1
+3,A,test,02.png,Gemini_2_5_flash_lite,a,"The card contains multiple different icons, whereas card b contains multiple of the same icon.",0.0,4,All different,1
+3,A,test,03.png,Gemini_2_5_flash_lite,a,"The card contains multiple different icons, whereas card b contains multiple of the same icon.",0.0,1,All different,1
+3,A,test,04.png,Gemini_2_5_flash_lite,a,"The card contains multiple different icons, whereas card b contains multiple of the same icon.",0.0,3,All different,1
+3,A,test,05.png,Gemini_2_5_flash_lite,a,"The card contains multiple different icons, whereas card b contains multiple of the same icon.",0.0,2,All different,1
+3,A,test,06.png,Gemini_2_5_flash_lite,a,"The card contains multiple different icons, whereas card b contains multiple of the same icon.",0.0,4,All different,1
+3,A,test,07.png,Gemini_2_5_flash_lite,a,"The card contains multiple different icons, whereas card b contains multiple of the same icon.",0.0,3,All different,1
+3,A,test,08.png,Gemini_2_5_flash_lite,b,"The card contains multiple of the same icon, similar to card b.",0.0,0,All same,1
+3,A,test,09.png,Gemini_2_5_flash_lite,a,"The card contains multiple different icons, whereas card b contains multiple of the same icon.",0.0,1,All different,1
+3,A,test,10.png,Gemini_2_5_flash_lite,a,"The card contains multiple different icons, whereas card b contains multiple of the same icon.",0.0,2,All different,1
+3,A,test,01.png,GPT_4o,b,"Explanation: The card has a repeated pattern, like card ""b"".",0.0,0,All same,1
+3,A,test,02.png,GPT_4o,a,"Explanation: The card has a variety of different icons, like card ""a"".",0.0,4,All different,1
+3,A,test,03.png,GPT_4o,a,"Explanation: The card has a variety of different icons, like card ""a"".",0.0,1,All different,1
+3,A,test,04.png,GPT_4o,a,"Explanation: The card has a variety of different icons, like card ""a"".",0.0,3,All different,1
+3,A,test,05.png,GPT_4o,a,"Explanation: The card has a variety of different icons, like card ""a"".",0.0,2,All different,1
+3,A,test,06.png,GPT_4o,a,"Explanation: The card has a variety of different icons, like card ""a"".",0.0,4,All different,1
+3,A,test,07.png,GPT_4o,a,"Explanation: The card has a variety of different icons, like card ""a"".",0.0,3,All different,1
+3,A,test,08.png,GPT_4o,b,"Explanation: The card has a repeated pattern, like card ""b"".",0.0,0,All same,1
+3,A,test,09.png,GPT_4o,b,"Explanation: The card has a repeated lightning pattern, like card ""b"".",0.0,1,All same,1
+3,A,test,10.png,GPT_4o,b,"Explanation: The card has a repeated lamp pattern similar to card ""b"".",0.0,2,All same,1
+3,A,test,01.png,GPT_4o,b,"This card has a repeated icon pattern similar to card ""b"".",0.0,0,All same,1
+3,A,test,02.png,GPT_4o,a,"This card has a variety of different icons like card ""a"".",0.0,4,All different,1
+3,A,test,03.png,GPT_4o,a,"This card has a variety of different icons like card ""a"".",0.0,1,All different,1
+3,A,test,04.png,GPT_4o,a,"This card has a variety of different icons like card ""a"".",0.0,3,All different,1
+3,A,test,05.png,GPT_4o,a,"This card has a variety of different icons like card ""a"".",0.0,2,All different,1
+3,A,test,06.png,GPT_4o,a,"This card has a variety of different icons like card ""a"".",0.0,4,All different,1
+3,A,test,07.png,GPT_4o,a,"This card has a variety of different icons like card ""a"".",0.0,3,All different,1
+3,A,test,08.png,GPT_4o,b,"This card has a repeated icon pattern similar to card ""b"".",0.0,0,All same,1
+3,A,test,09.png,GPT_4o,a,"This card has a variety of different icons like card ""a"".",0.0,1,All different,1
+3,A,test,10.png,GPT_4o,a,"This card has a variety of different icons like card ""a"".",0.0,2,All different,1
+3,A,test,01.png,GPT_4o,b,"The card has a repeated pattern like card ""b"".",0.0,0,All same,1
+3,A,test,02.png,GPT_4o,a,"The card has a variety of different icons like card ""a"".",0.0,4,All different,1
+3,A,test,03.png,GPT_4o,a,"The card has a variety of different icons like card ""a"".",0.0,1,All different,1
+3,A,test,04.png,GPT_4o,a,"The card has a variety of different icons like card ""a"".",0.0,3,All different,1
+3,A,test,05.png,GPT_4o,a,"The card has a variety of different icons like card ""a"".",0.0,2,All different,1
+3,A,test,06.png,GPT_4o,a,"The card has a variety of different icons like card ""a"".",0.0,4,All different,1
+3,A,test,07.png,GPT_4o,a,"The card has a variety of different icons like card ""a"".",0.0,3,All different,1
+3,A,test,08.png,GPT_4o,b,"The card has a repeated pattern like card ""b"".",0.0,0,All same,1
+3,A,test,09.png,GPT_4o,a,"The card has a variety of different icons like card ""a"".",0.0,1,All different,1
+3,A,test,10.png,GPT_4o,a,"The card has a variety of different icons like card ""a"".",0.0,2,All different,1
+3,A,test,01.png,GPT_4o,b,"The card has repeated identical icons like card ""b"".",0.0,0,All same,1
+3,A,test,02.png,GPT_4o,a,"The card has a variety of different icons like card ""a"".",0.0,4,All different,1
+3,A,test,03.png,GPT_4o,a,"The card has a variety of different icons like card ""a"".",0.0,1,All different,1
+3,A,test,04.png,GPT_4o,a,"The card has a variety of different icons like card ""a"".",0.0,3,All different,1
+3,A,test,05.png,GPT_4o,a,"The card has a variety of different icons like card ""a"".",0.0,2,All different,1
+3,A,test,06.png,GPT_4o,a,"The card has a variety of different icons like card ""a"".",0.0,4,All different,1
+3,A,test,07.png,GPT_4o,a,"The card has a variety of different icons like card ""a"".",0.0,3,All different,1
+3,A,test,08.png,GPT_4o,b,"The card has repeated identical icons like card ""b"".",0.0,0,All same,1
+3,A,test,09.png,GPT_4o,a,"The card has a variety of different icons like card ""a"".",0.0,1,All different,1
+3,A,test,10.png,GPT_4o,a,"The card has a variety of different icons like card ""a"".",0.0,2,All different,1
+3,A,test,01.png,GPT_4o,b,"The card has a repeated pattern of the same icon, like card ""b"".",0.0,0,All same,1
+3,A,test,02.png,GPT_4o,a,"The card contains a variety of different icons, like card ""a"".",0.0,4,All different,1
+3,A,test,03.png,GPT_4o,a,"The card contains a mix of different icons, similar to card ""a"".",0.0,1,All different,1
+3,A,test,04.png,GPT_4o,a,"The card contains a variety of different icons, like card ""a"".",0.0,3,All different,1
+3,A,test,05.png,GPT_4o,a,"The card contains a mix of different icons, similar to card ""a"".",0.0,2,All different,1
+3,A,test,06.png,GPT_4o,a,"The card contains a variety of different icons, like card ""a"".",0.0,4,All different,1
+3,A,test,07.png,GPT_4o,a,"The card contains a mix of different icons, similar to card ""a"".",0.0,3,All different,1
+3,A,test,08.png,GPT_4o,b,"The card has a repeated pattern of the same icon, like card ""b"".",0.0,0,All same,1
+3,A,test,09.png,GPT_4o,a,"The card contains a mix of different icons, similar to card ""a"".",0.0,1,All different,1
+3,A,test,10.png,GPT_4o,a,"The card contains a mix of different icons, similar to card ""a"".",0.0,2,All different,1
+3,A,test,01.png,GPT_4o,b,"Explanation: The card features a repeated single icon, similar to card ""b"".",0.0,0,All same,1
+3,A,test,02.png,GPT_4o,a,"Explanation: The card contains a variety of different icons, similar to card ""a"".",0.0,4,All different,1
+3,A,test,03.png,GPT_4o,a,"Explanation: The card contains a variety of different icons, similar to card ""a"".",0.0,1,All different,1
+3,A,test,04.png,GPT_4o,a,"Explanation: The card contains a variety of different icons, similar to card ""a"".",0.0,3,All different,1
+3,A,test,05.png,GPT_4o,a,"Explanation: The card contains a variety of different icons, similar to card ""a"".",0.0,2,All different,1
+3,A,test,06.png,GPT_4o,a,"Explanation: The card contains a variety of different icons, similar to card ""a"".",0.0,4,All different,1
+3,A,test,07.png,GPT_4o,a,"Explanation: The card contains a variety of different icons, similar to card ""a"".",0.0,3,All different,1
+3,A,test,08.png,GPT_4o,b,"Explanation: The card features a repeated single icon, similar to card ""b"".",0.0,0,All same,1
+3,A,test,09.png,GPT_4o,a,"Explanation: The card contains a variety of different icons, similar to card ""a"".",0.0,1,All different,1
+3,A,test,10.png,GPT_4o,a,"Explanation: The card contains a variety of different icons, similar to card ""a"".",0.0,2,All different,1
+3,A,test,01.png,GPT_4o,b,"Explanation: The card features a repeating pattern of a single image, similar to card “b”.",0.0,0,All same,1
+3,A,test,02.png,GPT_4o,a,"Explanation: The card features a variety of different images, similar to card “a”.",0.0,4,All different,1
+3,A,test,03.png,GPT_4o,a,"Explanation: The card features a variety of different images, similar to card “a”.",0.0,1,All different,1
+3,A,test,04.png,GPT_4o,a,"Explanation: The card features a variety of different images, similar to card “a”.",0.0,3,All different,1
+3,A,test,05.png,GPT_4o,a,"Explanation: The card features a variety of different images, similar to card “a”.",0.0,2,All different,1
+3,A,test,06.png,GPT_4o,a,"Explanation: The card features a variety of different images, similar to card “a”.",0.0,4,All different,1
+3,A,test,07.png,GPT_4o,a,"Explanation: The card features a variety of different images, similar to card “a”.",0.0,3,All different,1
+3,A,test,08.png,GPT_4o,b,"Explanation: The card features a repeating pattern of a single image, similar to card “b”.",0.0,0,All same,1
+3,A,test,09.png,GPT_4o,a,"Explanation: The card features a variety of different images, similar to card “a”.",0.0,1,All different,1
+3,A,test,10.png,GPT_4o,a,"Explanation: The card features a variety of different images, similar to card “a”.",0.0,2,All different,1
+3,A,test,01.png,GPT_4o,b,"Explanation: The card shows a repeated icon pattern, similar to card “b”.",0.0,0,All same,1
+3,A,test,02.png,GPT_4o,a,"Explanation: The card has a variety of different icons, similar to card “a”.",0.0,4,All different,1
+3,A,test,03.png,GPT_4o,a,"Explanation: The card has a variety of different icons, similar to card “a”.",0.0,1,All different,1
+3,A,test,04.png,GPT_4o,a,"Explanation: The card has a variety of different icons, similar to card “a”.",0.0,3,All different,1
+3,A,test,05.png,GPT_4o,a,"Explanation: The card has a variety of different icons, similar to card “a”.",0.0,2,All different,1
+3,A,test,06.png,GPT_4o,a,"Explanation: The card has a variety of different icons, similar to card “a”.",0.0,4,All different,1
+3,A,test,07.png,GPT_4o,a,"Explanation: The card has a variety of different icons, similar to card “a”.",0.0,3,All different,1
+3,A,test,08.png,GPT_4o,b,"Explanation: The card shows a repeated icon pattern, similar to card “b”.",0.0,0,All same,1
+3,A,test,09.png,GPT_4o,a,"Explanation: The card has a variety of different icons, similar to card “a”.",0.0,1,All different,1
+3,A,test,10.png,GPT_4o,a,"Explanation: The card has a variety of different icons, similar to card “a”.",0.0,2,All different,1
+3,A,test,01.png,GPT_4o,b,"Explanation: The card has multiple repetitions of the same icon, similar to card ""b"".",0.0,0,All same,1
+3,A,test,02.png,GPT_4o,a,"Explanation: The card has a variety of different icons, similar to card ""a"".",0.0,4,All different,1
+3,A,test,03.png,GPT_4o,a,"Explanation: The card has a variety of different icons, similar to card ""a"".",0.0,1,All different,1
+3,A,test,04.png,GPT_4o,a,"Explanation: The card has a variety of different icons, similar to card ""a"".",0.0,3,All different,1
+3,A,test,05.png,GPT_4o,a,"Explanation: The card has a variety of different icons, similar to card ""a"".",0.0,2,All different,1
+3,A,test,06.png,GPT_4o,a,"Explanation: The card has a variety of different icons, similar to card ""a"".",0.0,4,All different,1
+3,A,test,07.png,GPT_4o,a,"Explanation: The card has a variety of different icons, similar to card ""a"".",0.0,3,All different,1
+3,A,test,08.png,GPT_4o,b,"Explanation: The card has multiple repetitions of the same icon, similar to card ""b"".",0.0,0,All same,1
+3,A,test,09.png,GPT_4o,a,"Explanation: The card has a variety of different icons, similar to card ""a"".",0.0,1,All different,1
+3,A,test,10.png,GPT_4o,a,"Explanation: The card has a variety of different icons, similar to card ""a"".",0.0,2,All different,1
+3,A,test,01.png,GPT_4o,b,"Explanation: The card has a repeated pattern of the same icon, similar to card ""b"".",0.0,0,All same,1
+3,A,test,02.png,GPT_4o,a,"Explanation: The card features a variety of different icons, similar to card ""a"".",0.0,4,All different,1
+3,A,test,03.png,GPT_4o,a,"Explanation: The card features a variety of different icons, similar to card ""a"".",0.0,1,All different,1
+3,A,test,04.png,GPT_4o,a,"Explanation: The card features a variety of different icons, similar to card ""a"".",0.0,3,All different,1
+3,A,test,05.png,GPT_4o,a,"Explanation: The card features a variety of different icons, similar to card ""a"".",0.0,2,All different,1
+3,A,test,06.png,GPT_4o,a,"Explanation: The card features a variety of different icons, similar to card ""a"".",0.0,4,All different,1
+3,A,test,07.png,GPT_4o,a,"Explanation: The card features a variety of different icons, similar to card ""a"".",0.0,3,All different,1
+3,A,test,08.png,GPT_4o,b,"Explanation: The card has a repeated pattern of the same icon, similar to card ""b"".",0.0,0,All same,1
+3,A,test,09.png,GPT_4o,a,"Explanation: The card features a variety of different icons, similar to card ""a"".",0.0,1,All different,1
+3,A,test,10.png,GPT_4o,a,"Explanation: The card features a variety of different icons, similar to card ""a"".",0.0,2,All different,1
+3,A,test,01.png,GPT_o3,b,"all icons are the same, like the repeated hammers on card “b”",3268.682926829268,0,All same,1
+3,A,test,02.png,GPT_o3,a,"it contains a variety of different icons, like the mixed set on card “a”",4537.40606060606,4,All different,1
+3,A,test,03.png,GPT_o3,a,"contains several distinct icons, not a single icon repeated uniformly like card “b”",7120.657534246576,1,All different,1
+3,A,test,04.png,GPT_o3,a,contains a mix of different icons rather than one icon repeated like on card “b”,5459.781818181818,3,All different,1
+3,A,test,05.png,GPT_o3,a,it has a variety of different icons instead of one icon repeated uniformly,5300.906666666667,2,All different,1
+3,A,test,06.png,GPT_o3,a,"multiple different icons are shown, matching the mixed-icon style of card “a”",2138.24,4,All different,1
+3,A,test,07.png,GPT_o3,a,"card shows a mix of different icons, not one icon repeated throughout like card “b”",7688.938547486034,3,All different,1
+3,A,test,08.png,GPT_o3,b,"same mug icon repeated uniformly, like the repeated hammers on card “b”",0.0,0,All same,1
+3,A,test,09.png,GPT_o3,a,"contains several different icons, not a single icon repeated like on card “b”",5434.105263157895,1,All different,1
+3,A,test,10.png,GPT_o3,a,shows a mix of different icons rather than one icon repeated throughout,6374.545454545455,2,All different,1
+3,A,test,01.png,GPT_o3,b,"it shows the same icon repeated in a grid, like card “b”",1514.6666666666667,0,All same,1
+3,A,test,02.png,GPT_o3,a,"it contains many different icons, like card “a,” rather than one icon repeated",1541.76,4,All different,1
+3,A,test,03.png,GPT_o3,a,"it shows several different icons, not just one icon repeated uniformly",11297.882352941177,1,All different,1
+3,A,test,04.png,GPT_o3,a,it has many different icons rather than one icon repeated,0.0,3,All different,1
+3,A,test,05.png,GPT_o3,a,"it contains a variety of different icons, not one icon repeated.",3968.795031055901,2,All different,1
+3,A,test,06.png,GPT_o3,a,it displays many different icons instead of one icon repeated,4470.278481012659,4,All different,1
+3,A,test,07.png,GPT_o3,a,"it has a variety of different icons, not one icon repeated throughout",5640.858131487889,3,All different,1
+3,A,test,08.png,GPT_o3,b,"it shows one icon (a mug) repeated in a uniform grid, like card “b”",3200.621359223301,0,All same,1
+3,A,test,09.png,GPT_o3,a,it isn’t all one icon; several different icons break the repetition,6674.7733333333335,1,All different,1
+3,A,test,10.png,GPT_o3,a,it contains several different icons rather than a single icon repeated uniformly,5237.142857142857,2,All different,1
+3,A,test,01.png,GPT_o3,b,"the card shows the same T-shirt icon repeated, like card “b,” whereas card “a” contains many different icons.",1829.8181818181813,0,All same,1
+3,A,test,02.png,GPT_o3,a,"it displays a variety of different icons, just like card “a,” while card “b” repeats one icon.",1614.3551401869158,4,All different,1
+3,A,test,03.png,GPT_o3,a,"it has several different icons mixed in, not a single icon repeated throughout.",4844.368098159509,1,All different,1
+3,A,test,04.png,GPT_o3,a,it contains many different icons rather than the same icon repeated.,0.0,3,All different,1
+3,A,test,05.png,GPT_o3,a,multiple different icons are present; card “b” would show only one icon repeated.,8947.99175257732,2,All different,1
+3,A,test,06.png,GPT_o3,a,it shows a variety of different icons rather than one icon repeated.,2059.8762886597938,4,All different,1
+3,A,test,07.png,GPT_o3,a,it features many different icons rather than a single icon repeated.,6789.428571428572,3,All different,1
+3,A,test,08.png,GPT_o3,b,"the mug icon is repeated across the card, matching the single-icon pattern of card “b”.",3170.4615384615386,0,All same,1
+3,A,test,09.png,GPT_o3,a,"although one icon repeats, other different icons are present, so it’s not a single-icon pattern like card “b”.",3490.774566473988,1,All different,1
+3,A,test,10.png,GPT_o3,a,"multiple different icons appear, not just one icon repeated.",4412.377358490566,2,All different,1
+3,A,test,01.png,GPT_o3,b,"it repeats a single icon across the whole card, just like card “b”.",1953.28,0,All same,1
+3,A,test,02.png,GPT_o3,a,it displays a variety of different icons rather than repeating one icon.,1553.1546391752577,4,All different,1
+3,A,test,03.png,GPT_o3,a,"it shows several different icons, not a single repeated one.",3066.4,1,All different,1
+3,A,test,04.png,GPT_o3,a,it contains many different icons rather than one icon repeated.,3946.264150943396,3,All different,1
+3,A,test,05.png,GPT_o3,a,"it features several different icons, not one icon repeated across the whole card.",6267.161512027491,2,All different,1
+3,A,test,06.png,GPT_o3,a,it contains a variety of different icons rather than one icon repeated.,2015.670103092784,4,All different,1
+3,A,test,07.png,GPT_o3,a,it shows many different icons instead of repeating one icon.,3388.6315789473683,3,All different,1
+3,A,test,08.png,GPT_o3,b,it repeats the same mug icon across the whole card.,0.0,0,All same,1
+3,A,test,09.png,GPT_o3,a,"it has a mix of lightning bolts and several other different icons, so the card is not uniform.",3424.7619047619046,1,All different,1
+3,A,test,10.png,GPT_o3,a,"contains various different icons, not one single icon repeated.",2460.968421052632,2,All different,1
+3,A,test,01.png,GPT_o3,b,"it repeats one icon many times, like card b.",2193.5157894736844,0,All same,1
+3,A,test,02.png,GPT_o3,a,"it contains many different icons, like card a.",5190.054054054054,4,All different,1
+3,A,test,03.png,GPT_o3,a,it has various different icons instead of one identical icon repeated everywhere.,23279.42446043165,1,All different,1
+3,A,test,04.png,GPT_o3,a,it shows a mix of different icons rather than one icon repeated.,2346.226804123711,3,All different,1
+3,A,test,05.png,GPT_o3,a,it features a variety of different icons rather than one identical icon repeated.,4820.543209876543,2,All different,1
+3,A,test,06.png,GPT_o3,a,it has many different icons instead of one icon repeated.,3063.242105263158,4,All different,1
+3,A,test,07.png,GPT_o3,a,it mostly shows a variety of different icons rather than a single icon repeated everywhere.,5306.105263157895,3,All different,1
+3,A,test,08.png,GPT_o3,b,"it repeats the same mug icon across the grid, like card b.",4508.081632653061,0,All same,1
+3,A,test,09.png,GPT_o3,a,it isn’t a single icon repeated; there are several different icons mixed with the lightning bolts.,6191.728813559322,1,All different,1
+3,A,test,10.png,GPT_o3,a,"it contains several different icons, not a single one repeated everywhere.",4092.701030927835,2,All different,1
+3,A,test,01.png,GPT_o3,b,"it repeats a single icon (t-shirt) across the grid, like the hammer card.",4903.766990291262,0,All same,1
+3,A,test,02.png,GPT_o3,a,"it contains a variety of different icons, matching the mixed-icon style of card “a”.",2031.686274509804,4,All different,1
+3,A,test,03.png,GPT_o3,a,"it shows several different icons (dice plus other symbols), not a single icon repeated like card “b”.",7870.644705882353,1,All different,1
+3,A,test,04.png,GPT_o3,a,contains many different icons rather than one icon repeated.,7336.648648648648,3,All different,1
+3,A,test,05.png,GPT_o3,a,"multiple different icons are present, not a single repeated one.",5374.4,2,All different,1
+3,A,test,06.png,GPT_o3,a,it displays many different icons instead of repeating one icon.,5297.106918238994,4,All different,1
+3,A,test,07.png,GPT_o3,a,it has a mix of many different icons rather than one icon repeated.,6509.309734513275,3,All different,1
+3,A,test,08.png,GPT_o3,b,"one mug icon repeated in a uniform grid, matching the single-icon pattern of card “b”.",0.0,0,All same,1
+3,A,test,09.png,GPT_o3,a,it shows several different icons (lightning plus various others) rather than one icon repeated.,11909.008695652174,1,All different,1
+3,A,test,10.png,GPT_o3,a,"shows a variety of different icons, not just one icon repeated.",8964.656964656964,2,All different,1
+3,A,test,01.png,GPT_o3,b,"all tiles show the same repeated icon, just like the hammer card",3077.278350515464,0,All same,1
+3,A,test,02.png,GPT_o3,a,it shows many different icons rather than the same icon repeated,4975.1578947368425,4,All different,1
+3,A,test,03.png,GPT_o3,a,"the card contains several different icons (dice, layout, oven, engine, flame), so it isn’t a single icon repeated like card b.",11258.970189701897,1,All different,1
+3,A,test,04.png,GPT_o3,a,it features many different icons rather than one icon repeated.,0.0,3,All different,1
+3,A,test,05.png,GPT_o3,a,"it shows several different icons, not one icon repeated throughout.",6420.857142857143,2,All different,1
+3,A,test,06.png,GPT_o3,a,contains a variety of different icons instead of one icon repeated.,12543.333333333334,4,All different,1
+3,A,test,07.png,GPT_o3,a,"it shows a mix of different icons, not the same icon repeated throughout like card b.",11633.82940108893,3,All different,1
+3,A,test,08.png,GPT_o3,b,"it repeats the same mug icon across the whole card, like card b.",2671.191919191919,0,All same,1
+3,A,test,09.png,GPT_o3,a,"although many lightning icons repeat, several different icons (balloons, fireplace, ski, card) are also present, so it isn’t a single uniform icon like card b.",7170.85020242915,1,All different,1
+3,A,test,10.png,GPT_o3,a,"includes various different icons, not a single icon repeated.",2972.294736842105,2,All different,1
+3,A,test,01.png,GPT_o3,b,"this card repeats the same shirt icon across the grid, like card b which repeats hammers, whereas card a has many different icons",2061.3818181818183,0,All same,1
+3,A,test,02.png,GPT_o3,a,"this card shows many different icons, matching card a’s variety rather than card b’s single repeated icon",15109.333333333334,4,All different,1
+3,A,test,03.png,GPT_o3,a,"although dice icons repeat, there are several different icons on the card, so it fits with the varied-icons pattern of card a rather than the single repeated icon pattern of card b.",7279.074380165289,1,All different,1
+3,A,test,04.png,GPT_o3,a,"it contains many different icons, matching the varied set on card a rather than the single‐icon repetition of card b",5960.971962616823,3,All different,1
+3,A,test,05.png,GPT_o3,a,"the card shows several different icons rather than a single icon repeated, matching the varied-icon style of card a.",5909.333333333333,2,All different,1
+3,A,test,06.png,GPT_o3,a,"shows many different icons, not one icon repeated like card b",12318.666666666666,4,All different,1
+3,A,test,07.png,GPT_o3,a,contains various different icons rather than a single icon repeated throughout,7516.412556053811,3,All different,1
+3,A,test,08.png,GPT_o3,b,"it repeats the same mug icon across the whole card, like card b’s repeated hammers",0.0,0,All same,1
+3,A,test,09.png,GPT_o3,a,"though lightning bolts repeat, there are several other distinct icons, so it matches the varied‐icon style of card a",6258.526315789473,1,All different,1
+3,A,test,10.png,GPT_o3,a,"multiple different icons appear, not just one repeated pattern like card b",20605.78546712803,2,All different,1
+3,A,test,01.png,GPT_o3,b,it repeats the same T-shirt icon like card “b” repeats hammers,2842.88,0,All same,1
+3,A,test,02.png,GPT_o3,a,"it shows many different icons, matching card “a” which also has varied icons",5481.263157894737,4,All different,1
+3,A,test,03.png,GPT_o3,a,"the icons are not all the same (dice stacks plus a few other symbols), so it belongs with the varied-icon card “a” rather than the uniform card “b”.",7621.74358974359,1,All different,1
+3,A,test,04.png,GPT_o3,a,it contains many different icons rather than repeating one icon.,4351.194968553459,3,All different,1
+3,A,test,05.png,GPT_o3,a,"it has several different icons (only some repeat), unlike card “b” which shows one icon repeated everywhere.",15718.4,2,All different,1
+3,A,test,06.png,GPT_o3,a,"the card displays a variety of different icons, matching the mixed-icon style of card “a”.",3080.0,4,All different,1
+3,A,test,07.png,GPT_o3,a,"multiple different icons are shown, matching the mixed-icon pattern of card “a”.",3896.96,3,All different,1
+3,A,test,08.png,GPT_o3,b,"it repeats the same mug icon throughout, just like card “b” with repeated hammers.",10374.898203592817,0,All same,1
+3,A,test,09.png,GPT_o3,a,"it mixes lightning bolts with several other distinct icons, matching the varied-icon pattern of card “a”.",4670.476190476191,1,All different,1
+3,A,test,10.png,GPT_o3,a,"several different icons appear, not a single icon repeated like on card “b”.",4048.390243902439,2,All different,1
+3,A,test,01.png,GPT_o3,b,"it repeats the same icon in a grid, like card “b”",1895.8367346938776,0,All same,1
+3,A,test,02.png,GPT_o3,a,"it has a variety of different icons, matching the mixed-icon style of card “a”",4030.850299401197,4,All different,1
+3,A,test,03.png,GPT_o3,b,"many copies of the same dice icon are repeated, matching the repetition pattern of card “b”",9021.7304964539,1,All same,1
+3,A,test,04.png,GPT_o3,a,mixture of many different icons rather than one icon repeated,8558.628571428571,3,All different,1
+3,A,test,05.png,GPT_o3,b,"it repeats the same “field” icon many times, fitting the repeated-icon pattern of card “b”",60608.34293369056,2,All same,1
+3,A,test,06.png,GPT_o3,a,contains a variety of different icons rather than one icon repeated,4760.955974842767,4,All different,1
+3,A,test,07.png,GPT_o3,b,"the same “hand” icon is repeated in several positions, following the repeated-icon pattern of card “b”",29308.713318284423,3,All same,1
+3,A,test,08.png,GPT_o3,b,"it shows the same mug icon repeated in every position, matching card “b”’s repetition pattern",3149.714285714286,0,All same,1
+3,A,test,09.png,GPT_o3,b,"the lightning icon repeats in most squares, matching the repeated-single-icon pattern of card “b”",6986.127946127946,1,All same,1
+3,A,test,10.png,GPT_o3,b,"the lamp icon appears repeatedly across the grid, fitting the repeated-icon pattern of card “b”",11316.590163934428,2,All same,1
+3,A,test,01.png,GPT_o4_mini_high,b,"it’s a uniform grid of the same icon, matching the all-identical pattern of card b.",2119.9526627218934,0,All same,1
+3,A,test,02.png,GPT_o4_mini_high,a,"it shows 16 different icons, matching the distinct-icons pattern of card a.",4294.453781512605,4,All different,1
+3,A,test,03.png,GPT_o4_mini_high,b,"it’s almost entirely the same dice-stack icon repeated, matching the uniform pattern of card b.",28329.849688846338,1,All same,1
+3,A,test,04.png,GPT_o4_mini_high,a,"it’s a mix of many different icons rather than one icon repeated, matching card a’s distinct‐icons pattern.",9010.823529411764,3,All different,1
+3,A,test,05.png,GPT_o4_mini_high,a,"it’s a mix of different icons (only half are the same), matching card a’s varied‐icons pattern.",21744.437689969604,2,All different,1
+3,A,test,06.png,GPT_o4_mini_high,a,"it shows 16 different icons in a grid, matching the varied‐icons pattern of card a.",4024.583690987125,4,All different,1
+3,A,test,07.png,GPT_o4_mini_high,a,"it’s a mix of different icons (not a uniform grid of the same one), matching the varied‐icons pattern of card a.",6780.638383838384,3,All different,1
+3,A,test,08.png,GPT_o4_mini_high,b,"it’s a uniform grid of the same mug icon, matching card b’s all-identical pattern.",2944.0,0,All same,1
+3,A,test,09.png,GPT_o4_mini_high,a,"it mixes a few different icons among many lightning bolts, so it’s the varied‐icons pattern like card a rather than the uniform grid of card b.",8239.265469061877,1,All different,1
+3,A,test,10.png,GPT_o4_mini_high,a,"it mixes different icons (not a uniform grid of one icon), matching the varied‐icons pattern of card a.",4689.807162534436,2,All different,1
+3,A,test,01.png,GPT_o4_mini_high,b,"all the icons are identical repeats, matching the uniform pattern of card b.",5498.5142857142855,0,All same,1
+3,A,test,02.png,GPT_o4_mini_high,b,"all icons are identical repeats, matching the uniform pattern of card b.",4883.163841807909,4,All same,1
+3,A,test,03.png,GPT_o4_mini_high,a,"contains various different icons rather than a uniform repeat, matching card a.",7343.970749542962,1,All different,1
+3,A,test,04.png,GPT_o4_mini_high,a,"this card shows a mix of different icons (not a single repeated icon), matching the varied pattern of card a.",3548.354430379746,3,All different,1
+3,A,test,05.png,GPT_o4_mini_high,a,"it shows a variety of different icons rather than one icon repeated, matching card a.",13836.73933649289,2,All different,1
+3,A,test,06.png,GPT_o4_mini_high,a,"it shows a mix of different icons rather than a single repeated icon, matching card a.",2610.89156626506,4,All different,1
+3,A,test,07.png,GPT_o4_mini_high,a,"it’s a mix of different icons (not the same icon repeated), matching the varied pattern of card a.",22589.263034563563,3,All different,1
+3,A,test,08.png,GPT_o4_mini_high,b,"every icon is the same mug, matching the uniform repeat pattern of card b.",2547.512195121951,0,All same,1
+3,A,test,09.png,GPT_o4_mini_high,a,"it has various different icons (not one repeated), matching the diverse pattern of card a.",5754.864197530864,1,All different,1
+3,A,test,10.png,GPT_o4_mini_high,a,"it shows a mix of different icons (not all the same), matching the varied pattern of card a.",8645.601296596435,2,All different,1
+3,A,test,01.png,GPT_o4_mini_high,b,"it has a single repeated icon like card b, unlike the varied icons on card a.",1862.095238095238,0,All same,1
+3,A,test,02.png,GPT_o4_mini_high,a,"it has a mix of different icons just like card a, not a single repeated icon.",3560.239520958084,4,All different,1
+3,A,test,03.png,GPT_o4_mini_high,a,it shows different icons (not the same symbol repeated) so it matches the varied‐icons card a.,11732.820160366551,1,All different,1
+3,A,test,04.png,GPT_o4_mini_high,a,"it has a mix of different icons, matching the varied‐icons pattern of card a.",4826.557823129252,3,All different,1
+3,A,test,05.png,GPT_o4_mini_high,a,it contains a mix of different icons rather than the same icon repeated.,5878.507177033493,2,All different,1
+3,A,test,06.png,GPT_o4_mini_high,a,it shows a mix of different icons just like card a.,3212.8,4,All different,1
+3,A,test,07.png,GPT_o4_mini_high,a,it shows a mix of different icons rather than one symbol repeated.,10422.172284644195,3,All different,1
+3,A,test,08.png,GPT_o4_mini_high,b,"it’s the same mug icon repeated across the grid, matching the single-icon pattern of card b.",4922.6127946127945,0,All same,1
+3,A,test,09.png,GPT_o4_mini_high,a,"it’s got a variety of icons (balloons, fireplace, skis, sim‐card, lightning), not the same symbol repeated.",36082.15920737957,1,All different,1
+3,A,test,10.png,GPT_o4_mini_high,a,it has a mix of different icons rather than one symbol repeated.,3607.916955017301,2,All different,1
+3,A,test,01.png,GPT_o4_mini_high,b,it’s a uniform grid of the same icon just like card b.,3275.9172413793103,0,All same,1
+3,A,test,02.png,GPT_o4_mini_high,a,contains 16 different icons just like card a.,3072.864864864865,4,All different,1
+3,A,test,03.png,GPT_o4_mini_high,b,"it’s dominated by the same dice icon repeated, just like card b.",23917.021782178217,1,All same,1
+3,A,test,04.png,GPT_o4_mini_high,a,"it’s a mix of different icons (with repeats), not a uniform grid of one icon like card b.",11995.692921236292,3,All different,1
+3,A,test,05.png,GPT_o4_mini_high,a,"it’s a mixed set of different icons (with some repeats), not a uniform grid of one icon like card b.",14478.436090225565,2,All different,1
+3,A,test,06.png,GPT_o4_mini_high,a,it’s a mix of different icons just like card a.,2705.92,4,All different,1
+3,A,test,07.png,GPT_o4_mini_high,a,it’s a mix of different icons (not a uniform repeating icon like card b).,6761.481481481482,3,All different,1
+3,A,test,08.png,GPT_o4_mini_high,b,it’s a uniform grid of the same icon just like card b.,15691.18699186992,0,All same,1
+3,A,test,09.png,GPT_o4_mini_high,a,"it’s mostly lightning bolts but has several different icons mixed in, not a uniform grid of one icon like card b.",16818.837178642058,1,All different,1
+3,A,test,10.png,GPT_o4_mini_high,a,"it’s a mix of different icons, not a uniform grid of the same icon like card b.",15359.206377325068,2,All different,1
+3,A,test,01.png,GPT_o4_mini_high,b,"all the icons are the same repeated pattern, matching card b’s uniform layout.",3068.646288209607,0,All same,1
+3,A,test,02.png,GPT_o4_mini_high,a,it has a mix of different icons just like card a rather than a uniform repeated icon.,2192.0958083832334,4,All different,1
+3,A,test,03.png,GPT_o4_mini_high,a,it mixes different icons rather than repeating the same one.,9019.858037578288,1,All different,1
+3,A,test,04.png,GPT_o4_mini_high,a,"the card shows a mix of different icons (with some repeats) rather than one icon throughout, matching card a’s varied layout.",6394.181818181818,3,All different,1
+3,A,test,05.png,GPT_o4_mini_high,a,it shows a variety of different icons (with some repeats) matching the mixed layout of card a.,3848.2403433476393,2,All different,1
+3,A,test,06.png,GPT_o4_mini_high,a,it displays a variety of different icons instead of one icon repeated throughout.,6879.179487179487,4,All different,1
+3,A,test,07.png,GPT_o4_mini_high,a,"it features a variety of different icons (not the same one repeated), matching card a’s mixed layout.",4286.7114093959735,3,All different,1
+3,A,test,08.png,GPT_o4_mini_high,b,"all icons are the same repeated mug, matching card b’s uniform pattern.",0.0,0,All same,1
+3,A,test,09.png,GPT_o4_mini_high,a,"it mixes in different icons (balloons, fireplace, skis, card) instead of repeating just one icon.",7770.570397111914,1,All different,1
+3,A,test,10.png,GPT_o4_mini_high,a,it shows a variety of different icons rather than one icon repeated throughout.,1225.142857142857,2,All different,1
+3,A,test,01.png,GPT_o4_mini_high,b,all the symbols are identical (just like the uniform hammers on card b).,2106.181818181818,0,All same,1
+3,A,test,02.png,GPT_o4_mini_high,a,"all the symbols are different, matching the varied icons on card a.",5739.209039548023,4,All different,1
+3,A,test,03.png,GPT_o4_mini_high,neither,"it’s a mix of repeated dice stacks and other icons, so it doesn’t match the all-identical pattern of b or the all-unique pattern of a.",23830.37959784208,1,,1
+3,A,test,04.png,GPT_o4_mini_high,neither,it has some repeating shower icons but isn’t all identical (b) nor all distinct (a).,11233.946638207044,3,,1
+3,A,test,05.png,GPT_o4_mini_high,neither,"it has many repeated field icons but also other symbols, so it’s neither all identical (b) nor all unique (a).",8020.545746388443,2,,1
+3,A,test,06.png,GPT_o4_mini_high,a,"all 16 icons are different, matching card a’s pattern.",1632.65306122449,4,All different,1
+3,A,test,07.png,GPT_o4_mini_high,neither,it has repeating paint-roller icons so it’s neither all identical (b) nor all unique (a).,14354.590476190477,3,,1
+3,A,test,08.png,GPT_o4_mini_high,b,"every icon is the same mug, matching card b’s all-identical pattern.",3412.8192771084337,0,All same,1
+3,A,test,09.png,GPT_o4_mini_high,neither,"it’s mostly lightning icons with a few others, so it’s neither all identical (b) nor all unique (a).",6297.392712550607,1,,1
+3,A,test,10.png,GPT_o4_mini_high,neither,"there are repeated lamps mixed with other icons, so it’s neither all-identical (b) nor all-unique (a).",6599.628282828283,2,,1
+3,A,test,01.png,GPT_o4_mini_high,b,"it’s a uniform grid of the same icon, matching the repeated-pattern style of card b.",3224.103896103896,0,All same,1
+3,A,test,02.png,GPT_o4_mini_high,a,"it shows 16 different icons, matching the varied-icons pattern of card a.",6024.0329218107,4,All different,1
+3,A,test,03.png,GPT_o4_mini_high,b,"it’s dominated by the same dice icon in most positions, matching the repeated‐icon style of card b.",8945.007320644218,1,All same,1
+3,A,test,04.png,GPT_o4_mini_high,a,"it’s a mixed set of different icons (with only a few repeats), matching the varied‐icons pattern of card a.",9259.946666666669,3,All different,1
+3,A,test,05.png,GPT_o4_mini_high,b,"it’s dominated by the same soccer-field icon in half its slots, matching the repeated-icon pattern of card b.",22418.21871476889,2,All same,1
+3,A,test,06.png,GPT_o4_mini_high,a,"it shows all different icons, matching the varied-icons pattern of card a.",2800.4848484848485,4,All different,1
+3,A,test,07.png,GPT_o4_mini_high,b,"one icon repeats across multiple slots, matching the repeated-icon pattern of card b.",7010.676363636364,3,All same,1
+3,A,test,08.png,GPT_o4_mini_high,b,"it’s a uniform grid of the same mug icon, matching the repeated-icon style of card b.",1892.571428571429,0,All same,1
+3,A,test,09.png,GPT_o4_mini_high,b,"it’s dominated by the same lightning icon repeated across the grid, matching card b’s pattern.",6025.049180327869,1,All same,1
+3,A,test,10.png,GPT_o4_mini_high,b,"the lamp icon dominates half the grid, matching card b’s repeated-icon pattern.",28956.42015371477,2,All same,1
+3,A,test,01.png,GPT_o4_mini_high,b,"all the icons are identical, matching the uniform pattern of card b.",1799.0243902439024,0,All same,1
+3,A,test,02.png,GPT_o4_mini_high,a,"it shows a mix of different icons just like card a, not the identical repeats of card b.",3144.0,4,All different,1
+3,A,test,03.png,GPT_o4_mini_high,a,it has a mix of different icons rather than the identical repeats of card b.,3324.505119453925,1,All different,1
+3,A,test,04.png,GPT_o4_mini_high,a,"it has a variety of different icons, matching the mixed-icon pattern of card a.",7314.8166969147005,3,All different,1
+3,A,test,05.png,GPT_o4_mini_high,a,"it’s not all the same icon but a mix of different ones, fitting the varied-icon pattern of card a.",7659.870967741936,2,All different,1
+3,A,test,06.png,GPT_o4_mini_high,a,"it shows a variety of different icons, matching the mixed‐icon pattern of card a.",3279.792207792208,4,All different,1
+3,A,test,07.png,GPT_o4_mini_high,a,"it shows a mix of different icons, matching the varied‐icon pattern of card a.",5004.739336492891,3,All different,1
+3,A,test,08.png,GPT_o4_mini_high,b,"all the icons are the same mug, fitting the uniform pattern of card b.",2247.0243902439024,0,All same,1
+3,A,test,09.png,GPT_o4_mini_high,a,"it features a mix of different icons rather than a single repeated symbol, matching card a.",4981.106382978724,1,All different,1
+3,A,test,10.png,GPT_o4_mini_high,a,it has a variety of different icons rather than the identical repeats of card b.,15488.53826745164,2,All different,1
+3,A,test,01.png,GPT_o4_mini_high,b,all the icons are the same (like the hammers on card b) rather than all different like on card a.,3608.582781456954,0,All same,1
+3,A,test,02.png,GPT_o4_mini_high,a,"all 16 icons on the card are different, matching the “all unique” pattern of card a.",3334.03367003367,4,All different,1
+3,A,test,03.png,GPT_o4_mini_high,b,the card has a repeating dice icon (many duplicates) rather than all unique symbols like card a.,9744.11953041622,1,All same,1
+3,A,test,04.png,GPT_o4_mini_high,b,"the spray/shower icon repeats, so not all 16 are unique.",16958.304885226604,3,All same,1
+3,A,test,05.png,GPT_o4_mini_high,b,"the soccer-field icon repeats multiple times, so it’s not all unique like card a.",14940.535031847134,2,All same,1
+3,A,test,06.png,GPT_o4_mini_high,a,"all 16 icons are unique, matching the “all different” pattern of card a.",3404.625850340136,4,All different,1
+3,A,test,07.png,GPT_o4_mini_high,b,"the rolled-up scroll icon repeats across the grid, so it’s not all unique like card a.",5959.59100204499,3,All same,1
+3,A,test,08.png,GPT_o4_mini_high,b,"every icon is identical, matching the uniform pattern of card b.",1565.3877551020407,0,All same,1
+3,A,test,09.png,GPT_o4_mini_high,b,"the lightning bolt repeats across the grid, so it’s not all unique like card a.",10508.334047109209,1,All same,1
+3,A,test,10.png,GPT_o4_mini_high,b,"the lamp icon repeats multiple times, so it matches the duplicate pattern of card b rather than all-unique card a.",2763.0344827586205,2,All same,1
+3,A,test,01.png,GPT_o4_mini_high,b,"all the icons are identical repeats, matching the uniform pattern of card b.",2553.717791411043,0,All same,1
+3,A,test,02.png,GPT_o4_mini_high,a,it has a variety of different icons just like card a.,7866.011009174312,4,All different,1
+3,A,test,03.png,GPT_o4_mini_high,a,"it shows a mix of different icons rather than a uniform repeat, so it matches card a.",5739.540983606557,1,All different,1
+3,A,test,04.png,GPT_o4_mini_high,a,"it has a mix of different icons rather than one repeated symbol, matching card a.",4119.510204081633,3,All different,1
+3,A,test,05.png,GPT_o4_mini_high,a,"it shows a variety of different icons rather than one symbol repeated, matching card a.",3261.8231292517007,2,All different,1
+3,A,test,06.png,GPT_o4_mini_high,a,"it displays a variety of different icons, matching the mixed set pattern of card a.",2400.969696969697,4,All different,1
+3,A,test,07.png,GPT_o4_mini_high,a,it contains a mix of different icons rather than one repeated symbol.,2798.509316770186,3,All different,1
+3,A,test,08.png,GPT_o4_mini_high,b,"it shows the same mug icon repeated in a uniform grid, matching the pattern of card b.",0.0,0,All same,1
+3,A,test,09.png,GPT_o4_mini_high,a,it mixes different icons instead of repeating one symbol uniformly.,5155.555555555556,1,All different,1
+3,A,test,10.png,GPT_o4_mini_high,a,it’s a mix of different icons rather than one symbol repeated uniformly.,7064.026229508197,2,All different,1
+3,B,test,01.png,Gemini_2_5_flash,b,"The card contains a variety of different icons, similar to card ""b"".",0.0,2,All different,1
+3,B,test,02.png,Gemini_2_5_flash,a,"All icons on the card are identical, similar to card ""a"".",0.0,0,All same,1
+3,B,test,03.png,Gemini_2_5_flash,b,"The card contains a mix of different icons, some repeating, some unique, similar to card ""b"".",0.0,2,All different,1
+3,B,test,04.png,Gemini_2_5_flash,b,"The card displays a variety of different icons, similar to card ""b"".",0.0,3,All different,1
+3,B,test,05.png,Gemini_2_5_flash,b,"The card contains mostly identical icons but also includes several unique icons, making it similar to card ""b"".",0.0,1,All different,1
+3,B,test,06.png,Gemini_2_5_flash,a,"All icons on the card are identical, similar to card ""a"".",0.0,0,All same,1
+3,B,test,07.png,Gemini_2_5_flash,b,"The card features a wide array of different icons, similar to card ""b"".",0.0,4,All different,1
+3,B,test,08.png,Gemini_2_5_flash,b,"The card contains a diverse collection of different icons, similar to card ""b"".",0.0,4,All different,1
+3,B,test,09.png,Gemini_2_5_flash,b,"The card contains a mix of many identical icons and a few unique ones, similar to card ""b"".",0.0,1,All different,0
+3,B,test,10.png,Gemini_2_5_flash,b,"The card contains a wide assortment of different icons, similar to card ""b"".",0.0,3,All different,1
+3,B,test,01.png,Gemini_2_5_flash,b,The card contains a variety of different icons.,0.0,2,All different,1
+3,B,test,02.png,Gemini_2_5_flash,a,The card contains a repeating pattern of the same icon.,0.0,0,All same,1
+3,B,test,03.png,Gemini_2_5_flash,b,The card contains a variety of different icons.,0.0,2,All different,1
+3,B,test,04.png,Gemini_2_5_flash,b,The card contains a variety of different icons.,0.0,3,All different,1
+3,B,test,05.png,Gemini_2_5_flash,b,The card contains a variety of different icons.,0.0,1,All different,1
+3,B,test,06.png,Gemini_2_5_flash,a,The card contains a repeating pattern of the same icon.,0.0,0,All same,1
+3,B,test,07.png,Gemini_2_5_flash,b,The card contains a variety of different icons.,0.0,4,All different,1
+3,B,test,08.png,Gemini_2_5_flash,b,The card contains a variety of different icons.,0.0,4,All different,1
+3,B,test,09.png,Gemini_2_5_flash,b,The card contains a variety of different icons.,0.0,1,All different,1
+3,B,test,10.png,Gemini_2_5_flash,b,The card contains a variety of different icons.,0.0,3,All different,1
+3,B,test,01.png,Gemini_2_5_flash,b,"The card contains a variety of different icons, similar to card ""b"".",0.0,2,All different,1
+3,B,test,02.png,Gemini_2_5_flash,a,"All icons on the card are identical, similar to card ""a"".",0.0,0,All same,1
+3,B,test,03.png,Gemini_2_5_flash,b,"The card contains a variety of different icons, similar to card ""b"".",0.0,2,All different,1
+3,B,test,04.png,Gemini_2_5_flash,b,"The card contains a variety of different icons, similar to card ""b"".",0.0,3,All different,1
+3,B,test,05.png,Gemini_2_5_flash,b,"The card contains a variety of different icons, not all identical.",0.0,1,All different,1
+3,B,test,06.png,Gemini_2_5_flash,a,"All icons on the card are identical, similar to card ""a"".",0.0,0,All same,1
+3,B,test,07.png,Gemini_2_5_flash,b,"The card contains a variety of different icons, similar to card ""b"".",0.0,4,All different,1
+3,B,test,08.png,Gemini_2_5_flash,b,"The card contains a variety of different icons, similar to card ""b"".",0.0,4,All different,1
+3,B,test,09.png,Gemini_2_5_flash,b,"The card contains a variety of different icons, not all identical.",0.0,1,All different,1
+3,B,test,10.png,Gemini_2_5_flash,b,"The card contains a variety of different icons, similar to card ""b"".",0.0,3,All different,1
+3,B,test,01.png,Gemini_2_5_flash,b,"The card contains multiple different types of icons, similar to card ""b"" which also shows a variety of distinct icons.",0.0,2,All different,1
+3,B,test,02.png,Gemini_2_5_flash,a,"The card contains only one type of icon repeated multiple times, similar to card ""a"".",0.0,0,All same,1
+3,B,test,03.png,Gemini_2_5_flash,b,"The card contains multiple different types of icons, similar to card ""b"".",0.0,2,All different,1
+3,B,test,04.png,Gemini_2_5_flash,b,"The card contains multiple different types of icons, similar to card ""b"".",0.0,3,All different,1
+3,B,test,05.png,Gemini_2_5_flash,b,"The card contains multiple different types of icons, similar to card ""b"".",0.0,1,All different,1
+3,B,test,06.png,Gemini_2_5_flash,a,"The card contains only one type of icon repeated multiple times, similar to card ""a"".",0.0,0,All same,1
+3,B,test,07.png,Gemini_2_5_flash,b,"The card contains multiple different types of icons, similar to card ""b"".",0.0,4,All different,1
+3,B,test,08.png,Gemini_2_5_flash,b,"The card contains multiple different types of icons, similar to card ""b"".",0.0,4,All different,1
+3,B,test,09.png,Gemini_2_5_flash,b,"The card contains multiple different types of icons, similar to card ""b"", even though a dominant icon is present.",0.0,1,All different,1
+3,B,test,10.png,Gemini_2_5_flash,b,"The card contains multiple different types of icons, similar to card ""b"", even with some repeated icons.",0.0,3,All different,1
+3,B,test,01.png,Gemini_2_5_flash,b,"The card contains multiple different icons, similar to card ""b"".",0.0,2,All different,1
+3,B,test,02.png,Gemini_2_5_flash,a,"The card contains a single repeated icon, similar to card ""a"".",0.0,0,All same,1
+3,B,test,03.png,Gemini_2_5_flash,b,"The card contains multiple different icons, similar to card ""b"".",0.0,2,All different,1
+3,B,test,04.png,Gemini_2_5_flash,b,"The card contains multiple different icons, similar to card ""b"".",0.0,3,All different,1
+3,B,test,05.png,Gemini_2_5_flash,b,"The card contains multiple different icons, similar to card ""b"".",0.0,1,All different,1
+3,B,test,06.png,Gemini_2_5_flash,a,"The card contains a single repeated icon, similar to card ""a"".",0.0,0,All same,1
+3,B,test,07.png,Gemini_2_5_flash,b,"The card contains multiple different icons, similar to card ""b"".",0.0,4,All different,1
+3,B,test,08.png,Gemini_2_5_flash,b,"The card contains multiple different icons, similar to card ""b"".",0.0,4,All different,1
+3,B,test,09.png,Gemini_2_5_flash,b,"The card contains multiple different icons, similar to card ""b"".",0.0,1,All different,1
+3,B,test,10.png,Gemini_2_5_flash,b,"The card contains multiple different icons, similar to card ""b"".",0.0,3,All different,1
+3,B,test,01.png,Gemini_2_5_flash,b,The card contains a variety of different icons.,0.0,2,All different,1
+3,B,test,02.png,Gemini_2_5_flash,a,All icons on the card are identical.,0.0,0,All same,1
+3,B,test,03.png,Gemini_2_5_flash,b,The card contains a variety of different icons.,0.0,2,All different,1
+3,B,test,04.png,Gemini_2_5_flash,b,The card contains a variety of different icons.,0.0,3,All different,1
+3,B,test,05.png,Gemini_2_5_flash,b,The card contains a variety of different icons.,0.0,1,All different,1
+3,B,test,06.png,Gemini_2_5_flash,a,All icons on the card are identical.,0.0,0,All same,1
+3,B,test,07.png,Gemini_2_5_flash,b,The card contains a variety of different icons.,0.0,4,All different,1
+3,B,test,08.png,Gemini_2_5_flash,b,The card contains a variety of different icons.,0.0,4,All different,1
+3,B,test,09.png,Gemini_2_5_flash,b,The card contains a variety of different icons.,0.0,1,All different,1
+3,B,test,10.png,Gemini_2_5_flash,b,The card contains a variety of different icons.,0.0,3,All different,1
+3,B,test,01.png,Gemini_2_5_flash,b,"The card contains a variety of different icons, not just one repeated icon.",0.0,2,All different,1
+3,B,test,02.png,Gemini_2_5_flash,a,All icons on the card are identical.,0.0,0,All same,1
+3,B,test,03.png,Gemini_2_5_flash,b,The card contains a mix of different icons and a repeated icon.,0.0,2,All different,1
+3,B,test,04.png,Gemini_2_5_flash,b,The card contains a mix of different icons and a repeated icon.,0.0,3,All different,1
+3,B,test,05.png,Gemini_2_5_flash,b,The card contains a mix of different icons and a repeated icon.,0.0,1,All different,1
+3,B,test,06.png,Gemini_2_5_flash,a,All icons on the card are identical.,0.0,0,All same,1
+3,B,test,07.png,Gemini_2_5_flash,b,The card contains a variety of different icons.,0.0,4,All different,1
+3,B,test,08.png,Gemini_2_5_flash,b,The card contains a variety of different icons.,0.0,4,All different,1
+3,B,test,09.png,Gemini_2_5_flash,b,The card contains a mix of different icons and a repeated icon.,0.0,1,All different,1
+3,B,test,10.png,Gemini_2_5_flash,b,The card contains a mix of different icons and a repeated icon.,0.0,3,All different,1
+3,B,test,01.png,Gemini_2_5_flash,b,"It contains multiple different icons, similar to card ""b"".",0.0,2,All different,1
+3,B,test,02.png,Gemini_2_5_flash,a,"It contains multiple identical icons, similar to card ""a"".",0.0,0,All same,1
+3,B,test,03.png,Gemini_2_5_flash,b,"It contains multiple different icons, similar to card ""b"".",0.0,2,All different,1
+3,B,test,04.png,Gemini_2_5_flash,b,"It contains multiple different icons, similar to card ""b"".",0.0,3,All different,1
+3,B,test,05.png,Gemini_2_5_flash,b,"It contains multiple different icons, similar to card ""b"".",0.0,1,All different,1
+3,B,test,06.png,Gemini_2_5_flash,a,"It contains multiple identical icons, similar to card ""a"".",0.0,0,All same,1
+3,B,test,07.png,Gemini_2_5_flash,b,"It contains multiple different icons, similar to card ""b"".",0.0,4,All different,1
+3,B,test,08.png,Gemini_2_5_flash,b,"It contains multiple different icons, similar to card ""b"".",0.0,4,All different,1
+3,B,test,09.png,Gemini_2_5_flash,b,"It contains multiple different icons, similar to card ""b"".",0.0,1,All different,1
+3,B,test,10.png,Gemini_2_5_flash,b,"It contains multiple different icons, similar to card ""b"".",0.0,3,All different,1
+3,B,test,01.png,Gemini_2_5_flash,a,"It contains many identical ""box"" icons, similar to card ""a"".",0.0,2,All same,1
+3,B,test,02.png,Gemini_2_5_flash,a,"It contains many identical ""play"" icons, similar to card ""a"".",0.0,0,All same,1
+3,B,test,03.png,Gemini_2_5_flash,b,"It contains many different icons, similar to card ""b"".",0.0,2,All different,1
+3,B,test,04.png,Gemini_2_5_flash,b,"It contains many different types of icons, similar to card ""b"".",0.0,3,All different,1
+3,B,test,05.png,Gemini_2_5_flash,a,"It contains many identical ""newspaper"" icons, similar to card ""a"".",0.0,1,All same,1
+3,B,test,06.png,Gemini_2_5_flash,a,"It contains many identical ""lightbulb"" icons, similar to card ""a"".",0.0,0,All same,1
+3,B,test,07.png,Gemini_2_5_flash,b,"It contains many different types of icons, similar to card ""b"".",0.0,4,All different,1
+3,B,test,08.png,Gemini_2_5_flash,b,"It contains many different types of icons, similar to card ""b"".",0.0,4,All different,1
+3,B,test,09.png,Gemini_2_5_flash,a,"It contains many identical ""cloud with rain"" icons, similar to card ""a"".",0.0,1,All same,1
+3,B,test,10.png,Gemini_2_5_flash,b,"It contains many different types of icons, similar to card ""b"".",0.0,3,All different,1
+3,B,test,01.png,Gemini_2_5_flash,b,"The card contains a variety of different icons, similar to card ""b"".",0.0,2,All different,1
+3,B,test,02.png,Gemini_2_5_flash,a,"All icons on the card are identical, matching the pattern of card ""a"".",0.0,0,All same,1
+3,B,test,03.png,Gemini_2_5_flash,b,"The card contains a variety of different icons, similar to card ""b"".",0.0,2,All different,1
+3,B,test,04.png,Gemini_2_5_flash,b,"The card contains a variety of different icons, similar to card ""b"".",0.0,3,All different,1
+3,B,test,05.png,Gemini_2_5_flash,b,"The card contains a variety of different icons, similar to card ""b"".",0.0,1,All different,1
+3,B,test,06.png,Gemini_2_5_flash,a,"All icons on the card are identical, matching the pattern of card ""a"".",0.0,0,All same,1
+3,B,test,07.png,Gemini_2_5_flash,b,"The card contains a variety of different icons, similar to card ""b"".",0.0,4,All different,1
+3,B,test,08.png,Gemini_2_5_flash,b,"The card contains a variety of different icons, similar to card ""b"".",0.0,4,All different,1
+3,B,test,09.png,Gemini_2_5_flash,b,"The card contains a variety of different icons, similar to card ""b"".",0.0,1,All different,1
+3,B,test,10.png,Gemini_2_5_flash,b,"The card contains a variety of different icons, similar to card ""b"".",0.0,3,All different,1
+3,B,test,01.png,Gemini_2_0_flash,b,"It contains different object icons, like card ""b"".",0.0,2,All different,1
+3,B,test,02.png,Gemini_2_0_flash,a,"It contains multiple instances of the same icon, like card ""a"".",0.0,0,All same,1
+3,B,test,03.png,Gemini_2_0_flash,b,"It contains different object icons, like card ""b"".",0.0,2,All different,1
+3,B,test,04.png,Gemini_2_0_flash,b,"It contains different object icons, like card ""b"".",0.0,3,All different,1
+3,B,test,05.png,Gemini_2_0_flash,b,"It contains different object icons, like card ""b"".",0.0,1,All different,1
+3,B,test,06.png,Gemini_2_0_flash,a,"It contains multiple instances of the same icon, like card ""a"".",0.0,0,All same,1
+3,B,test,07.png,Gemini_2_0_flash,b,"It contains different object icons, like card ""b"".",0.0,4,All different,1
+3,B,test,08.png,Gemini_2_0_flash,b,"It contains different object icons, like card ""b"".",0.0,4,All different,1
+3,B,test,09.png,Gemini_2_0_flash,b,"It contains different object icons, like card ""b"".",0.0,1,All different,1
+3,B,test,10.png,Gemini_2_0_flash,b,"It contains different object icons, like card ""b"".",0.0,3,All different,1
+3,B,test,01.png,Gemini_2_0_flash,b,all the images are distinct objects.,0.0,2,All different,1
+3,B,test,02.png,Gemini_2_0_flash,a,all the images are identical,0.0,0,All same,1
+3,B,test,03.png,Gemini_2_0_flash,b,all the images are distinct objects,0.0,2,All different,1
+3,B,test,04.png,Gemini_2_0_flash,b,all the images are distinct objects,0.0,3,All different,1
+3,B,test,05.png,Gemini_2_0_flash,b,all the images are distinct objects,0.0,1,All different,1
+3,B,test,06.png,Gemini_2_0_flash,a,all the images are identical,0.0,0,All same,1
+3,B,test,07.png,Gemini_2_0_flash,b,all the images are distinct objects,0.0,4,All different,1
+3,B,test,08.png,Gemini_2_0_flash,b,all the images are distinct objects,0.0,4,All different,1
+3,B,test,09.png,Gemini_2_0_flash,b,all the images are distinct objects,0.0,1,All different,1
+3,B,test,10.png,Gemini_2_0_flash,b,all the images are distinct objects,0.0,3,All different,1
+3,B,test,01.png,Gemini_2_0_flash,b,"The card in the prompt contains various individual icons, similar to card ""b"".",0.0,2,All different,1
+3,B,test,02.png,Gemini_2_0_flash,a,"The card in the prompt contains repeated identical icons, similar to card ""a"".",0.0,0,All same,1
+3,B,test,03.png,Gemini_2_0_flash,b,"The card in the prompt contains various individual icons, similar to card ""b"".",0.0,2,All different,1
+3,B,test,04.png,Gemini_2_0_flash,b,"The card in the prompt contains various individual icons, similar to card ""b"".",0.0,3,All different,1
+3,B,test,05.png,Gemini_2_0_flash,b,"The card in the prompt contains various individual icons, similar to card ""b"".",0.0,1,All different,1
+3,B,test,06.png,Gemini_2_0_flash,a,"The card in the prompt contains repeated identical icons, similar to card ""a"".",0.0,0,All same,1
+3,B,test,07.png,Gemini_2_0_flash,b,"The card in the prompt contains various individual icons, similar to card ""b"".",0.0,4,All different,1
+3,B,test,08.png,Gemini_2_0_flash,b,"The card in the prompt contains various individual icons, similar to card ""b"".",0.0,4,All different,1
+3,B,test,09.png,Gemini_2_0_flash,b,"The card in the prompt contains various individual icons, similar to card ""b"".",0.0,1,All different,1
+3,B,test,10.png,Gemini_2_0_flash,b,"The card in the prompt contains various individual icons, similar to card ""b"".",0.0,3,All different,1
+3,B,test,01.png,Gemini_2_0_flash,b,"The card contains different icons similar to card ""b"".",0.0,2,All different,1
+3,B,test,02.png,Gemini_2_0_flash,a,"The card contains the same icon repeated like card ""a"".",0.0,0,All same,1
+3,B,test,03.png,Gemini_2_0_flash,b,"The card contains different icons, including some that are repeated, similar to card ""b"".",0.0,2,All different,1
+3,B,test,04.png,Gemini_2_0_flash,b,"The card contains different icons similar to card ""b"".",0.0,3,All different,1
+3,B,test,05.png,Gemini_2_0_flash,b,"The card contains different icons, including some that are repeated, similar to card ""b"".",0.0,1,All different,1
+3,B,test,06.png,Gemini_2_0_flash,a,"The card contains the same icon repeated like card ""a"".",0.0,0,All same,1
+3,B,test,07.png,Gemini_2_0_flash,b,"The card contains different icons similar to card ""b"".",0.0,4,All different,1
+3,B,test,08.png,Gemini_2_0_flash,b,"The card contains different icons similar to card ""b"".",0.0,4,All different,1
+3,B,test,09.png,Gemini_2_0_flash,b,"The card contains different icons, including some that are repeated, similar to card ""b"".",0.0,1,All different,1
+3,B,test,10.png,Gemini_2_0_flash,b,"The card contains different icons, including some that are repeated, similar to card ""b"".",0.0,3,All different,1
+3,B,test,01.png,Gemini_2_0_flash,b,"The card shows a variety of different icons, similar to card ""b"".",0.0,2,All different,1
+3,B,test,02.png,Gemini_2_0_flash,a,"The card shows repetitions of the same icon (play button), like the card ""a""",0.0,0,All same,1
+3,B,test,03.png,Gemini_2_0_flash,b,"The card has a variety of icons, similar to card ""b"".",0.0,2,All different,1
+3,B,test,04.png,Gemini_2_0_flash,b,"The card shows a variety of different icons, similar to card ""b"".",0.0,3,All different,1
+3,B,test,05.png,Gemini_2_0_flash,a,"The card shows repetitions of the same icon (newspaper), like the card ""a""",0.0,1,All same,1
+3,B,test,06.png,Gemini_2_0_flash,a,"The card shows repetitions of the same icon (lightbulb), like the card ""a"".",0.0,0,All same,1
+3,B,test,07.png,Gemini_2_0_flash,b,"The card shows a variety of different icons, similar to card ""b"".",0.0,4,All different,1
+3,B,test,08.png,Gemini_2_0_flash,b,"The card shows a variety of different icons, similar to card ""b"".",0.0,4,All different,1
+3,B,test,09.png,Gemini_2_0_flash,a,"The card shows repetitions of the same icon (cloud and rain), like the card ""a""",0.0,1,All same,1
+3,B,test,10.png,Gemini_2_0_flash,b,"The card shows a variety of different icons, similar to card ""b"".",0.0,3,All different,1
+3,B,test,01.png,Gemini_2_0_flash,b,The card contains different and diverse icons.,0.0,2,All different,1
+3,B,test,02.png,Gemini_2_0_flash,a,The card contains only one type of icon repeated.,0.0,0,All same,1
+3,B,test,03.png,Gemini_2_0_flash,b,The card contains different and diverse icons.,0.0,2,All different,1
+3,B,test,04.png,Gemini_2_0_flash,b,The card contains different and diverse icons.,0.0,3,All different,1
+3,B,test,05.png,Gemini_2_0_flash,b,The card contains different and diverse icons.,0.0,1,All different,1
+3,B,test,06.png,Gemini_2_0_flash,a,The card contains only one type of icon repeated.,0.0,0,All same,1
+3,B,test,07.png,Gemini_2_0_flash,b,The card contains different and diverse icons.,0.0,4,All different,1
+3,B,test,08.png,Gemini_2_0_flash,b,The card contains different and diverse icons.,0.0,4,All different,1
+3,B,test,09.png,Gemini_2_0_flash,b,The card contains different and diverse icons.,0.0,1,All different,1
+3,B,test,10.png,Gemini_2_0_flash,b,The card contains different and diverse icons.,0.0,3,All different,1
+3,B,test,01.png,Gemini_2_0_flash,b,"The card contains multiple distinct symbols, similar to card b.",0.0,2,All different,1
+3,B,test,02.png,Gemini_2_0_flash,a,"The card contains one kind of symbols repeated, as in card a.",0.0,0,All same,1
+3,B,test,03.png,Gemini_2_0_flash,b,"The card has different symbols on it, like card b.",0.0,2,All different,1
+3,B,test,04.png,Gemini_2_0_flash,b,"The card contains distinct icons, like card b.",0.0,3,All different,1
+3,B,test,05.png,Gemini_2_0_flash,b,"It has multiple different symbols on the card, as in card b.",0.0,1,All different,1
+3,B,test,06.png,Gemini_2_0_flash,a,"This card contains one repeated symbol, as in card a.",0.0,0,All same,1
+3,B,test,07.png,Gemini_2_0_flash,b,"The card presents diverse icons, like card b.",0.0,4,All different,1
+3,B,test,08.png,Gemini_2_0_flash,b,"The card contains a variety of symbols, like card b.",0.0,4,All different,1
+3,B,test,09.png,Gemini_2_0_flash,b,"The card contains different symbols, as in card b.",0.0,1,All different,1
+3,B,test,10.png,Gemini_2_0_flash,b,"There are different symbols on the card, as in card b.",0.0,3,All different,1
+3,B,test,01.png,Gemini_2_0_flash,b,"The new card contains a variety of different objects, similar to card ""b"".",0.0,2,All different,1
+3,B,test,02.png,Gemini_2_0_flash,a,"The new card has a grid of identical objects, similar to card ""a"".",0.0,0,All same,1
+3,B,test,03.png,Gemini_2_0_flash,b,"The new card contains a variety of different objects, similar to card ""b"".",0.0,2,All different,1
+3,B,test,04.png,Gemini_2_0_flash,b,"The new card contains a variety of different objects, similar to card ""b"".",0.0,3,All different,1
+3,B,test,05.png,Gemini_2_0_flash,b,"The new card contains a variety of different objects, similar to card ""b"".",0.0,1,All different,1
+3,B,test,06.png,Gemini_2_0_flash,a,"The new card has a grid of identical objects, similar to card ""a"".",0.0,0,All same,1
+3,B,test,07.png,Gemini_2_0_flash,b,"The new card contains a variety of different objects, similar to card ""b"".",0.0,4,All different,1
+3,B,test,08.png,Gemini_2_0_flash,b,"The new card contains a variety of different objects, similar to card ""b"".",0.0,4,All different,1
+3,B,test,09.png,Gemini_2_0_flash,b,"Although there are many of the same images, some are different, and there are some repeating images. Therefore, I think this goes with b.",0.0,1,All different,1
+3,B,test,10.png,Gemini_2_0_flash,b,"The new card contains a variety of different objects, similar to card ""b"".",0.0,3,All different,1
+3,B,test,01.png,Gemini_2_0_flash,b,All the cards contain different objects.,0.0,2,All different,1
+3,B,test,02.png,Gemini_2_0_flash,a,All the cards contain the same objects.,0.0,0,All same,1
+3,B,test,03.png,Gemini_2_0_flash,b,All the cards contain different objects.,0.0,2,All different,1
+3,B,test,04.png,Gemini_2_0_flash,b,All the cards contain different objects.,0.0,3,All different,1
+3,B,test,05.png,Gemini_2_0_flash,b,All the cards contain different objects.,0.0,1,All different,1
+3,B,test,06.png,Gemini_2_0_flash,a,All the cards contain the same objects.,0.0,0,All same,1
+3,B,test,07.png,Gemini_2_0_flash,b,All the cards contain different objects.,0.0,4,All different,1
+3,B,test,08.png,Gemini_2_0_flash,b,All the cards contain different objects.,0.0,4,All different,1
+3,B,test,09.png,Gemini_2_0_flash,b,All the cards contain different objects.,0.0,1,All different,1
+3,B,test,10.png,Gemini_2_0_flash,b,All the cards contain different objects.,0.0,3,All different,1
+3,B,test,01.png,Gemini_2_0_flash,b,"The new card also contains a variety of icons, similar to card ""b"".",0.0,2,All different,1
+3,B,test,02.png,Gemini_2_0_flash,a,"The new card consists of repetitions of the same icon, similar to card ""a"".",0.0,0,All same,1
+3,B,test,03.png,Gemini_2_0_flash,b,"This card shows a mix of icons, just like card ""b"".",0.0,2,All different,1
+3,B,test,04.png,Gemini_2_0_flash,b,"The new card contains a variety of icons, just like card ""b"".",0.0,3,All different,1
+3,B,test,05.png,Gemini_2_0_flash,b,"The new card shows a mix of icons, just like card ""b"".",0.0,1,All different,1
+3,B,test,06.png,Gemini_2_0_flash,a,"The new card consists of repetitions of the same icon, similar to card ""a"".",0.0,0,All same,1
+3,B,test,07.png,Gemini_2_0_flash,b,"The new card also contains a variety of icons, similar to card ""b"".",0.0,4,All different,1
+3,B,test,08.png,Gemini_2_0_flash,b,"This card has a variety of icons like card ""b"".",0.0,4,All different,1
+3,B,test,09.png,Gemini_2_0_flash,b,"The new card has some repetition, but it also has different icons, like card ""b"".",0.0,1,All different,1
+3,B,test,10.png,Gemini_2_0_flash,b,"The new card shows a mix of icons, just like card ""b"".",0.0,3,All different,1
+3,B,test,01.png,Gemini_2_5_flash_lite,a,"This card contains multiple icons of bins, similar to the bins in card a.",0.0,2,All same,0
+3,B,test,02.png,Gemini_2_5_flash_lite,b,"Card b shows a train, a teddy bear, and a sound icon, none of which are play buttons.",0.0,0,All different,0
+3,B,test,03.png,Gemini_2_5_flash_lite,a,"This card shows a comb, which is present multiple times in card a.",0.0,2,All same,0
+3,B,test,04.png,Gemini_2_5_flash_lite,b,"This card contains multiple pause buttons, which are not present on card a.",0.0,3,All different,0
+3,B,test,05.png,Gemini_2_5_flash_lite,a,"This card displays multiple newspaper icons, matching the newspaper icons on card a.",0.0,1,All same,1
+3,B,test,06.png,Gemini_2_5_flash_lite,b,"Card b shows a variety of icons, none of which are lightbulbs.",0.0,0,All different,1
+3,B,test,07.png,Gemini_2_5_flash_lite,b,"This card shows a variety of icons, including a cloud, a printer, and a syringe, none of which are present on card a.",0.0,4,All different,0
+3,B,test,08.png,Gemini_2_5_flash_lite,b,"Card b displays a variety of icons including a moon and a fish, none of which are present on card a.",0.0,4,All different,1
+3,B,test,09.png,Gemini_2_5_flash_lite,b,"Card b contains a variety of icons, including a thumbs-up, dice, and a thermometer, none of which are present on card a.",0.0,1,All different,1
+3,B,test,10.png,Gemini_2_5_flash_lite,a,"This card features multiple movie reel icons, identical to those on card a.",0.0,3,All same,1
+3,B,test,01.png,Gemini_2_5_flash_lite,a,"The card contains multiple images of filing cabinets, which is similar to the filing cabinets in card a.",0.0,2,All same,0
+3,B,test,02.png,Gemini_2_5_flash_lite,a,"The card contains multiple images of right-pointing triangles, which is a pattern of repeating icons.",0.0,0,All same,1
+3,B,test,03.png,Gemini_2_5_flash_lite,a,"The card contains multiple images of combs, which is a pattern of repeating icons.",0.0,2,All same,0
+3,B,test,04.png,Gemini_2_5_flash_lite,a,"The card contains multiple ""pause"" icons, which is a pattern of repeating icons.",0.0,3,All same,1
+3,B,test,05.png,Gemini_2_5_flash_lite,a,"The card contains multiple images of newspapers, which is a pattern of repeating icons.",0.0,1,All same,1
+3,B,test,06.png,Gemini_2_5_flash_lite,a,"The card contains multiple images of lightbulbs, which is a pattern of repeating icons.",0.0,0,All same,1
+3,B,test,07.png,Gemini_2_5_flash_lite,b,The card contains multiple different icons and does not have a repeating pattern.,0.0,4,All different,1
+3,B,test,08.png,Gemini_2_5_flash_lite,b,The card contains multiple different icons and does not have a repeating pattern.,0.0,4,All different,1
+3,B,test,09.png,Gemini_2_5_flash_lite,a,"The card contains multiple images of rain clouds, which is a pattern of repeating icons.",0.0,1,All same,1
+3,B,test,10.png,Gemini_2_5_flash_lite,a,"The card contains multiple images of film reels, which is a pattern of repeating icons.",0.0,3,All same,0
+3,B,test,01.png,Gemini_2_5_flash_lite,a,The card contains multiple instances of the same container icon.,0.0,2,All same,1
+3,B,test,02.png,Gemini_2_5_flash_lite,a,The card contains multiple instances of the same play button icon.,0.0,0,All same,1
+3,B,test,03.png,Gemini_2_5_flash_lite,a,The card contains multiple instances of the same comb icon.,0.0,2,All same,1
+3,B,test,04.png,Gemini_2_5_flash_lite,a,The card contains multiple instances of the same pause button icon.,0.0,3,All same,1
+3,B,test,05.png,Gemini_2_5_flash_lite,a,The card contains multiple instances of the same newspaper icon.,0.0,1,All same,1
+3,B,test,06.png,Gemini_2_5_flash_lite,a,The card contains multiple instances of the same lightbulb icon.,0.0,0,All same,1
+3,B,test,07.png,Gemini_2_5_flash_lite,b,The card contains multiple instances of the same plug icon.,0.0,4,All different,1
+3,B,test,08.png,Gemini_2_5_flash_lite,b,The card contains multiple instances of the same microphone icon.,0.0,4,All different,1
+3,B,test,09.png,Gemini_2_5_flash_lite,a,The card contains multiple instances of the same rain cloud icon.,0.0,1,All same,1
+3,B,test,10.png,Gemini_2_5_flash_lite,a,The card contains multiple instances of the same film reel icon.,0.0,3,All same,1
+3,B,test,01.png,Gemini_2_5_flash_lite,a,The card shows multiple instances of the same icon: a container with a lid.,0.0,2,All same,1
+3,B,test,02.png,Gemini_2_5_flash_lite,a,The card shows multiple instances of the same icon: a play button.,0.0,0,All same,1
+3,B,test,03.png,Gemini_2_5_flash_lite,a,The card shows multiple instances of the same icon: a comb.,0.0,2,All same,1
+3,B,test,04.png,Gemini_2_5_flash_lite,a,The card shows multiple instances of the same icon: a pause button.,0.0,3,All same,1
+3,B,test,05.png,Gemini_2_5_flash_lite,a,The card shows multiple instances of the same icon: a newspaper.,0.0,1,All same,1
+3,B,test,06.png,Gemini_2_5_flash_lite,a,The card shows multiple instances of the same icon: a lightbulb.,0.0,0,All same,1
+3,B,test,07.png,Gemini_2_5_flash_lite,b,The card shows multiple instances of the same icon: a printer.,0.0,4,All different,1
+3,B,test,08.png,Gemini_2_5_flash_lite,b,The card shows multiple instances of the same icon: a jacket.,0.0,4,All different,1
+3,B,test,09.png,Gemini_2_5_flash_lite,a,The card shows multiple instances of the same icon: a cloud with rain.,0.0,1,All same,1
+3,B,test,10.png,Gemini_2_5_flash_lite,a,The card shows multiple instances of the same icon: a film strip.,0.0,3,All same,1
+3,B,test,01.png,Gemini_2_5_flash_lite,a,The card contains multiple identical boxes or containers.,0.0,2,All same,1
+3,B,test,02.png,Gemini_2_5_flash_lite,a,The card contains multiple identical play buttons.,0.0,0,All same,1
+3,B,test,03.png,Gemini_2_5_flash_lite,a,The card contains multiple identical combs.,0.0,2,All same,1
+3,B,test,04.png,Gemini_2_5_flash_lite,a,The card contains multiple identical pause buttons.,0.0,3,All same,1
+3,B,test,05.png,Gemini_2_5_flash_lite,a,The card contains multiple identical newspaper icons.,0.0,1,All same,1
+3,B,test,06.png,Gemini_2_5_flash_lite,a,The card contains multiple identical light bulbs.,0.0,0,All same,1
+3,B,test,07.png,Gemini_2_5_flash_lite,b,"The card contains multiple different icons, none of which are clouds.",0.0,4,All different,1
+3,B,test,08.png,Gemini_2_5_flash_lite,b,"The card contains multiple different icons, none of which are jackets.",0.0,4,All different,1
+3,B,test,09.png,Gemini_2_5_flash_lite,a,The card contains multiple identical rainy cloud icons.,0.0,1,All same,1
+3,B,test,10.png,Gemini_2_5_flash_lite,a,The card contains multiple identical film strip icons.,0.0,3,All same,1
+3,B,test,01.png,Gemini_2_5_flash_lite,a,It has the same box icon.,0.0,2,All same,0
+3,B,test,02.png,Gemini_2_5_flash_lite,a,It has the same play button icons.,0.0,0,All same,0
+3,B,test,03.png,Gemini_2_5_flash_lite,a,It has the same comb icon.,0.0,2,All same,1
+3,B,test,04.png,Gemini_2_5_flash_lite,a,It has the same pause button icons.,0.0,3,All same,1
+3,B,test,05.png,Gemini_2_5_flash_lite,a,It has the same newspaper icon.,0.0,1,All same,0
+3,B,test,06.png,Gemini_2_5_flash_lite,a,It has the same lightbulb icon.,0.0,0,All same,0
+3,B,test,07.png,Gemini_2_5_flash_lite,a,It has the same cloud icon.,0.0,4,All same,0
+3,B,test,08.png,Gemini_2_5_flash_lite,a,It has the same jacket icon.,0.0,4,All same,0
+3,B,test,09.png,Gemini_2_5_flash_lite,a,It has the same rain cloud icon.,0.0,1,All same,0
+3,B,test,10.png,Gemini_2_5_flash_lite,a,It has the same film strip icon.,0.0,3,All same,0
+3,B,test,01.png,Gemini_2_5_flash_lite,a,"The card contains multiple instances of the same icon, similar to reference card ""a"".",0.0,2,All same,1
+3,B,test,02.png,Gemini_2_5_flash_lite,a,"The card contains multiple instances of the same icon, similar to reference card ""a"".",0.0,0,All same,1
+3,B,test,03.png,Gemini_2_5_flash_lite,a,"The card contains multiple instances of the same icon, similar to reference card ""a"".",0.0,2,All same,1
+3,B,test,04.png,Gemini_2_5_flash_lite,a,"The card contains multiple instances of the same icon, similar to reference card ""a"".",0.0,3,All same,1
+3,B,test,05.png,Gemini_2_5_flash_lite,a,"The card contains multiple instances of the same icon, similar to reference card ""a"".",0.0,1,All same,1
+3,B,test,06.png,Gemini_2_5_flash_lite,a,"The card contains multiple instances of the same icon, similar to reference card ""a"".",0.0,0,All same,1
+3,B,test,07.png,Gemini_2_5_flash_lite,b,"The card contains various distinct icons, unlike reference card ""a"" which only shows one type of icon.",0.0,4,All different,1
+3,B,test,08.png,Gemini_2_5_flash_lite,b,"The card contains various distinct icons, unlike reference card ""a"" which only shows one type of icon.",0.0,4,All different,1
+3,B,test,09.png,Gemini_2_5_flash_lite,a,"The card contains multiple instances of the same icon, similar to reference card ""a"".",0.0,1,All same,1
+3,B,test,10.png,Gemini_2_5_flash_lite,a,"The card contains multiple instances of the same icon, similar to reference card ""a"".",0.0,3,All same,1
+3,B,test,01.png,Gemini_2_5_flash_lite,a,"This card displays multiple icons that are similar to the icons on card 'a', which represents weather conditions, but not the same icons.",0.0,2,All same,0
+3,B,test,02.png,Gemini_2_5_flash_lite,a,"The card shows 12 play buttons, which are similar to the icons on card ""a"".",0.0,0,All same,0
+3,B,test,03.png,Gemini_2_5_flash_lite,b,"The card contains multiple icons of a comb, which are not present on card b.",0.0,2,All different,0
+3,B,test,04.png,Gemini_2_5_flash_lite,a,"The card contains multiple pause buttons, which are similar to the icons on card ""a"".",0.0,3,All same,1
+3,B,test,05.png,Gemini_2_5_flash_lite,a,"The card shows multiple newspaper icons, which are similar to the icons on card ""a"".",0.0,1,All same,0
+3,B,test,06.png,Gemini_2_5_flash_lite,a,"The card displays 16 light bulb icons, identical to the icons on card ""a"".",0.0,0,All same,1
+3,B,test,07.png,Gemini_2_5_flash_lite,b,"The card contains a variety of icons that are not similar to the icons on card ""b"".",0.0,4,All different,1
+3,B,test,08.png,Gemini_2_5_flash_lite,b,"The card contains a variety of icons, none of which are similar to the icons on card ""b"".",0.0,4,All different,1
+3,B,test,09.png,Gemini_2_5_flash_lite,a,"The card shows multiple rain cloud icons, which are similar to the icons on card ""a"".",0.0,1,All same,0
+3,B,test,10.png,Gemini_2_5_flash_lite,a,"The card displays multiple film reel icons, which are similar to the icons on card ""a"".",0.0,3,All same,0
+3,B,test,01.png,Gemini_2_5_flash_lite,a,This card has multiple instances of the same bin icon.,0.0,2,All same,1
+3,B,test,02.png,Gemini_2_5_flash_lite,a,This card has multiple instances of the same play button icon.,0.0,0,All same,1
+3,B,test,03.png,Gemini_2_5_flash_lite,a,This card has multiple instances of the same comb icon.,0.0,2,All same,1
+3,B,test,04.png,Gemini_2_5_flash_lite,a,This card has multiple instances of the same pause button icon.,0.0,3,All same,1
+3,B,test,05.png,Gemini_2_5_flash_lite,a,This card has multiple instances of the same newspaper icon.,0.0,1,All same,1
+3,B,test,06.png,Gemini_2_5_flash_lite,a,This card has multiple instances of the same lightbulb icon.,0.0,0,All same,1
+3,B,test,07.png,Gemini_2_5_flash_lite,b,"This card has a briefcase, a hard hat, a puzzle piece, and a paw print.",0.0,4,All different,0
+3,B,test,08.png,Gemini_2_5_flash_lite,b,"This card has a file, a nose, a minus symbol, and an arrow inside a circle.",0.0,4,All different,0
+3,B,test,09.png,Gemini_2_5_flash_lite,a,This card has multiple instances of the same rainy cloud icon.,0.0,1,All same,1
+3,B,test,10.png,Gemini_2_5_flash_lite,a,This card has multiple instances of the same film strip icon.,0.0,3,All same,1
+3,B,test,01.png,Gemini_2_5_flash_lite,b,"This card contains a variety of different icons, unlike card ""a"" which only contains one repeated icon.",0.0,2,All different,1
+3,B,test,02.png,Gemini_2_5_flash_lite,a,"This card contains only one type of repeated icon, similar to card ""a"".",0.0,0,All same,1
+3,B,test,03.png,Gemini_2_5_flash_lite,a,"This card contains mostly combs, similar to card ""a"".",0.0,2,All same,0
+3,B,test,04.png,Gemini_2_5_flash_lite,a,"This card contains multiple instances of the pause icon, similar to card ""a"".",0.0,3,All same,1
+3,B,test,05.png,Gemini_2_5_flash_lite,a,"This card contains mostly newspapers, similar to card ""a"".",0.0,1,All same,0
+3,B,test,06.png,Gemini_2_5_flash_lite,a,"This card contains only lightbulbs, similar to card ""a"".",0.0,0,All same,1
+3,B,test,07.png,Gemini_2_5_flash_lite,b,"This card contains a variety of different icons, unlike card ""a"" which only contains one repeated icon.",0.0,4,All different,1
+3,B,test,08.png,Gemini_2_5_flash_lite,b,"This card contains a variety of different icons, unlike card ""a"" which only contains one repeated icon.",0.0,4,All different,1
+3,B,test,09.png,Gemini_2_5_flash_lite,a,"This card contains multiple instances of the rain cloud icon, similar to card ""a"".",0.0,1,All same,1
+3,B,test,10.png,Gemini_2_5_flash_lite,a,"This card contains multiple instances of the film strip icon, similar to card ""a"".",0.0,3,All same,1
+3,B,test,01.png,GPT_4o,b,"explanation: The card contains various individual icons, similar to card ""b"".",0.0,2,All different,1
+3,B,test,02.png,GPT_4o,a,"explanation: The card has repeating identical icons, similar to card ""a"".",0.0,0,All same,1
+3,B,test,03.png,GPT_4o,b,"explanation: The card contains various individual icons, similar to card ""b"".",0.0,2,All different,1
+3,B,test,04.png,GPT_4o,b,"explanation: The card contains various individual icons, similar to card ""b"".",0.0,3,All different,1
+3,B,test,05.png,GPT_4o,b,"explanation: The card contains various individual icons, similar to card ""b"".",0.0,1,All different,1
+3,B,test,06.png,GPT_4o,a,"explanation: The card has repeating identical icons, similar to card ""a"".",0.0,0,All same,1
+3,B,test,07.png,GPT_4o,b,"explanation: The card contains various individual icons, similar to card ""b"".",0.0,4,All different,1
+3,B,test,08.png,GPT_4o,b,"explanation: The card contains various individual icons, similar to card ""b"".",0.0,4,All different,1
+3,B,test,09.png,GPT_4o,b,"explanation: The card contains various individual icons, similar to card ""b"".",0.0,1,All different,1
+3,B,test,10.png,GPT_4o,b,"explanation: The card contains various individual icons, similar to card ""b"".",0.0,3,All different,1
+3,B,test,01.png,GPT_4o,b,"The card has different icons in each spot, similar to card ""b"".",0.0,2,All different,1
+3,B,test,02.png,GPT_4o,a,"The card has the same icon repeated in each spot, similar to card ""a"".",0.0,0,All same,1
+3,B,test,03.png,GPT_4o,b,"The card has different icons in each spot, similar to card ""b"".",0.0,2,All different,1
+3,B,test,04.png,GPT_4o,b,"The card has different icons in each spot, similar to card ""b"".",0.0,3,All different,1
+3,B,test,05.png,GPT_4o,b,"The card has different icons in each spot, similar to card ""b"".",0.0,1,All different,1
+3,B,test,06.png,GPT_4o,a,"The card has the same icon repeated in each spot, similar to card ""a"".",0.0,0,All same,1
+3,B,test,07.png,GPT_4o,b,"The card has different icons in each spot, similar to card ""b"".",0.0,4,All different,1
+3,B,test,08.png,GPT_4o,b,"The card has different icons in each spot, similar to card ""b"".",0.0,4,All different,1
+3,B,test,09.png,GPT_4o,b,"The card has different icons in each spot, similar to card ""b"".",0.0,1,All different,1
+3,B,test,10.png,GPT_4o,b,"The card has different icons in each spot, similar to card ""b"".",0.0,3,All different,1
+3,B,test,01.png,GPT_4o,b,Both cards have different miscellaneous icons arranged in a grid.,0.0,2,All different,1
+3,B,test,02.png,GPT_4o,a,Both cards have the same icon repeated in a pattern.,0.0,0,All same,1
+3,B,test,03.png,GPT_4o,b,Both cards have different miscellaneous icons arranged in a grid.,0.0,2,All different,1
+3,B,test,04.png,GPT_4o,b,Both cards have different miscellaneous icons arranged in a grid.,0.0,3,All different,1
+3,B,test,05.png,GPT_4o,b,Both cards have different miscellaneous icons arranged in a grid.,0.0,1,All different,1
+3,B,test,06.png,GPT_4o,a,Both cards have the same icon repeated in a pattern.,0.0,0,All same,1
+3,B,test,07.png,GPT_4o,b,Both cards have different miscellaneous icons arranged in a grid.,0.0,4,All different,1
+3,B,test,08.png,GPT_4o,b,Both cards have different miscellaneous icons arranged in a grid.,0.0,4,All different,1
+3,B,test,09.png,GPT_4o,a,Both cards have weather-related icons repeated in a pattern.,0.0,1,All same,0
+3,B,test,10.png,GPT_4o,b,Both cards have different miscellaneous icons arranged in a grid.,0.0,3,All different,1
+3,B,test,01.png,GPT_4o,b,Both have a variety of unrelated icons.,0.0,2,All different,1
+3,B,test,02.png,GPT_4o,a,Repeated pattern of the same icon.,0.0,0,All same,1
+3,B,test,03.png,GPT_4o,b,Both have a variety of unrelated icons.,0.0,2,All different,1
+3,B,test,04.png,GPT_4o,b,Both have a variety of unrelated icons.,0.0,3,All different,1
+3,B,test,05.png,GPT_4o,b,Both have a variety of unrelated icons.,0.0,1,All different,1
+3,B,test,06.png,GPT_4o,a,Repeated pattern of the same icon.,0.0,0,All same,1
+3,B,test,07.png,GPT_4o,b,Both have a variety of unrelated icons.,0.0,4,All different,1
+3,B,test,08.png,GPT_4o,b,Both have a variety of unrelated icons.,0.0,4,All different,1
+3,B,test,09.png,GPT_4o,b,Both have a variety of unrelated icons.,0.0,1,All different,0
+3,B,test,10.png,GPT_4o,b,Both have a variety of unrelated icons.,0.0,3,All different,1
+3,B,test,01.png,GPT_4o,b,"explanation: The card contains a variety of different icons, similar to card ""b"".",0.0,2,All different,1
+3,B,test,02.png,GPT_4o,a,"explanation: The card contains a repeating pattern of the same icon, similar to card ""a"".",0.0,0,All same,1
+3,B,test,03.png,GPT_4o,b,"explanation: The card contains a mixture of different icons, similar to card ""b"".",0.0,2,All different,1
+3,B,test,04.png,GPT_4o,b,"explanation: The card contains a variety of different icons, similar to card ""b"".",0.0,3,All different,1
+3,B,test,05.png,GPT_4o,b,"explanation: The card contains a mix of different icons, similar to card ""b"".",0.0,1,All different,1
+3,B,test,06.png,GPT_4o,a,"explanation: The card contains a repeating pattern of the same icon, similar to card ""a"".",0.0,0,All same,1
+3,B,test,07.png,GPT_4o,b,"explanation: The card contains a variety of different icons, similar to card ""b"".",0.0,4,All different,1
+3,B,test,08.png,GPT_4o,b,"explanation: The card contains a variety of different icons, similar to card ""b"".",0.0,4,All different,1
+3,B,test,09.png,GPT_4o,b,"explanation: The card contains a mix of different icons, similar to card ""b"".",0.0,1,All different,1
+3,B,test,10.png,GPT_4o,b,"explanation: The card contains a variety of different icons, similar to card ""b"".",0.0,3,All different,1
+3,B,test,01.png,GPT_4o,b,"This card has a variety of different icons, similar to card ""b"".",0.0,2,All different,1
+3,B,test,02.png,GPT_4o,a,"This card has a repeating pattern of the same icon, similar to card ""a"".",0.0,0,All same,1
+3,B,test,03.png,GPT_4o,b,"This card has a variety of different icons, similar to card ""b"".",0.0,2,All different,1
+3,B,test,04.png,GPT_4o,b,"This card has a variety of different icons, similar to card ""b"".",0.0,3,All different,1
+3,B,test,05.png,GPT_4o,b,"This card has a variety of different icons, similar to card ""b"".",0.0,1,All different,1
+3,B,test,06.png,GPT_4o,a,"This card has a repeating pattern of the same icon, similar to card ""a"".",0.0,0,All same,1
+3,B,test,07.png,GPT_4o,b,"This card has a variety of different icons, similar to card ""b"".",0.0,4,All different,1
+3,B,test,08.png,GPT_4o,b,"This card has a variety of different icons, similar to card ""b"".",0.0,4,All different,1
+3,B,test,09.png,GPT_4o,b,"This card has a variety of different icons, similar to card ""b"".",0.0,1,All different,1
+3,B,test,10.png,GPT_4o,b,"This card has a variety of different icons, similar to card ""b"".",0.0,3,All different,1
+3,B,test,01.png,GPT_4o,b,explanation,0.0,2,All different,0
+3,B,test,02.png,GPT_4o,a,explanation,0.0,0,All same,?
+3,B,test,03.png,GPT_4o,b,explanation,0.0,2,All different,0
+3,B,test,04.png,GPT_4o,b,explanation,0.0,3,All different,1
+3,B,test,05.png,GPT_4o,b,explanation,0.0,1,All different,0
+3,B,test,06.png,GPT_4o,a,explanation,0.0,0,All same,0
+3,B,test,07.png,GPT_4o,b,explanation,0.0,4,All different,0
+3,B,test,08.png,GPT_4o,b,explanation,0.0,4,All different,0
+3,B,test,09.png,GPT_4o,a,explanation,0.0,1,All same,0
+3,B,test,10.png,GPT_4o,b,explanation,0.0,3,All different,0
+3,B,test,01.png,GPT_4o,b,Explanation: The card contains a variety of different symbols.,0.0,2,All different,1
+3,B,test,02.png,GPT_4o,a,Explanation: The card has a repeating pattern of the same symbol.,0.0,0,All same,1
+3,B,test,03.png,GPT_4o,b,Explanation: The card contains a variety of different symbols.,0.0,2,All different,1
+3,B,test,04.png,GPT_4o,b,Explanation: The card contains a variety of different symbols.,0.0,3,All different,1
+3,B,test,05.png,GPT_4o,b,Explanation: The card contains a variety of different symbols.,0.0,1,All different,1
+3,B,test,06.png,GPT_4o,a,Explanation: The card has a repeating pattern of the same symbol.,0.0,0,All same,1
+3,B,test,07.png,GPT_4o,b,Explanation: The card contains a variety of different symbols.,0.0,4,All different,1
+3,B,test,08.png,GPT_4o,b,Explanation: The card contains a variety of different symbols.,0.0,4,All different,1
+3,B,test,09.png,GPT_4o,b,Explanation: The card contains a variety of different symbols.,0.0,1,All different,1
+3,B,test,10.png,GPT_4o,b,Explanation: The card contains a variety of different symbols.,0.0,3,All different,1
+3,B,test,01.png,GPT_4o,b,"This card has a variety of different icons, similar to card ""b"".",0.0,2,All different,1
+3,B,test,02.png,GPT_4o,a,"This card has a repeated pattern similar to card ""a"".",0.0,0,All same,1
+3,B,test,03.png,GPT_4o,b,"This card has a variety of different icons, similar to card ""b"".",0.0,2,All different,1
+3,B,test,04.png,GPT_4o,b,"This card has a variety of different icons, similar to card ""b"".",0.0,3,All different,1
+3,B,test,05.png,GPT_4o,b,"This card has a variety of different icons, similar to card ""b"".",0.0,1,All different,1
+3,B,test,06.png,GPT_4o,a,"This card has a repeated pattern similar to card ""a"".",0.0,0,All same,1
+3,B,test,07.png,GPT_4o,b,"This card has a variety of different icons, similar to card ""b"".",0.0,4,All different,1
+3,B,test,08.png,GPT_4o,b,"This card has a variety of different icons, similar to card ""b"".",0.0,4,All different,1
+3,B,test,09.png,GPT_4o,b,"This card has a variety of different icons, similar to card ""b"".",0.0,1,All different,1
+3,B,test,10.png,GPT_4o,b,"This card has a variety of different icons, similar to card ""b"".",0.0,3,All different,1
+3,B,test,01.png,GPT_4o,b,"explanation: The card has various distinct icons, like card ""b"".",0.0,2,All different,1
+3,B,test,02.png,GPT_4o,a,"explanation: The card has a repeating pattern of the same icon, like card ""a"".",0.0,0,All same,1
+3,B,test,03.png,GPT_4o,b,"explanation: The card has various distinct icons, like card ""b"".",0.0,2,All different,1
+3,B,test,04.png,GPT_4o,b,"explanation: The card has various distinct icons, like card ""b"".",0.0,3,All different,1
+3,B,test,05.png,GPT_4o,b,"explanation: The card has various distinct icons, like card ""b"".",0.0,1,All different,1
+3,B,test,06.png,GPT_4o,a,"explanation: The card has a repeating pattern of the same icon, like card ""a"".",0.0,0,All same,1
+3,B,test,07.png,GPT_4o,b,"explanation: The card has various distinct icons, like card ""b"".",0.0,4,All different,1
+3,B,test,08.png,GPT_4o,b,"explanation: The card has various distinct icons, like card ""b"".",0.0,4,All different,1
+3,B,test,09.png,GPT_4o,b,"explanation: The card has various distinct icons, like card ""b"".",0.0,1,All different,1
+3,B,test,10.png,GPT_4o,b,"explanation: The card has various distinct icons, like card ""b"".",0.0,3,All different,1
+3,B,test,01.png,GPT_o3,b,"contains many different icons, not a single repeated one like card “a”",4542.82208588957,2,All different,1
+3,B,test,02.png,GPT_o3,a,"all grid positions show the same repeated arrow icon, like card “a”",3829.656565656566,0,All same,1
+3,B,test,03.png,GPT_o3,b,contains a variety of different icons rather than one icon repeated throughout,4485.6,2,All different,1
+3,B,test,04.png,GPT_o3,b,"the grid shows several different icons, not the same icon in every spot",5278.814814814815,3,All different,1
+3,B,test,05.png,GPT_o3,b,"multiple different icons appear, not one uniform icon everywhere",9388.108108108108,1,All different,1
+3,B,test,06.png,GPT_o3,a,"only a single icon (light bulb) is repeated in every slot, like card “a”",2366.757281553398,0,All same,1
+3,B,test,07.png,GPT_o3,b,contains a variety of different icons rather than one icon repeated throughout,0.0,4,All different,1
+3,B,test,08.png,GPT_o3,b,"shows many different icons, not a single repeated one",0.0,4,All different,1
+3,B,test,09.png,GPT_o3,b,"although many clouds repeat, several different icons break the uniformity, unlike card “a”",6397.773913043478,1,All different,1
+3,B,test,10.png,GPT_o3,b,grid contains many different icons rather than one icon repeated throughout,7333.883408071749,3,All different,1
+3,B,test,01.png,GPT_o3,b,the grid contains a mix of different icons rather than one icon repeated throughout,3645.6296296296296,2,All different,1
+3,B,test,02.png,GPT_o3,a,the same single icon is repeated uniformly across the grid,0.0,0,All same,1
+3,B,test,03.png,GPT_o3,b,contains a variety of different icons rather than one repeating symbol,5365.221052631579,2,All different,1
+3,B,test,04.png,GPT_o3,b,shows many different icons instead of one repeated icon,3497.978494623656,3,All different,1
+3,B,test,05.png,GPT_o3,b,not all icons are identical; several different symbols break the uniform pattern,2732.2061855670104,1,All different,1
+3,B,test,06.png,GPT_o3,a,the light-bulb icon repeats uniformly across the entire grid,2880.0,0,All same,1
+3,B,test,07.png,GPT_o3,b,contains many different icons instead of one repeated symbol,0.0,4,All different,1
+3,B,test,08.png,GPT_o3,b,shows many different icons instead of one repeated symbol,0.0,4,All different,1
+3,B,test,09.png,GPT_o3,b,includes several different symbols mixed in with the rain-cloud icon,3945.3333333333335,1,All different,1
+3,B,test,10.png,GPT_o3,b,grid contains many different icons rather than one icon repeated uniformly,3301.7263157894736,3,All different,1
+3,B,test,01.png,GPT_o3,b,contains a variety of different icons rather than one repeated icon,3405.4736842105262,2,All different,1
+3,B,test,02.png,GPT_o3,a,single icon repeated uniformly like card a,2756.923076923077,0,All same,1
+3,B,test,03.png,GPT_o3,b,contains several different icons rather than one identical icon repeated,9885.164556962023,2,All different,1
+3,B,test,04.png,GPT_o3,b,features various different icons instead of one identical icon repeated,5004.936170212766,3,All different,1
+3,B,test,05.png,GPT_o3,b,"mostly newspapers but still contains several different icons, so the set is mixed like card b",2724.1188118811883,1,All different,1
+3,B,test,06.png,GPT_o3,a,single light-bulb icon repeated uniformly like card a,3819.7894736842095,0,All same,1
+3,B,test,07.png,GPT_o3,b,contains many different icons rather than one identical icon repeated,5517.772151898735,4,All different,1
+3,B,test,08.png,GPT_o3,b,"shows a mix of different icons, not one icon repeated",0.0,4,All different,1
+3,B,test,09.png,GPT_o3,b,"includes several different icons in addition to the repeated cloud, so the set is mixed",9635.955056179777,1,All different,1
+3,B,test,10.png,GPT_o3,b,"contains many different icons, not one repeated icon",3811.7849462365593,3,All different,1
+3,B,test,01.png,GPT_o3,b,"contains many different icons, not one repeated icon like card “a”",4480.65306122449,2,All different,1
+3,B,test,02.png,GPT_o3,a,"shows the same icon repeated in every position, like card “a”",3128.816326530612,0,All same,1
+3,B,test,03.png,GPT_o3,b,"grid contains multiple different icons, not the same icon repeated like in card “a”",2860.3564356435645,2,All different,1
+3,B,test,04.png,GPT_o3,b,contains a variety of different icons rather than one identical icon repeated.,3391.6024844720496,3,All different,1
+3,B,test,05.png,GPT_o3,b,not a single repeated icon; multiple different icons present,17159.287128712873,1,All different,1
+3,B,test,06.png,GPT_o3,a,"the same light-bulb icon is repeated in every position, like card “a”.",3220.705882352941,0,All same,1
+3,B,test,07.png,GPT_o3,b,"grid has many different icons, not one repeated icon like card “a”.",0.0,4,All different,1
+3,B,test,08.png,GPT_o3,b,displays a variety of different icons rather than one identical icon repeated.,2872.082474226804,4,All different,1
+3,B,test,09.png,GPT_o3,b,"contains several different icons mixed with the repeating cloud icon, not a single uniform icon like “a”.",8544.0,1,All different,1
+3,B,test,10.png,GPT_o3,b,"grid shows many different icons, not the same icon repeated like card “a”.",3070.08,3,All different,1
+3,B,test,01.png,GPT_o3,b,contains many different icons rather than one repeated icon,4281.885350318471,2,All different,1
+3,B,test,02.png,GPT_o3,a,it repeats the same icon in every position,0.0,0,All same,1
+3,B,test,03.png,GPT_o3,b,"grid shows various distinct icons, not one uniform symbol",3065.872340425532,2,All different,1
+3,B,test,04.png,GPT_o3,b,shows a variety of different icons rather than the same one repeated,2456.6666666666665,3,All different,1
+3,B,test,05.png,GPT_o3,b,not all icons are identical; multiple different symbols appear,6456.708860759493,1,All different,1
+3,B,test,06.png,GPT_o3,a,"every cell shows the same light-bulb icon, matching the uniform pattern of card “a”",2498.4615384615386,0,All same,1
+3,B,test,07.png,GPT_o3,b,shows many different icons instead of one repeated icon,6238.573248407643,4,All different,1
+3,B,test,08.png,GPT_o3,b,contains many different icons rather than one repeated icon,4008.6021505376334,4,All different,1
+3,B,test,09.png,GPT_o3,b,"grid contains several different icons, not one uniform symbol",5676.108108108108,1,All different,1
+3,B,test,10.png,GPT_o3,b,features many different icons rather than one icon repeated throughout,6099.443037974684,3,All different,1
+3,B,test,01.png,GPT_o3,b,it contains many different icons rather than the same icon repeated.,3507.333333333333,2,All different,1
+3,B,test,02.png,GPT_o3,a,"the grid shows the exact same arrow icon repeated in every position, like card “a”.",3055.0361445783133,0,All same,1
+3,B,test,03.png,GPT_o3,b,the grid mixes several different icons instead of repeating one icon everywhere.,11503.16955017301,2,All different,1
+3,B,test,04.png,GPT_o3,b,it contains a variety of different icons rather than one icon repeated throughout.,0.0,3,All different,1
+3,B,test,05.png,GPT_o3,b,"it mostly repeats one icon but includes several different icons, giving a mixed set like card “b”.",6912.827586206897,1,All different,1
+3,B,test,06.png,GPT_o3,a,"every slot contains the identical light-bulb icon, matching card “a” where one icon is repeated.",8732.377358490567,0,All same,1
+3,B,test,07.png,GPT_o3,b,it contains many different icons instead of one icon repeated.,4265.768421052631,4,All different,1
+3,B,test,08.png,GPT_o3,b,it displays a variety of different icons rather than the same one repeated.,5157.135802469136,4,All different,1
+3,B,test,09.png,GPT_o3,b,"mostly rain-clouds but several different icons appear, so it's a mixed set like card “b”.",5795.43347639485,1,All different,1
+3,B,test,10.png,GPT_o3,b,the grid shows many different icons instead of repeating a single icon.,5557.267080745341,3,All different,1
+3,B,test,01.png,GPT_o3,b,multiple different icons rather than one repeated icon,7836.717948717948,2,All different,1
+3,B,test,02.png,GPT_o3,a,"the same triangle icon is repeated in every position, like card “a”",3260.121212121212,0,All same,1
+3,B,test,03.png,GPT_o3,b,"contains a variety of different icons, not one repeated design",2634.778947368421,2,All different,1
+3,B,test,04.png,GPT_o3,b,various different icons appear instead of a single repeated one,3971.240506329114,3,All different,1
+3,B,test,05.png,GPT_o3,b,it contains several different icons rather than one uniform icon repeated,6552.252631578947,1,All different,1
+3,B,test,06.png,GPT_o3,a,"the same light-bulb icon is repeated in every position, matching card “a”",0.0,0,All same,1
+3,B,test,07.png,GPT_o3,b,contains many different icons rather than one repeated icon,0.0,4,All different,1
+3,B,test,08.png,GPT_o3,b,it shows a variety of different icons instead of the same icon repeated,3497.5670103092784,4,All different,1
+3,B,test,09.png,GPT_o3,b,"multiple differing icons appear alongside the cloud icon, so it’s not a single repeated image",3602.3762376237623,1,All different,1
+3,B,test,10.png,GPT_o3,b,contains a variety of different icons instead of one repeated icon,7679.108013937282,3,All different,1
+3,B,test,01.png,GPT_o3,b,contains many different icons rather than the same icon repeated.,3667.536842105263,2,All different,1
+3,B,test,02.png,GPT_o3,a,it repeats a single icon in every grid position.,3125.7872340425533,0,All same,1
+3,B,test,03.png,GPT_o3,b,"shows a mix of different icons in the grid, not one identical icon repeated.",2366.72,2,All different,1
+3,B,test,04.png,GPT_o3,b,contains many different icons rather than a single icon repeated throughout.,3067.333333333333,3,All different,1
+3,B,test,05.png,GPT_o3,b,"uses several different icons, not one uniform icon throughout.",8585.365853658537,1,All different,1
+3,B,test,06.png,GPT_o3,a,the same light-bulb icon is repeated in every grid slot.,0.0,0,All same,1
+3,B,test,07.png,GPT_o3,b,shows a variety of different icons rather than one icon repeated.,2750.0,4,All different,1
+3,B,test,08.png,GPT_o3,b,contains many different icons instead of one repeated icon.,0.0,4,All different,1
+3,B,test,09.png,GPT_o3,b,"though clouds repeat, several different icons appear, so the grid is not uniform.",5717.8536585365855,1,All different,1
+3,B,test,10.png,GPT_o3,b,the grid uses multiple different icons instead of one identical icon everywhere.,5370.434782608696,3,All different,1
+3,B,test,01.png,GPT_o3,b,it contains a variety of different icons rather than the same icon repeated.,2819.918367346939,2,All different,1
+3,B,test,02.png,GPT_o3,a,"the same single icon is repeated in every position, just like card a.",3648.6464646464647,0,All same,1
+3,B,test,03.png,GPT_o3,b,multiple distinct icons appear instead of one icon repeated.,4164.860759493671,2,All different,1
+3,B,test,04.png,GPT_o3,b,contains many different icons rather than one icon repeated.,7003.675675675676,3,All different,1
+3,B,test,05.png,GPT_o3,b,"mix of different icons, not one icon repeated uniformly.",5470.993710691824,1,All different,1
+3,B,test,06.png,GPT_o3,a,"the same lightbulb icon is repeated in every position, matching card a’s pattern.",2490.3529411764707,0,All same,1
+3,B,test,07.png,GPT_o3,b,contains many different icons instead of one repeated icon.,0.0,4,All different,1
+3,B,test,08.png,GPT_o3,b,features many different icons rather than a single icon repeated.,8266.06289308176,4,All different,1
+3,B,test,09.png,GPT_o3,b,"several different icons interrupt the repeating cloud, so it’s not a single icon throughout.",11013.77672209026,1,All different,1
+3,B,test,10.png,GPT_o3,b,multiple distinct icons appear rather than one icon repeated everywhere.,14428.968421052632,3,All different,1
+3,B,test,01.png,GPT_o3,b,the grid contains many different icons rather than repeating the same one.,3122.8041237113403,2,All different,1
+3,B,test,02.png,GPT_o3,a,"all grid slots show the same arrow icon, repeating just like card “a”.",2882.56,0,All same,1
+3,B,test,03.png,GPT_o3,b,"the grid contains several different icons, not all identical.",4391.446540880504,2,All different,1
+3,B,test,04.png,GPT_o3,b,contains a variety of different icons instead of one repeated icon.,8836.8,3,All different,1
+3,B,test,05.png,GPT_o3,b,"multiple different icons appear, not a single repeated one.",6408.084210526316,1,All different,1
+3,B,test,06.png,GPT_o3,a,"the same light-bulb icon is repeated in every position, just like card “a”.",0.0,0,All same,1
+3,B,test,07.png,GPT_o3,b,multiple different icons are shown instead of one repeated icon.,4042.105263157895,4,All different,1
+3,B,test,08.png,GPT_o3,b,the grid contains many different icons rather than a single repeated one.,0.0,4,All different,1
+3,B,test,09.png,GPT_o3,b,"includes several differing icons among the rain-clouds, not a single repeated icon.",3275.40594059406,1,All different,1
+3,B,test,10.png,GPT_o3,b,"the grid has a variety of different icons, not one repeated design.",4146.285714285715,3,All different,1
+3,B,test,01.png,GPT_o4_mini_high,b,"the card shows a mix of different icons rather than one repeated symbol, matching sample b's varied-icon pattern.",4193.498622589532,2,All different,1
+3,B,test,02.png,GPT_o4_mini_high,a,"all the tiles show the same play-button icon, matching the uniform pattern of card a.",3174.620689655173,0,All same,1
+3,B,test,03.png,GPT_o4_mini_high,b,"the card shows many different icons (not one repeated symbol), matching the varied-icon pattern of card b.",9473.172966781214,2,All different,1
+3,B,test,04.png,GPT_o4_mini_high,b,"it shows a mix of different icons rather than a single repeated symbol, matching card b’s pattern.",5610.535787321063,3,All different,1
+3,B,test,05.png,GPT_o4_mini_high,b,"the grid has a mix of different icons (not the same symbol repeated), fitting sample b’s varied-icon pattern.",11753.667844522968,1,All different,1
+3,B,test,06.png,GPT_o4_mini_high,a,"all the tiles show the identical lightbulb icon, matching card a’s uniform pattern.",1249.5533980582525,0,All same,1
+3,B,test,07.png,GPT_o4_mini_high,b,"it displays a variety of different icons rather than one symbol repeated, matching card b’s pattern.",3067.862068965517,4,All different,1
+3,B,test,08.png,GPT_o4_mini_high,b,"it shows a variety of different icons rather than the same symbol repeated, matching card b’s pattern.",1409.8285714285714,4,All different,1
+3,B,test,09.png,GPT_o4_mini_high,b,"the grid contains different icons mixed in with the rain-clouds rather than one symbol repeated, matching card b.",4693.61872909699,1,All different,1
+3,B,test,10.png,GPT_o4_mini_high,b,"it mixes many different icons instead of repeating one symbol, matching card b’s varied-icon pattern.",5736.965235173824,3,All different,1
+3,B,test,01.png,GPT_o4_mini_high,b,it features a mix of different icons like card b rather than repeating the same symbol.,2049.5421686746986,2,All different,1
+3,B,test,02.png,GPT_o4_mini_high,a,"it shows the same play‐arrow icon repeated throughout, like card a.",2845.4736842105262,0,All same,1
+3,B,test,03.png,GPT_o4_mini_high,b,it contains a mix of different icons rather than the same symbol repeated.,18464.032753326508,2,All different,1
+3,B,test,04.png,GPT_o4_mini_high,b,it shows a variety of different icons rather than the same symbol repeated.,2362.619469026549,3,All different,1
+3,B,test,05.png,GPT_o4_mini_high,b,"it has a mix of different icons interrupting the repeating newspaper symbol, like card b.",4958.41134751773,1,All different,1
+3,B,test,06.png,GPT_o4_mini_high,a,"it shows the same light-bulb icon repeated throughout, matching card a.",5774.014598540146,0,All same,1
+3,B,test,07.png,GPT_o4_mini_high,b,"it features a variety of different icons mixed together, matching the style of card b.",3286.061433447099,4,All different,1
+3,B,test,08.png,GPT_o4_mini_high,b,it displays a variety of different icons instead of repeating the same symbol.,3361.544827586207,4,All different,1
+3,B,test,09.png,GPT_o4_mini_high,b,it mixes rain-clouds with other icons instead of showing one symbol repeated.,4725.028571428571,1,All different,1
+3,B,test,10.png,GPT_o4_mini_high,b,it features a variety of different icons instead of the same symbol repeated.,2702.222222222222,3,All different,1
+3,B,test,01.png,GPT_o4_mini_high,b,"it shows a mix of different icons rather than the single repeating symbol of card a, matching the diverse set pattern of card b.",7116.765957446809,2,All different,1
+3,B,test,02.png,GPT_o4_mini_high,a,"it’s a uniform grid of the same play‐button icon, matching the repeating-icon pattern of card a.",3798.453038674033,0,All same,1
+3,B,test,03.png,GPT_o4_mini_high,b,"the grid contains multiple different icons mixed in rather than one icon repeated, matching card b’s varied pattern.",3475.3939393939395,2,All different,1
+3,B,test,04.png,GPT_o4_mini_high,b,"it’s a mix of different icons (with only one repeated) rather than a single symbol filling every slot, matching card b’s varied pattern.",6853.693950177936,3,All different,1
+3,B,test,05.png,GPT_o4_mini_high,b,"it mixes the newspaper icon with other symbols instead of repeating one design, matching card b’s varied pattern.",5322.971428571429,1,All different,1
+3,B,test,06.png,GPT_o4_mini_high,a,"it’s a uniform grid of the same lightbulb icon, matching card a’s repeating-icon pattern.",3211.7106382978723,0,All same,1
+3,B,test,07.png,GPT_o4_mini_high,b,"it shows a variety of different icons rather than one repeated, matching the mixed-icon pattern of card b.",1490.7169811320755,4,All different,1
+3,B,test,08.png,GPT_o4_mini_high,b,"it displays a variety of different icons rather than the same symbol repeated, matching card b’s mixed-icon pattern.",1982.803738317757,4,All different,1
+3,B,test,09.png,GPT_o4_mini_high,b,"it mixes a few non-cloud icons (thumbs-up, lock, dice, oil can) among the rain-clouds, so it’s not the uniform repeat of card a but fits card b’s varied style.",38584.72876151484,1,All different,1
+3,B,test,10.png,GPT_o4_mini_high,b,"it displays a variety of different icons (not one symbol repeated), matching the mixed‐icon pattern of card b.",4584.615384615385,3,All different,1
+3,B,test,01.png,GPT_o4_mini_high,b,"the card shows many different icons rather than the same one repeated, matching card b’s variety pattern.",5592.84705882353,2,All different,1
+3,B,test,02.png,GPT_o4_mini_high,a,"it’s a uniform grid of the same play icon, matching the repeated pattern of card a.",3650.139275766017,0,All same,1
+3,B,test,03.png,GPT_o4_mini_high,b,"it shows a mix of different icons (combs plus others) rather than the same icon repeated, matching card b.",13136.850118953213,2,All different,1
+3,B,test,04.png,GPT_o4_mini_high,b,it shows a variety of different icons rather than one icon repeated like card a.,2796.995633187773,3,All different,1
+3,B,test,05.png,GPT_o4_mini_high,b,"it mixes the newspaper icon with other symbols instead of repeating one icon, matching card b’s variety.",8905.032258064517,1,All different,1
+3,B,test,06.png,GPT_o4_mini_high,a,"it’s a uniform grid of the same lightbulb icon, matching card a’s repeated pattern.",1583.5428571428572,0,All same,1
+3,B,test,07.png,GPT_o4_mini_high,b,"it features a mix of different icons rather than one repeated, matching card b’s pattern.",3842.6033898305086,4,All different,1
+3,B,test,08.png,GPT_o4_mini_high,b,"it’s a grid of different icons rather than one repeated, matching card b.",5193.652892561983,4,All different,1
+3,B,test,09.png,GPT_o4_mini_high,b,"it mixes in different icons (thumbs-up, dice, lock, thermometer) instead of one repeated symbol, matching card b.",7381.846153846154,1,All different,1
+3,B,test,10.png,GPT_o4_mini_high,b,"it has a mix of many different icons instead of the same one repeated, matching card b.",11393.247706422018,3,All different,1
+3,B,test,01.png,GPT_o4_mini_high,b,"it shows many different icons rather than one repeated design, so it matches the varied set in “b.”",6475.457504520796,2,All different,1
+3,B,test,02.png,GPT_o4_mini_high,a,"it’s the same play‐triangle icon repeated across the whole card, matching the uniform pattern in “a.”",4958.171428571429,0,All same,1
+3,B,test,03.png,GPT_o4_mini_high,b,"it’s a mixed set of different icons, matching the varied pattern in “b.”",6627.089253187613,2,All different,1
+3,B,test,04.png,GPT_o4_mini_high,b,it’s made up of a mix of different icons instead of one icon repeated uniformly.,10694.57492931197,3,All different,1
+3,B,test,05.png,GPT_o4_mini_high,b,it’s a mixed set of different icons rather than one uniform design.,7328.419672131147,1,All different,1
+3,B,test,06.png,GPT_o4_mini_high,a,it’s the same light-bulb icon repeated uniformly across all cells.,2766.6607929515417,0,All same,1
+3,B,test,07.png,GPT_o4_mini_high,b,"it’s a mixed set of different icons, matching the varied pattern in “b.”",3009.117903930131,4,All different,1
+3,B,test,08.png,GPT_o4_mini_high,b,"it’s a mix of different icons (not one repeated), matching the varied set in “b.”",3120.0,4,All different,1
+3,B,test,09.png,GPT_o4_mini_high,b,it has multiple different icons instead of one repeated design.,4431.680911680912,1,All different,1
+3,B,test,10.png,GPT_o4_mini_high,b,"it shows many different icons instead of one repeated design, matching “b.”",4641.352112676056,3,All different,1
+3,B,test,01.png,GPT_o4_mini_high,a,it has repeated box icons just like card a’s repeated suns.,9730.382293762576,2,All same,1
+3,B,test,02.png,GPT_o4_mini_high,a,"it’s the same play-arrow icon repeated in every slot, matching card a’s uniform pattern.",4252.540540540541,0,All same,1
+3,B,test,03.png,GPT_o4_mini_high,b,"it’s a mix of different icons (combs plus others), matching card b’s varied pattern.",6534.390602055801,2,All different,1
+3,B,test,04.png,GPT_o4_mini_high,b,it’s a mix of different icons rather than the same symbol throughout.,13957.260273972604,3,All different,1
+3,B,test,05.png,GPT_o4_mini_high,b,it’s not all the same icon; there are several different symbols mixed in.,6129.454545454545,1,All different,1
+3,B,test,06.png,GPT_o4_mini_high,a,"it’s the same lightbulb icon repeated throughout, matching card a’s uniform pattern.",2208.9580838323354,0,All same,1
+3,B,test,07.png,GPT_o4_mini_high,b,it’s a mix of different icons rather than one repeated symbol.,2288.0993788819874,4,All different,1
+3,B,test,08.png,GPT_o4_mini_high,b,it’s a mix of different icons rather than the same symbol throughout.,3152.70796460177,4,All different,1
+3,B,test,09.png,GPT_o4_mini_high,b,it contains a mix of different icons rather than one symbol repeated.,5680.64,1,All different,1
+3,B,test,10.png,GPT_o4_mini_high,b,"it shows a variety of different icons, matching card b’s mixed pattern.",3714.630136986301,3,All different,1
+3,B,test,01.png,GPT_o4_mini_high,a,"this card, like “a,” has the same box icon repeated multiple times, unlike “b” which uses all unique symbols.",2771.8991596638657,2,All same,1
+3,B,test,02.png,GPT_o4_mini_high,a,"all the symbols are the same, matching the uniform repetition seen in card “a.”",1926.9818181818184,0,All same,1
+3,B,test,03.png,GPT_o4_mini_high,a,"the comb icon repeats throughout the grid, matching the uniform repetition pattern of card “a.”",4111.673469387755,2,All same,1
+3,B,test,04.png,GPT_o4_mini_high,a,"the pause icon repeats multiple times, matching the duplicate-heavy pattern of card “a.”",10032.59553349876,3,All same,1
+3,B,test,05.png,GPT_o4_mini_high,a,"the document icon repeats throughout the grid, matching the duplicate-heavy pattern of card “a.”",7878.880706921944,1,All same,1
+3,B,test,06.png,GPT_o4_mini_high,a,"every icon is the same light bulb, matching the uniform repetition pattern of card “a.”",4203.965217391305,0,All same,1
+3,B,test,07.png,GPT_o4_mini_high,b,"all 16 icons are unique with no repeats, matching the pattern of card “b.”",6576.08938547486,4,All different,1
+3,B,test,08.png,GPT_o4_mini_high,b,"all 16 icons are different, matching the unique‐icons pattern of card “b.”",7761.6460905349795,4,All different,1
+3,B,test,09.png,GPT_o4_mini_high,a,"the rain‐cloud icon appears repeatedly across the grid, matching the repetition pattern of card “a.”",16924.878048780487,1,All same,1
+3,B,test,10.png,GPT_o4_mini_high,a,"the film icon repeats multiple times, matching the repeated‐icon pattern of card “a.”",9519.227586206896,3,All same,1
+3,B,test,01.png,GPT_o4_mini_high,b,it shows a mix of different icons rather than the single repeated symbol pattern of card a.,19375.87786259542,2,All different,1
+3,B,test,02.png,GPT_o4_mini_high,a,"it’s the same symbol repeated in every cell, matching the uniform pattern of card a.",2176.7664670658683,0,All same,1
+3,B,test,03.png,GPT_o4_mini_high,b,it shows a mix of different icons (mostly combs but others too) rather than a single repeated symbol.,4676.507042253521,2,All different,1
+3,B,test,04.png,GPT_o4_mini_high,b,"it’s a mix of different icons (not the same symbol repeated), matching card b’s varied pattern.",7198.171428571429,3,All different,1
+3,B,test,05.png,GPT_o4_mini_high,b,it has a mix of different icons (newspapers plus a few odd ones) instead of the same symbol everywhere.,5990.061099796334,1,All different,1
+3,B,test,06.png,GPT_o4_mini_high,a,"it’s the same light-bulb icon repeated in every cell, matching card a’s uniform pattern.",2764.3076923076924,0,All same,1
+3,B,test,07.png,GPT_o4_mini_high,b,it shows a variety of different icons rather than one symbol repeated.,2870.613333333333,4,All different,1
+3,B,test,08.png,GPT_o4_mini_high,b,it shows a variety of different icons rather than the same symbol repeated.,7747.062200956938,4,All different,1
+3,B,test,09.png,GPT_o4_mini_high,b,"it’s mostly rain-cloud icons but includes different symbols, matching the varied pattern of card b.",4404.363636363636,1,All different,1
+3,B,test,10.png,GPT_o4_mini_high,b,it uses a variety of different icons rather than the same symbol in every cell.,3344.842105263158,3,All different,1
+3,B,test,01.png,GPT_o4_mini_high,b,it shows a mix of different icons rather than the single repeated symbol pattern of card a.,7547.098674521355,2,All different,1
+3,B,test,02.png,GPT_o4_mini_high,a,it’s the same symbol repeated in a uniform grid like card a.,2581.979797979798,0,All same,1
+3,B,test,03.png,GPT_o4_mini_high,b,it uses a variety of different icons rather than one symbol repeated.,4976.64,2,All different,1
+3,B,test,04.png,GPT_o4_mini_high,b,it shows a mix of different icons instead of the same symbol repeated.,5204.210526315789,3,All different,1
+3,B,test,05.png,GPT_o4_mini_high,b,it mixes several different icons rather than one symbol repeated throughout.,16511.371428571427,1,All different,1
+3,B,test,06.png,GPT_o4_mini_high,a,all cells show the same lightbulb icon in a uniform grid like card a.,4077.078260869565,0,All same,1
+3,B,test,07.png,GPT_o4_mini_high,b,it features a variety of different icons instead of one symbol repeated.,3507.8200692041523,4,All different,1
+3,B,test,08.png,GPT_o4_mini_high,b,it shows a variety of different icons rather than the same symbol repeated.,5217.627118644068,4,All different,1
+3,B,test,09.png,GPT_o4_mini_high,b,it contains multiple different icons mixed in rather than the same symbol repeated.,4126.896551724138,1,All different,1
+3,B,test,10.png,GPT_o4_mini_high,b,it shows a variety of different icons rather than the same symbol repeated throughout.,4602.721649484536,3,All different,1
+3,B,test,01.png,GPT_o4_mini_high,b,"this card has a mix of different icons (not all the same), so it matches the varied‐icons pattern of card b.",4930.524361948956,2,All different,1
+3,B,test,02.png,GPT_o4_mini_high,a,"all the symbols are identical and uniformly repeated, matching the single-icon pattern of card a.",1417.2307692307693,0,All same,1
+3,B,test,03.png,GPT_o4_mini_high,b,"the grid shows lots of different icons (not a uniform repeat), matching the varied‐icons pattern of card b.",4131.868131868132,2,All different,1
+3,B,test,04.png,GPT_o4_mini_high,b,"the card shows a mix of different icons (not a uniform repeat), matching the varied‐icons pattern of card b.",2537.491525423729,3,All different,1
+3,B,test,05.png,GPT_o4_mini_high,b,"it’s not a uniform repeat of the same icon (it has several different symbols), so it fits the varied‐icons pattern of card b.",22781.860373647985,1,All different,1
+3,B,test,06.png,GPT_o4_mini_high,a,"all the icons are identical and evenly repeated, matching the single‐icon pattern of card a.",1914.4077669902915,0,All same,1
+3,B,test,07.png,GPT_o4_mini_high,b,"it shows a variety of different icons rather than one repeated symbol, fitting the varied‐icons pattern of card b.",3546.327759197324,4,All different,1
+3,B,test,08.png,GPT_o4_mini_high,b,"the grid shows a variety of different icons rather than one repeated symbol, matching card b.",4608.0,4,All different,1
+3,B,test,09.png,GPT_o4_mini_high,b,"it has mixed symbols (locks, thumbs-up, dice, etc.) alongside the clouds, not the same icon everywhere.",8818.441913439636,1,All different,1
+3,B,test,10.png,GPT_o4_mini_high,b,"it shows many different icons rather than one symbol repeated, matching the varied-icons pattern of card b.",3382.974358974359,3,All different,1
+3,A,test,01.png,GPT_o4_mini,b,"all the T-shirt icons are identical, matching the uniform pattern of card b.",1507.2,0,All same,1
+3,A,test,02.png,GPT_o4_mini,a,"it shows a diverse set of different icons, matching the varied layout of card a.",3840.838427947598,4,All different,1
+3,A,test,03.png,GPT_o4_mini,a,"it has several different icons mixed in, matching the varied set of card a.",6459.513402061855,1,All different,1
+3,A,test,04.png,GPT_o4_mini,a,"it shows a mix of many different icons, matching the varied pattern of card a.",5036.638655462185,3,All different,1
+3,A,test,05.png,GPT_o4_mini,a,"it shows multiple different icons rather than a single repeated symbol, matching card a’s varied pattern.",4256.0,2,All different,1
+3,A,test,06.png,GPT_o4_mini,a,"it contains a variety of different icons, matching the mixed pattern of card a.",2438.243902439024,4,All different,1
+3,A,test,07.png,GPT_o4_mini,a,"it shows a mix of different icons (with just a few rollers), matching the varied pattern of card a.",6231.231850117096,3,All different,1
+3,A,test,08.png,GPT_o4_mini,b,"all the mug icons are identical, matching the uniform pattern of card b.",5382.158075601375,0,All same,1
+3,A,test,09.png,GPT_o4_mini,a,"it has a mix of different icons (only some lightning bolts), matching the varied pattern of card a.",2622.863905325444,1,All different,1
+3,A,test,10.png,GPT_o4_mini,a,"the icons are varied (not all the same), matching the mixed pattern of card a.",4540.081632653061,2,All different,1
+3,A,test,01.png,GPT_o4_mini,b,all the icons are identical repetitions like the hammers on card b.,2791.5061728395062,0,All same,1
+3,A,test,02.png,GPT_o4_mini,a,all icons on this card are unique different symbols just like on card a.,1986.585858585859,4,All different,1
+3,A,test,03.png,GPT_o4_mini,b,"dominated by the same dice icon repeated, matching the uniform pattern of card b.",19796.030534351143,1,All same,1
+3,A,test,04.png,GPT_o4_mini,a,"it’s a mixed set of different icons (no single icon dominates), matching the variety pattern of card a.",12111.067428571429,3,All different,1
+3,A,test,05.png,GPT_o4_mini,a,"no single icon dominates the card, matching the varied‐icons pattern of “a.”",22344.28833231521,2,All different,1
+3,A,test,06.png,GPT_o4_mini,a,"it shows a variety of different icons, matching the mixed‐icon pattern of card a.",3492.5714285714284,4,All different,1
+3,A,test,07.png,GPT_o4_mini,a,"it has many different icons and no one symbol dominates, matching the mixed-icon pattern of card a.",20659.529722589166,3,All different,1
+3,A,test,08.png,GPT_o4_mini,b,"all the mugs are identical repetitions, matching the uniform pattern of card b.",2088.32,0,All same,1
+3,A,test,09.png,GPT_o4_mini,a,"it has a mix of different icons (balloons, fireplace, skis, etc.), not the uniform repetition seen on card b.",4040.0529801324506,1,All different,1
+3,A,test,10.png,GPT_o4_mini,a,"it’s a mix of different icons rather than a uniform repetition, matching the varied pattern of card a.",10064.155339805826,2,All different,1
+3,A,test,01.png,GPT_o4_mini,b,all icons are identical (like the repeated hammers in card b),1554.938775510204,0,All same,1
+3,A,test,02.png,GPT_o4_mini,a,it shows 16 different icons just like card a’s all-unique layout.,3420.786026200873,4,All different,1
+3,A,test,03.png,GPT_o4_mini,b,it’s dominated by the same dice icon (like card b’s uniform repeated pattern),4888.265402843602,1,All same,1
+3,A,test,04.png,GPT_o4_mini,b,"it has a repeated spray icon (not all 16 are unique), matching card b’s pattern of repeats.",10851.181714285714,3,All same,1
+3,A,test,05.png,GPT_o4_mini,b,"it has repeated soccer‐field icons (duplicates), so it matches the “b” pattern rather than all unique.",14914.59253375695,2,All same,1
+3,A,test,06.png,GPT_o4_mini,a,"all 16 icons are different, matching card a’s all-unique layout.",2254.829268292683,4,All different,1
+3,A,test,07.png,GPT_o4_mini,b,"the paint-roller icon repeats several times, matching card b’s repeated-icon pattern.",9459.58208955224,3,All same,1
+3,A,test,08.png,GPT_o4_mini,b,"all 16 mugs are identical, matching the uniform pattern of card b.",2877.6585365853657,0,All same,1
+3,A,test,09.png,GPT_o4_mini,b,"it’s full of repeated lightning-bolt icons (not 16 uniques), matching the “b” pattern.",7049.703971119134,1,All same,1
+3,A,test,10.png,GPT_o4_mini,b,many repeated lamp icons match card b’s pattern of duplicates.,5940.424116424117,2,All same,1
+3,A,test,01.png,GPT_o4_mini,b,"all the icons are identical, matching the uniform pattern of card b.",1593.469387755102,0,All same,1
+3,A,test,02.png,GPT_o4_mini,a,it shows a variety of different icons just like the mixed‐icon layout of card a.,2906.7130434782607,4,All different,1
+3,A,test,03.png,GPT_o4_mini,a,"the icons aren’t all identical, so it pairs with the mixed‐icon card “a.”",4249.136490250697,1,All different,1
+3,A,test,04.png,GPT_o4_mini,a,"it has a variety of different icons, matching the mixed‐icon pattern of card a.",2897.5304347826086,3,All different,1
+3,A,test,05.png,GPT_o4_mini,a,"it shows a mix of different icons rather than all the same, matching the varied‐icon pattern of card a.",5504.35261707989,2,All different,1
+3,A,test,06.png,GPT_o4_mini,a,"it contains a variety of different icons, matching the mixed‐icon pattern of card a.",4006.5542168674697,4,All different,1
+3,A,test,07.png,GPT_o4_mini,a,"it has a variety of different icons, matching the mixed‐icon pattern of card a.",5692.067039106145,3,All different,1
+3,A,test,08.png,GPT_o4_mini,b,"all the icons are identical, matching the uniform pattern of card b.",2085.2244897959185,0,All same,1
+3,A,test,09.png,GPT_o4_mini,a,"it has different icons mixed in (balloons, fireplace, skis, etc.), matching the varied‐icon pattern of card a.",8029.791332263242,1,All different,1
+3,A,test,10.png,GPT_o4_mini,a,"it shows a mix of different icons rather than all the same, matching the varied‐icon pattern of card a.",3069.548936170213,2,All different,1
+3,A,test,01.png,GPT_o4_mini,b,"all the icons are the same, matching the uniform pattern of card b.",2322.846625766871,0,All same,1
+3,A,test,02.png,GPT_o4_mini,a,"all the icons are different, matching the varied set on card a.",2659.2422907488985,4,All different,1
+3,A,test,03.png,GPT_o4_mini,b,"it has many identical dice icons (repetition), matching the repeated‐icon pattern of card b.",16092.40027605245,1,All same,1
+3,A,test,04.png,GPT_o4_mini,b,"it features the same shower icon repeated, matching the repetition pattern of card b.",11083.318327974275,3,All same,1
+3,A,test,05.png,GPT_o4_mini,b,"it has many repeated soccer-field icons, matching the repetition pattern of card b.",13158.513777777778,2,All same,1
+3,A,test,06.png,GPT_o4_mini,a,"every icon is different, matching the all-unique pattern of card a.",5192.706443914081,4,All different,1
+3,A,test,07.png,GPT_o4_mini,b,"the paint‐roller icon repeats multiple times, matching the repetition pattern of card b.",9205.505590062112,3,All same,1
+3,A,test,08.png,GPT_o4_mini,b,"every icon is the same mug, matching the uniform repetition pattern of card b.",2719.030303030303,0,All same,1
+3,A,test,09.png,GPT_o4_mini,b,"the lightning bolt repeats throughout, matching the uniform repetition pattern of card b.",5170.285714285715,1,All same,1
+3,A,test,10.png,GPT_o4_mini,b,"the lamp icon repeats multiple times, matching the repetition pattern of card b.",10270.929642445211,2,All same,1
+3,A,test,01.png,GPT_o4_mini,b,"all the icons are identical shirts, matching the uniform pattern in card b.",3591.013698630137,0,All same,1
+3,A,test,02.png,GPT_o4_mini,a,it shows a variety of different icons rather than the identical-repeat pattern of card b.,3153.808695652174,4,All different,1
+3,A,test,03.png,GPT_o4_mini,a,"it isn’t a perfect grid of the same symbol but mixes dice stacks with other icons, matching the varied-icon pattern of card a.",8317.110225763612,1,All different,1
+3,A,test,04.png,GPT_o4_mini,a,"it features a variety of different icons (even with some repeats), not the uniform single-icon grid of card b.",4390.575342465753,3,All different,1
+3,A,test,05.png,GPT_o4_mini,a,"it mixes several different icons (not a uniform grid of the same symbol), matching card a’s varied pattern.",4441.212121212121,2,All different,1
+3,A,test,06.png,GPT_o4_mini,a,it shows a variety of different icons instead of the same symbol repeated.,2354.567901234568,4,All different,1
+3,A,test,07.png,GPT_o4_mini,a,it features a mix of different icons rather than a uniform grid of the same symbol.,2827.1790393013102,3,All different,1
+3,A,test,08.png,GPT_o4_mini,b,"it’s a perfect grid of the same mug icon, matching the uniform pattern of card b.",1191.1456310679612,0,All same,1
+3,A,test,09.png,GPT_o4_mini,a,"mostly lightning bolts but with several different icons mixed in, matching card a’s varied-icon pattern.",6565.770491803279,1,All different,1
+3,A,test,10.png,GPT_o4_mini,a,it mixes several different icons instead of repeating the same symbol in every slot.,3693.085910652921,2,All different,1
+3,A,test,01.png,GPT_o4_mini,b,"all icons are the same repeated image, matching the uniform pattern in card b.",2861.268292682927,0,All same,1
+3,A,test,02.png,GPT_o4_mini,a,"all icons are different, matching the variety pattern of card a.",2881.192546583851,4,All different,1
+3,A,test,03.png,GPT_o4_mini,b,"because it has repeated dice icons (not all 16 are unique), matching the duplicate-pattern of card b.",17201.6918429003,1,All same,1
+3,A,test,04.png,GPT_o4_mini,b,"there are repeated shower-head icons, matching the duplicate pattern of card b.",6289.938242280285,3,All same,1
+3,A,test,05.png,GPT_o4_mini,b,"it has repeated soccer‐field icons, matching the duplicate pattern of card b.",6437.685950413224,2,All same,1
+3,A,test,06.png,GPT_o4_mini,a,"all 16 icons are unique, matching the no-duplicates pattern of card a.",9923.895652173913,4,All different,1
+3,A,test,07.png,GPT_o4_mini,b,"it has repeated “pour” icons (and a cable twice), matching the duplicate‐icon pattern of card b.",16313.232628398791,3,All same,1
+3,A,test,08.png,GPT_o4_mini,b,"all icons are the same mug, matching the duplicate-icon pattern of card b.",5590.748815165877,0,All same,1
+3,A,test,09.png,GPT_o4_mini,b,"it has many repeated lightning‐bolt icons, matching the duplicate‐icon pattern of card b.",6702.376811594203,1,All same,1
+3,A,test,10.png,GPT_o4_mini,b,many repeated lamp icons match the duplicate-icon pattern of card b.,6553.04347826087,2,All same,1
+3,A,test,01.png,GPT_o4_mini,b,it’s the same repeated single-icon pattern like card b.,1889.6494845360824,0,All same,1
+3,A,test,02.png,GPT_o4_mini,a,it has 16 different icons just like card a.,6094.940766550522,4,All different,1
+3,A,test,03.png,GPT_o4_mini,b,it’s the same mostly repeated card+die icon pattern like card b (not 16 all-different icons).,13258.893617021276,1,All same,1
+3,A,test,04.png,GPT_o4_mini,b,"it has repeated icons instead of 16 all-different ones, like card b.",10815.223719676547,3,All same,1
+3,A,test,05.png,GPT_o4_mini,b,"it has many repeated icons (especially the soccer field), matching card b’s pattern.",3653.008695652174,2,All same,1
+3,A,test,06.png,GPT_o4_mini,a,"it has 16 distinct icons, matching card a’s all-different pattern.",5717.752808988764,4,All different,1
+3,A,test,07.png,GPT_o4_mini,b,"it has the same roller icon repeated among others, matching card b’s repeat pattern.",5607.150837988826,3,All same,1
+3,A,test,08.png,GPT_o4_mini,b,it’s the uniform repeated-icon layout like card b.,0.0,0,All same,1
+3,A,test,09.png,GPT_o4_mini,b,"it mostly repeats the lightning bolt icon, matching card b’s single-icon pattern.",5960.78431372549,1,All same,1
+3,A,test,10.png,GPT_o4_mini,b,"it repeats the lamp icon across the grid, so it’s not 16 unique symbols like card a.",9028.375335120643,2,All same,1
+3,A,test,01.png,GPT_o4_mini,b,"all icons are the same T-shirt symbol, matching the uniform repeat pattern of card b.",3248.2077922077924,0,All same,1
+3,A,test,02.png,GPT_o4_mini,a,"all 16 icons are different, matching the varied set on card a.",5705.275362318841,4,All different,1
+3,A,test,03.png,GPT_o4_mini,a,it has multiple different icons instead of the single repeated symbol pattern seen on card b.,17188.280794701986,1,All different,1
+3,A,test,04.png,GPT_o4_mini,a,"the icons aren’t all the same; there’s a mix of different symbols, matching card a.",4518.116343490305,3,All different,1
+3,A,test,05.png,GPT_o4_mini,a,"the grid contains different icons rather than a single repeated symbol, matching card a.",3798.078602620087,2,All different,1
+3,A,test,06.png,GPT_o4_mini,a,"it shows 16 different icons rather than the same symbol repeated, matching card a.",2866.6434782608694,4,All different,1
+3,A,test,07.png,GPT_o4_mini,a,"there are many different symbols (even though some repeat), so it doesn’t match the uniform pattern of card b and belongs with the varied set of card a.",12052.554744525549,3,All different,1
+3,A,test,08.png,GPT_o4_mini,b,"all icons are the same mug symbol, matching the uniform pattern of card b.",2773.853658536585,0,All same,1
+3,A,test,09.png,GPT_o4_mini,a,"it has a mix of different symbols (balloons, fireplace, skis, etc.) rather than a single repeated icon, matching the varied set of card a.",3628.408163265306,1,All different,1
+3,A,test,10.png,GPT_o4_mini,a,"it shows a mix of different icons (lamps, comb, sailboat, key, etc.) rather than one repeated symbol.",3304.3361344537816,2,All different,1
+3,A,test,01.png,GPT_o4_mini,b,"the card shows a uniform grid of the same shirt icon, matching the repeated-icon pattern of card b.",2553.6824034334763,0,All same,1
+3,A,test,02.png,GPT_o4_mini,a,it has a mix of distinct icons just like card a’s varied grid.,2535.951515151515,4,All different,1
+3,A,test,03.png,GPT_o4_mini,b,"it’s full of repeating dice icons, matching card b’s uniform‐icon pattern.",27399.105038428694,1,All same,1
+3,A,test,04.png,GPT_o4_mini,a,"it’s a mixed grid of different icons (with just a few repeats), matching the varied‐icon pattern of card a.",6483.4982078853045,3,All different,1
+3,A,test,05.png,GPT_o4_mini,b,"it’s dominated by the same soccer-field icon repeating in a grid, like card b.",16947.4708994709,2,All same,1
+3,A,test,06.png,GPT_o4_mini,a,"it’s a mixed grid of different icons, matching the varied‐icon pattern of card a.",5056.45390070922,4,All different,1
+3,A,test,07.png,GPT_o4_mini,a,"it has a mix of many distinct icons (with only a few repeats), matching card a’s varied‐icon pattern.",9454.248175182482,3,All different,1
+3,A,test,08.png,GPT_o4_mini,b,"it’s a uniform grid of the same mug icon, matching card b’s repeat‐icon pattern.",3577.183431952663,0,All same,1
+3,A,test,09.png,GPT_o4_mini,b,"it’s mostly the same lightning-bolt icon in a grid with just a few odd ones, matching card b’s repeated-icon pattern.",10478.452876376989,1,All same,1
+3,A,test,10.png,GPT_o4_mini,b,"most cells show the same lamp icon, matching card b’s repeated‐icon pattern.",16027.321008403362,2,All same,1
+3,B,test,01.png,GPT_o4_mini,b,"this card has multiple different icons instead of the same icon repeated like card a, so it groups with card b.",5874.888438133874,2,All different,1
+3,B,test,02.png,GPT_o4_mini,a,"all icons are the same play symbol repeated in a grid, matching card a’s pattern.",2136.6746987951806,0,All same,1
+3,B,test,03.png,GPT_o4_mini,b,"it shows a variety of different icons rather than one icon repeated, matching card b’s pattern.",3104.0,2,All different,1
+3,B,test,04.png,GPT_o4_mini,b,"it features various different icons instead of one repeated symbol, matching card b.",3141.894736842105,3,All different,1
+3,B,test,05.png,GPT_o4_mini,b,"it mixes other icons (stroller, dancer, diamond, ruler) with the repeats, matching card b.",3923.90635451505,1,All different,1
+3,B,test,06.png,GPT_o4_mini,a,"all icons are the same light bulb repeated in a grid, matching card a’s pattern.",2944.278260869565,0,All same,1
+3,B,test,07.png,GPT_o4_mini,b,"it shows a variety of different icons instead of one repeated symbol, matching card b.",3602.9217391304346,4,All different,1
+3,B,test,08.png,GPT_o4_mini,b,"it features a variety of different icons rather than one icon repeated, matching card b.",1643.7227722772277,4,All different,1
+3,B,test,09.png,GPT_o4_mini,b,"it mixes other icons (thumbs up, dice, lock, thermometer) with the rain clouds, matching card b.",4513.406593406594,1,All different,1
+3,B,test,10.png,GPT_o4_mini,b,"it shows a mix of different icons rather than one symbol repeated, matching card b.",3911.645051194539,3,All different,1
+3,B,test,01.png,GPT_o4_mini,b,"It contains a mix of different symbols (not all the same), matching the variety pattern of card b.",8296.483353884094,2,All different,1
+3,B,test,02.png,GPT_o4_mini,a,"All the icons are identical and repeated in a grid, matching the uniform pattern of card a.",1574.5242718446602,0,All same,1
+3,B,test,03.png,GPT_o4_mini,b,"The card shows a mix of different icons rather than a single repeated symbol, matching the variety of card b.",4131.712707182321,2,All different,1
+3,B,test,04.png,GPT_o4_mini,b,"It features a mix of different icons rather than one repeated symbol, matching the varied pattern of card b.",2648.6153846153848,3,All different,1
+3,B,test,05.png,GPT_o4_mini,b,"It mixes a different symbol among the repeated newspaper icon, so it follows the varied pattern of card b.",2631.529411764706,1,All different,1
+3,B,test,06.png,GPT_o4_mini,a,"All the icons are identical light bulbs repeated in a grid, matching the uniform pattern of card a.",2635.428571428572,0,All same,1
+3,B,test,07.png,GPT_o4_mini,b,"It shows a variety of different icons instead of one repeated symbol, matching the mixed pattern of card b.",3580.4291845493563,4,All different,1
+3,B,test,08.png,GPT_o4_mini,b,"It features a mix of different icons rather than a single repeated symbol, matching the varied pattern of card b.",3373.948717948718,4,All different,1
+3,B,test,09.png,GPT_o4_mini,b,"It’s not a uniform grid of the same rain-cloud icon (there are thumbs-up, dice, lock, thermometer, etc.), so it matches the mixed‐icon pattern of card b.",10454.5039193729,1,All different,1
+3,B,test,10.png,GPT_o4_mini,b,"It shows a variety of different icons instead of one repeated symbol, matching the mixed pattern of card b.",4189.952861952862,3,All different,1
+3,B,test,01.png,GPT_o4_mini,b,"this card has multiple different icons rather than a uniform repeated icon like “a,” matching the varied pattern of “b.”",2600.186046511628,2,All different,1
+3,B,test,02.png,GPT_o4_mini,a,it’s a uniform grid of the same icon just like card “a.”,1702.141414141414,0,All same,1
+3,B,test,03.png,GPT_o4_mini,b,it contains a mix of different icons rather than one single repeated icon.,3453.451327433628,2,All different,1
+3,B,test,04.png,GPT_o4_mini,b,it’s a varied mix of different icons rather than a single repeated icon like card “a.”,2152.239520958084,3,All different,1
+3,B,test,05.png,GPT_o4_mini,b,"although it has many of the same icon, there are a few different ones, so it’s a mixed grid like “b.”",4583.169398907104,1,All different,1
+3,B,test,06.png,GPT_o4_mini,a,"it’s a uniform grid of the same icon, matching the all-repeated pattern of “a.”",2019.9763313609467,0,All same,1
+3,B,test,07.png,GPT_o4_mini,b,"it’s a mixed set of different icons rather than one icon repeated, matching card “b.”",4175.792207792208,4,All different,1
+3,B,test,08.png,GPT_o4_mini,b,it’s a mix of different icons rather than one icon repeated uniformly like “a.”,3417.432314410481,4,All different,1
+3,B,test,09.png,GPT_o4_mini,b,it’s a mixed set of different icons rather than the same icon repeated uniformly.,3743.561643835617,1,All different,1
+3,B,test,10.png,GPT_o4_mini,b,it’s a varied mix of different icons rather than one icon repeated uniformly.,1522.4242424242425,3,All different,1
+3,B,test,01.png,GPT_o4_mini,b,this card has a mix of different icons rather than the same icon repeated like in “a.”,3689.871186440678,2,All different,1
+3,B,test,02.png,GPT_o4_mini,a,"it’s the same single icon repeated in a grid, matching card “a.”",1335.04,0,All same,1
+3,B,test,03.png,GPT_o4_mini,b,the grid contains multiple different icons rather than one icon repeated.,3041.1428571428573,2,All different,1
+3,B,test,04.png,GPT_o4_mini,b,it shows a variety of different icons instead of the same icon repeated.,3278.222222222222,3,All different,1
+3,B,test,05.png,GPT_o4_mini,b,this grid mixes in several different icons rather than one icon repeated uniformly.,4893.107344632768,1,All different,1
+3,B,test,06.png,GPT_o4_mini,a,"it’s the same lightbulb icon repeated uniformly across the grid, matching card “a.”",3152.6233766233768,0,All same,1
+3,B,test,07.png,GPT_o4_mini,b,it’s a mix of different icons instead of the same icon repeated.,3174.796460176992,4,All different,1
+3,B,test,08.png,GPT_o4_mini,b,this card shows a variety of different icons instead of one icon repeated.,1709.061224489796,4,All different,1
+3,B,test,09.png,GPT_o4_mini,b,it mixes several different icons instead of repeating the same one.,3209.1428571428573,1,All different,1
+3,B,test,10.png,GPT_o4_mini,b,the grid contains different icons rather than one icon repeated uniformly like card “a.”,2720.0,3,All different,1
+3,B,test,01.png,GPT_o4_mini,b,"It has a mix of different icons, matching the varied set like card b rather than the uniform repeats of card a.",4598.58310626703,2,All different,1
+3,B,test,02.png,GPT_o4_mini,a,"all the icons are identical, matching the uniform pattern of card a.",1882.3067484662577,0,All same,1
+3,B,test,03.png,GPT_o4_mini,b,"it isn’t a uniform grid (there are different icons), so it pairs with the mixed set like card b.",5711.089430894309,2,All different,1
+3,B,test,04.png,GPT_o4_mini,b,"it features a variety of different icons rather than a single repeating one, matching card b.",3326.3376623376626,3,All different,1
+3,B,test,05.png,GPT_o4_mini,b,"the icons aren’t all the same, so it matches the varied set of card b.",4224.0,1,All different,1
+3,B,test,06.png,GPT_o4_mini,a,"all the icons are identical, matching the uniform pattern of card a.",1680.9795918367347,0,All same,1
+3,B,test,07.png,GPT_o4_mini,b,"it shows a variety of different icons, matching the mixed set of card b.",2726.243902439024,4,All different,1
+3,B,test,08.png,GPT_o4_mini,b,"it contains a mix of different icons rather than one repeated design, matching card b.",2855.3253012048194,4,All different,1
+3,B,test,09.png,GPT_o4_mini,b,it has a mix of different icons rather than the single repeated icon of card a.,2769.454545454545,1,All different,1
+3,B,test,10.png,GPT_o4_mini,b,"it shows a variety of different icons rather than one repeated design, matching card b.",2588.70303030303,3,All different,1
+3,B,test,01.png,GPT_o4_mini,b,"this card has a mix of different icons (not the identical repeats of “a”), matching the varied-icon pattern of “b.”",10518.958230958233,2,All different,1
+3,B,test,02.png,GPT_o4_mini,a,"every icon is the same play-triangle, matching the uniform pattern of card “a.”",3875.895652173913,0,All same,1
+3,B,test,03.png,GPT_o4_mini,b,"the icons aren’t all the same (it’s a mix, not the uniform repetition of “a”).",7220.114285714286,2,All different,1
+3,B,test,04.png,GPT_o4_mini,b,it’s a mix of different icons rather than the identical repeats on card “a.”,5736.694677871148,3,All different,1
+3,B,test,05.png,GPT_o4_mini,b,it contains a mix of different icons instead of the uniform repeats of “a.”,2228.48,1,All different,1
+3,B,test,06.png,GPT_o4_mini,a,"all 16 icons are the same lightbulb, matching the uniform pattern of card “a.”",2667.428571428572,0,All same,1
+3,B,test,07.png,GPT_o4_mini,b,the icons vary rather than repeating the same symbol uniformly.,3646.7924528301887,4,All different,1
+3,B,test,08.png,GPT_o4_mini,b,the card shows 16 different icons rather than the same icon repeated.,4264.606896551724,4,All different,1
+3,B,test,09.png,GPT_o4_mini,b,"it includes several different symbols alongside the clouds, matching the mixed-icon pattern of “b.”",4840.489795918367,1,All different,1
+3,B,test,10.png,GPT_o4_mini,b,it displays a variety of different icons rather than the identical repeats of card “a.”,6559.923990498813,3,All different,1
+3,B,test,01.png,GPT_o4_mini,b,"This card, like “b,” contains a mix of different icons rather than the single repeating symbol found on “a.”",8040.811594202899,2,All different,1
+3,B,test,02.png,GPT_o4_mini,a,"All 16 cells show the identical play-triangle icon, matching the single repeated symbol pattern of “a.”",2553.976470588236,0,All same,1
+3,B,test,03.png,GPT_o4_mini,b,"This card mixes various icons (not one symbol repeated), matching the “b” pattern of mixed symbols.",4855.844875346261,2,All different,1
+3,B,test,04.png,GPT_o4_mini,b,"This card shows a variety of different icons (even though “pause” recurs), so it matches the mixed‐symbol pattern of “b,” not the single repeated icon of “a.”",3747.84,3,All different,1
+3,B,test,05.png,GPT_o4_mini,b,"This card mixes a dominant “document” icon with four different symbols, so it follows the varied-icons pattern of “b,” not the uniform grid of “a.”",3717.4634146341455,1,All different,1
+3,B,test,06.png,GPT_o4_mini,a,"Every cell shows the same light-bulb icon, matching the uniform-repeat pattern of “a.”",1825.8461538461536,0,All same,1
+3,B,test,07.png,GPT_o4_mini,b,"This card shows a variety of different icons rather than one symbol repeated, matching the mixed‐icons pattern of “b.”",5277.3626373626375,4,All different,1
+3,B,test,08.png,GPT_o4_mini,b,"This card contains a variety of different icons rather than one symbol repeated, matching the mixed‐icons pattern of “b.”",8127.655296229803,4,All different,1
+3,B,test,09.png,GPT_o4_mini,b,"It mixes rain icons with different symbols, so it follows the varied‐icon pattern of “b.”",5159.783783783784,1,All different,1
+3,B,test,10.png,GPT_o4_mini,b,"It shows a mix of different icons (even though the film frame repeats), matching the varied‐icons pattern of “b.”",4519.696202531645,3,All different,1
+3,B,test,01.png,GPT_o4_mini,b,"it’s a mix of different icons (not all the same), just like card b.",6956.418891170431,2,All different,1
+3,B,test,02.png,GPT_o4_mini,a,"all the icons are identical, matching the uniform pattern of card a.",2718.625766871165,0,All same,1
+3,B,test,03.png,GPT_o4_mini,b,"it’s a mix of different icons, matching the varied pattern of card b.",2474.9268292682927,2,All different,1
+3,B,test,04.png,GPT_o4_mini,b,"it has multiple different icons (not all the same), matching the varied pattern of card b.",16445.76,3,All different,1
+3,B,test,05.png,GPT_o4_mini,b,"mostly the newspaper icon but with several different symbols mixed in, matching the varied pattern of card b.",4004.6329966329968,1,All different,1
+3,B,test,06.png,GPT_o4_mini,a,"all the icons are the same light bulb, matching the uniform pattern of card a.",3715.07423580786,0,All same,1
+3,B,test,07.png,GPT_o4_mini,b,"it shows a variety of different icons, matching the mixed-icon pattern of card b.",4127.165217391304,4,All different,1
+3,B,test,08.png,GPT_o4_mini,b,"it’s a mix of different icons, matching the varied pattern of card b.",2776.9756097560976,4,All different,1
+3,B,test,09.png,GPT_o4_mini,b,"it has rain-cloud icons plus several different symbols, matching the varied pattern of card b.",8675.764705882353,1,All different,1
+3,B,test,10.png,GPT_o4_mini,b,"it’s a mix of different icons, matching the varied pattern of card b.",3899.7894736842095,3,All different,1
+3,B,test,01.png,GPT_o4_mini,a,"It has the same box icon repeated across the grid, matching the uniform pattern of card a.",7652.7213114754095,2,All same,1
+3,B,test,02.png,GPT_o4_mini,a,"every cell shows the same play‐triangle icon, matching the uniform pattern of card a.",7830.340862422998,0,All same,1
+3,B,test,03.png,GPT_o4_mini,b,"the grid shows many different icons rather than one repeated symbol, matching card b’s varied pattern.",4226.594594594595,2,All different,1
+3,B,test,04.png,GPT_o4_mini,b,"the grid contains a mix of different icons (not one uniform symbol), matching the varied pattern of card b.",3383.794871794872,3,All different,1
+3,B,test,05.png,GPT_o4_mini,b,"the grid isn’t a single repeated icon but includes different symbols, fitting the varied pattern of card b.",4972.241610738255,1,All different,1
+3,B,test,06.png,GPT_o4_mini,a,"every cell shows the same light-bulb icon, matching the uniform pattern of card a.",4642.909090909091,0,All same,1
+3,B,test,07.png,GPT_o4_mini,b,"the grid shows a mix of different icons, matching the varied pattern of card b.",4790.607508532423,4,All different,1
+3,B,test,08.png,GPT_o4_mini,b,"the grid has many different icons instead of one repeated symbol, matching the varied pattern of card b.",3920.7619047619046,4,All different,1
+3,B,test,09.png,GPT_o4_mini,b,"the grid mixes in thumbs-up, dice, lock, thermometer among the rain clouds, so it’s a varied pattern like card b.",4787.859078590786,1,All different,1
+3,B,test,10.png,GPT_o4_mini,b,"the grid shows many different icons instead of one repeated symbol, matching the varied pattern of card b.",2595.597633136095,3,All different,1
+3,B,test,01.png,GPT_o4_mini,b,"it’s a mix of different object icons (like card b), not the uniform weather symbols on card a.",9558.588235294115,2,All different,1
+3,B,test,02.png,GPT_o4_mini,a,"the grid shows the same play-icon repeated uniformly, matching the identical-symbol pattern of card a.",2182.095238095238,0,All same,1
+3,B,test,03.png,GPT_o4_mini,b,"it’s a mix of different object icons (not a single repeated symbol), matching the variety seen in card b.",4395.371900826446,2,All different,1
+3,B,test,04.png,GPT_o4_mini,b,"it shows a variety of different icons, matching the mixed-object pattern of card b.",3694.113537117904,3,All different,1
+3,B,test,05.png,GPT_o4_mini,b,"mostly the same newspaper icon with a few odd symbols mixed in, matching the varied-icon pattern of card b.",4921.652892561983,1,All different,1
+3,B,test,06.png,GPT_o4_mini,a,"it’s the same light-bulb icon repeated uniformly, matching the identical-symbol pattern of card a.",1924.2666666666669,0,All same,1
+3,B,test,07.png,GPT_o4_mini,b,"it’s a mix of different icons rather than a single repeated symbol, matching card b’s varied-icon pattern.",3277.5529411764705,4,All different,1
+3,B,test,08.png,GPT_o4_mini,b,"it’s a mix of different icons rather than one repeated symbol, matching card b’s varied-icon pattern.",3079.529411764706,4,All different,1
+3,B,test,09.png,GPT_o4_mini,b,"most spots show rain-clouds but there are odd symbols mixed in, matching the varied-icon pattern of card b.",2909.425287356322,1,All different,1
+3,B,test,10.png,GPT_o4_mini,b,"the grid contains a mix of different icons rather than one repeated symbol, matching card b’s varied-icon pattern.",2343.245283018868,3,All different,1
