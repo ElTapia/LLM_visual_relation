@@ -1,0 +1,355 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Generador de tarjetas AA/AB — Muestras, Entrenamiento y Test</title>
+  <!-- React + Babel -->
+  <script src="https://unpkg.com/react@18/umd/react.development.js" crossorigin></script>
+  <script src="https://unpkg.com/react-dom@18/umd/react-dom.development.js" crossorigin></script>
+  <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+  <!-- Tailwind -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <!-- html2canvas -->
+  <script src="https://unpkg.com/html2canvas@1.4.1/dist/html2canvas.min.js"></script>
+  <!-- Zips -->
+  <script src="https://cdn.jsdelivr.net/npm/jszip@3.10.1/dist/jszip.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/file-saver@2.0.5/dist/FileSaver.min.js"></script>
+  <style>
+    /* Estabiliza tamaños para capturas más consistentes */
+    .card {
+      width: 9rem;   /* w-36 */
+      height: 14rem; /* h-56 */
+    }
+    .symbol-img {
+      width: 38%;
+      height: auto;
+      object-fit: contain;
+    }
+    #error-overlay {
+      position: fixed;
+      inset: 0;
+      background: rgba(0,0,0,.7);
+      color: #fff;
+      z-index: 9999;
+      display: none;
+      padding: 16px;
+      overflow: auto;
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+    }
+  </style>
+</head>
+<body class="bg-gray-100 min-h-screen">
+  <noscript>Necesitas habilitar JavaScript para usar esta página.</noscript>
+  <div id="root"><div class="p-4 text-center text-gray-600">Cargando…</div></div>
+  <pre id="error-overlay"></pre>
+
+  <script>
+    // Muestra errores en pantalla si hay fallos
+    window.onerror = function(message, source, lineno, colno, error) {
+      const overlay = document.getElementById('error-overlay');
+      overlay.style.display = 'block';
+      overlay.textContent = 'Error: ' + message + '\\nEn: ' + source + ':' + lineno + ':' + colno + (error && error.stack ? ('\\n\\n' + error.stack) : '');
+    };
+  </script>
+
+  <script type="text/babel" data-presets="env,react">
+    const { useState } = React;
+
+    // Utilidad aleatoria
+    function shuffle(array) {
+      const a = array.slice();
+      for (let i = a.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [a[i], a[j]] = [a[j], a[i]];
+      }
+      return a;
+    }
+
+    // Tarjeta visual
+    function Card({ id, pair, label }) {
+      const [a, b] = pair;
+      return (
+        <div id={id} className="card relative bg-white shadow rounded-2xl overflow-hidden border border-gray-200 flex items-center justify-center">
+          {/* Esquinas */}
+          <img src={a} className="symbol-img absolute top-2 right-2" alt="símbolo A" />
+          <img src={b} className="symbol-img absolute bottom-2 left-2" alt="símbolo B" />
+          {/* Etiqueta visible en pantalla pero oculta en exportación */}
+          <div className="export-hide absolute top-2 left-2 bg-black/80 text-white text-xs px-2 py-1 rounded-full">
+            {label}
+          </div>
+        </div>
+      );
+    }
+
+    function App() {
+      const [images, setImages] = useState([]); // object URLs
+      const [ready, setReady] = useState(false);
+
+      const [samples, setSamples] = useState([]);       // 2 cartas: 1 AA, 1 AB
+      const [training, setTraining] = useState([]);     // 10 cartas (5 AA, 5 AB)
+      const [tests, setTests] = useState([]);           // 10 cartas (5 AA, 5 AB)
+
+      const MIN_UNIQUE = 33; // 1 (AA muestra) + 2 (AB muestra) + 15 (train) + 15 (test)
+
+      function handleUpload(ev) {
+        const files = Array.from(ev.target.files || []);
+        if (!files.length) return;
+        // Limpia previos
+        images.forEach(url => URL.revokeObjectURL(url));
+        setReady(false);
+        setSamples([]); setTraining([]); setTests([]);
+
+        const urls = files.map(f => URL.createObjectURL(f));
+        setImages(urls);
+      }
+
+      function buildAll() {
+        const uniqueCount = images.length;
+        if (uniqueCount < MIN_UNIQUE) {
+          alert("Necesitas al menos " + MIN_UNIQUE + " símbolos (subiste " + uniqueCount + "). Faltan " + (MIN_UNIQUE - uniqueCount) + ".");
+          return;
+        }
+        // Mezcla y toma los 33 primeros (no repetidos)
+        const pool = shuffle(images).slice(0, MIN_UNIQUE);
+        let p = 0;
+
+        // 1) MUESTRAS: 1 AA (usa 1 símbolo) y 1 AB (usa 2 símbolos)
+        const sampleAA = { type: "AA", pair: [pool[p], pool[p]] }; p += 1;
+        const sampleAB = { type: "AB", pair: [pool[p], pool[p + 1]] }; p += 2;
+        const samplesNew = [
+          { ...sampleAA, id: "sample-aa", label: "Muestra AA" },
+          { ...sampleAB, id: "sample-ab", label: "Muestra AB" }
+        ];
+
+        // 2) ENTRENAMIENTO: 5 AA (5 símbolos), 5 AB (10 símbolos) = 15
+        const trainAA = Array.from({ length: 5 }, (_, i) => {
+          const s = pool[p]; p += 1;
+          return { type: "AA", pair: [s, s], label: `Train AA ${i + 1}` };
+        });
+        const trainAB = Array.from({ length: 5 }, (_, i) => {
+          const s1 = pool[p], s2 = pool[p + 1]; p += 2;
+          return { type: "AB", pair: [s1, s2], label: `Train AB ${i + 1}` };
+        });
+        let trainingNew = [...trainAA, ...trainAB]
+          .map((c, i) => ({ ...c, id: `train-${String(i + 1).padStart(2, "0")}` }));
+        trainingNew = shuffle(trainingNew); // reordenar aleatorio
+
+        // 3) TEST: 5 AA + 5 AB = 15
+        const testAA = Array.from({ length: 5 }, (_, i) => {
+          const s = pool[p]; p += 1;
+          return { type: "AA", pair: [s, s], label: `Test AA ${i + 1}` };
+        });
+        const testAB = Array.from({ length: 5 }, (_, i) => {
+          const s1 = pool[p], s2 = pool[p + 1]; p += 2;
+          return { type: "AB", pair: [s1, s2], label: `Test AB ${i + 1}` };
+        });
+        let testsNew = [...testAA, ...testAB]
+          .map((c, i) => ({ ...c, id: `test-${String(i + 1).padStart(2, "0")}` }));
+        testsNew = shuffle(testsNew);
+
+        setSamples(samplesNew);
+        setTraining(trainingNew);
+        setTests(testsNew);
+        setReady(true);
+      }
+
+      async function nodeToPng(node, targetHeight = 180) {
+        // Ocultar elementos marcados para exportación (etiquetas, etc.)
+        const toHide = node.querySelectorAll(".export-hide");
+        const prevDisplay = [];
+        toHide.forEach((el, idx) => {
+          prevDisplay[idx] = el.style.display;
+          el.style.display = "none";
+        });
+
+        // html2canvas snapshot
+        const canvas = await html2canvas(node, {
+          backgroundColor: null,
+          useCORS: true,
+          allowTaint: true,
+          scale: Math.max(2, window.devicePixelRatio || 2)
+        });
+
+        // Restaurar visibilidad
+        toHide.forEach((el, idx) => {
+          el.style.display = prevDisplay[idx] || "";
+        });
+
+        // Redimensionar a altura deseada (mantener proporción)
+        const scale = targetHeight / canvas.height;
+        const w = Math.round(canvas.width * scale);
+        const h = Math.round(canvas.height * scale);
+        const out = document.createElement("canvas");
+        out.width = w; out.height = h;
+        const ctx = out.getContext("2d");
+        ctx.imageSmoothingEnabled = true;
+        ctx.imageSmoothingQuality = "high";
+        ctx.drawImage(canvas, 0, 0, w, h);
+        return out.toDataURL("image/png");
+      }
+
+      async function downloadGroupZip(group, zipName) {
+        if (!group.length) return;
+        const zip = new JSZip();
+        for (let i = 0; i < group.length; i++) {
+          const { id, type } = group[i];
+          const el = document.getElementById(id);
+          if (!el) continue;
+          const dataUrl = await nodeToPng(el);
+          // Nombre: train_01_AA.png / test_07_AB.png etc.
+          const index = String(i + 1).padStart(2, "0");
+          const filename = `${zipName}_${index}_${type}.png`;
+          const base64 = dataUrl.split(",")[1];
+          zip.file(filename, base64, { base64: true });
+        }
+        const content = await zip.generateAsync({ type: "blob" });
+        saveAs(content, `${zipName}.zip`);
+      }
+
+      async function downloadSamplesZip() {
+        // Nombres fijos
+        const zip = new JSZip();
+        for (const s of samples) {
+          const el = document.getElementById(s.id);
+          if (!el) continue;
+          const dataUrl = await nodeToPng(el);
+          const filename = s.type === "AA" ? "sample_AA.png" : "sample_AB.png";
+          const base64 = dataUrl.split(",")[1];
+          zip.file(filename, base64, { base64: true });
+        }
+        const content = await zip.generateAsync({ type: "blob" });
+        saveAs(content, "muestras.zip");
+      }
+
+      function resetAll() {
+        images.forEach(url => URL.revokeObjectURL(url));
+        setImages([]);
+        setSamples([]);
+        setTraining([]);
+        setTests([]);
+        setReady(false);
+        const finput = document.getElementById("file-input");
+        if (finput) finput.value = "";
+      }
+
+      const uniqueNeeded = MIN_UNIQUE;
+
+      return (
+        <div className="max-w-6xl mx-auto p-6 space-y-6">
+          <header className="flex items-center justify-between">
+            <h1 className="text-xl font-bold">Generador de tarjetas AA / AB</h1>
+            <span className="text-sm text-gray-500">Muestras (2), Entrenamiento (10), Test (10) — sin repetir símbolos</span>
+          </header>
+
+          {/* Upload */}
+          <section className="bg-white rounded-xl shadow p-4">
+            <div className="flex flex-col md:flex-row md:items-center gap-3">
+              <input id="file-input" type="file" multiple accept="image/*"
+                     onChange={handleUpload}
+                     className="block w-full md:w-auto text-sm text-gray-900 border border-gray-300 rounded-lg cursor-pointer bg-gray-50 focus:outline-none" />
+              <button onClick={buildAll}
+                      className="px-4 py-2 bg-indigo-600 text-white rounded-lg disabled:opacity-50"
+                      disabled={images.length < uniqueNeeded}>
+                Generar conjuntos
+              </button>
+              <button onClick={resetAll}
+                      className="px-4 py-2 bg-gray-200 rounded-lg">
+                Reiniciar
+              </button>
+            </div>
+            <p className="text-sm text-gray-600 mt-2">
+              Subiste <b>{images.length}</b> imágenes. Requeridas: <b>{uniqueNeeded}</b> únicas.
+            </p>
+            {images.length < uniqueNeeded && (
+              <p className="text-sm text-amber-700 mt-1">
+                Te faltan {uniqueNeeded - images.length} imágenes para poder generar todo sin repeticiones.
+              </p>
+            )}
+          </section>
+
+          {/* Acciones de descarga */}
+          <section className="bg-white rounded-xl shadow p-4">
+            <div className="flex flex-wrap gap-3">
+              <button onClick={downloadSamplesZip}
+                      className="px-4 py-2 bg-sky-600 text-white rounded-lg disabled:opacity-50"
+                      disabled={!ready}>
+                Descargar todas las <b>muestras</b> (.zip)
+              </button>
+              <button onClick={() => downloadGroupZip(training, "train")}
+                      className="px-4 py-2 bg-emerald-600 text-white rounded-lg disabled:opacity-50"
+                      disabled={!ready}>
+                Descargar todas las <b>entrenamiento</b> (.zip)
+              </button>
+              <button onClick={() => downloadGroupZip(tests, "test")}
+                      className="px-4 py-2 bg-fuchsia-600 text-white rounded-lg disabled:opacity-50"
+                      disabled={!ready}>
+                Descargar todas las <b>test</b> (.zip)
+              </button>
+            </div>
+            {!ready && (
+              <p className="text-sm text-gray-500 mt-2">Primero genera los conjuntos para habilitar las descargas.</p>
+            )}
+          </section>
+
+          {/* Sección de MUESTRAS */}
+          <section className="bg-white rounded-xl shadow p-4">
+            <h2 className="font-semibold mb-3">Muestras (2)</h2>
+            {samples.length ? (
+              <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-6 gap-4">
+                {samples.map((c) => (
+                  <Card key={c.id} id={c.id} pair={c.pair} label={c.label} />
+                ))}
+              </div>
+            ) : (
+              <p className="text-sm text-gray-500">Aún no generadas.</p>
+            )}
+          </section>
+
+          {/* Sección de ENTRENAMIENTO */}
+          <section className="bg-white rounded-xl shadow p-4">
+            <h2 className="font-semibold mb-3">Entrenamiento (10)</h2>
+            {training.length ? (
+              <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-5 gap-4">
+                {training.map((c) => (
+                  <Card key={c.id} id={c.id} pair={c.pair} label={c.label} />
+                ))}
+              </div>
+            ) : (
+              <p className="text-sm text-gray-500">Aún no generadas.</p>
+            )}
+          </section>
+
+          {/* Sección de TEST */}
+          <section className="bg-white rounded-xl shadow p-4">
+            <h2 className="font-semibold mb-3">Test (10)</h2>
+            {tests.length ? (
+              <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-5 gap-4">
+                {tests.map((c) => (
+                  <Card key={c.id} id={c.id} pair={c.pair} label={c.label} />
+                ))}
+              </div>
+            ) : (
+              <p className="text-sm text-gray-500">Aún no generadas.</p>
+            )}
+          </section>
+
+          <footer className="text-xs text-gray-400 text-center pt-6 pb-10">
+            Generado en el navegador. Requiere conexión a internet para cargar librerías desde CDN.
+          </footer>
+        </div>
+      );
+    }
+
+    // Montaje con protección
+    try {
+      ReactDOM.createRoot(document.getElementById("root")).render(<App />);
+    } catch (e) {
+      const overlay = document.getElementById('error-overlay');
+      overlay.style.display = 'block';
+      overlay.textContent = 'Fallo al iniciar la app:\\n\\n' + (e && e.stack ? e.stack : e);
+      console.error(e);
+    }
+  </script>
+</body>
+</html>

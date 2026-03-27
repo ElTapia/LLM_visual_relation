@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <title>Generador de tarjetas v6.23</title>
+  <script src="https://unpkg.com/react@18/umd/react.development.js" crossorigin></script>
+  <script src="https://unpkg.com/react-dom@18/umd/react-dom.development.js" crossorigin></script>
+  <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script src="https://unpkg.com/html2canvas@1.4.1/dist/html2canvas.min.js"></script>
+</head>
+<body class="bg-gray-100">
+  <div id="root"></div>
+<script type="text/babel">
+/* ===== Helpers ===== */
+const randIdx = len => Math.floor(Math.random()*len);
+const pullRandom = arr => arr.splice(randIdx(arr.length),1)[0];
+const shuffle = a => {const arr=[...a]; for(let i=arr.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[arr[i],arr[j]]=[arr[j],arr[i]];} return arr;};
+const getH2C = async ()=> window.html2canvas || (await import('html2canvas')).default;
+
+const SymbolBox = ({src}) => (!src?null:<div className="w-full h-full flex items-center justify-center"><img src={src} className="object-contain" style={{maxWidth:'100%',maxHeight:'100%'}}/></div>);
+
+const Card2 = React.forwardRef(({pair,label},ref)=>(
+  pair.length===2&&pair.every(Boolean)?
+  <div ref={ref} className="relative w-36 h-56 border border-gray-300 overflow-hidden bg-white rounded" data-label={label}>
+    <div className="absolute bottom-4 left-4 w-1/3 h-1/3"><SymbolBox src={pair[0]}/></div>
+    <div className="absolute top-4 right-4 w-1/3 h-1/3"><SymbolBox src={pair[1]}/></div>
+  </div>:null
+));
+
+const Card16 = ({grid,label})=>(
+  grid.length===16&&grid.every(Boolean)?
+  <div className="w-fit p-3 flex flex-col items-center space-y-2 shadow bg-white rounded-lg">
+    <span className="text-sm font-semibold">{label}</span>
+    <div className="card-download grid grid-cols-4 gap-1 w-56 h-56 border border-gray-300" data-label={label}>
+      {grid.map((u,i)=><div key={i} className="w-full h-full bg-white"><SymbolBox src={u}/></div>)}
+    </div>
+  </div>:null
+);
+
+/* ===== Main App ===== */
+function App(){
+  const [mode,setMode]=React.useState('2');
+  const [images,setImages]=React.useState([]);
+
+  /* --- Mode 2 states --- */
+  const [pairs,setPairs]=React.useState({aa:[],ab:[],test:[]});
+  const rAA=React.useRef(null),rAB=React.useRef(null),rT2=React.useRef(null);
+
+  /* --- Mode 16 states --- */
+  const [samples,setSamples]=React.useState({same:[],diff:[]});
+  const emptyTests={allSame:[],twelveSame:[],eightSame:[],fourSame:[],allDiff:[]};
+  const [tests,setTests]=React.useState(emptyTests);
+  const [training,setTraining]=React.useState({same:[],diff:[]});
+
+  /* utilities */
+  const consume=(pool,n)=>Array.from({length:n},()=>pullRandom(pool).url);
+
+  /* Upload */
+  const onUpload=e=>{
+    const files=[...e.target.files].filter(f=>f.type==='image/png');
+    const urls=files.map(f=>({url:URL.createObjectURL(f),name:f.name}));
+    setImages(prev=>[...prev,...urls]);
+    e.target.value='';
+  };
+
+  const resetAll=()=>{
+    setImages([]);
+    setPairs({aa:[],ab:[],test:[]});
+    setSamples({same:[],diff:[]});
+    setTests(emptyTests);
+    setTraining({same:[],diff:[]});
+  };
+
+  /* ===== Mode 2 logic ===== */
+  const genSamples2=()=>{
+    if(images.length<3){alert('Min 3 símbolos');return;}
+    const pool=[...images];
+    const s1=pullRandom(pool).url;
+    const s2=pullRandom(pool).url;
+    setPairs({aa:[s1,s1],ab:[s1,s2],test:[]});
+  };
+  const genTest2=()=>{
+    if(!(pairs.aa.length&&pairs.ab.length)){alert('Genera muestras 2');return;}
+    const used=new Set([...pairs.aa,...pairs.ab]);
+    const pool=images.filter(i=>!used.has(i.url));
+    if(pool.length<2){alert('No quedan símbolos');return;}
+    const isAA=Math.random()<0.5;
+    const s=pullRandom(pool).url;
+    setPairs(prev=>({...prev,test:isAA?[s,s]:[s,pullRandom(pool).url]}));
+  };
+
+  /* ===== Mode 16 logic ===== */
+  const genSamples16=()=>{
+    if(images.length<17){alert('Min 17 símbolos');return;}
+    const pool=[...images];
+    const sym=pullRandom(pool).url;
+    setSamples({same:Array(16).fill(sym),diff:consume(pool,16)});
+    setTests(emptyTests);setTraining({same:[],diff:[]});
+  };
+
+  const genAll16=()=>{
+    if(!(samples.same.length&&samples.diff.length)){alert('Genera muestras 16');return;}
+    const used=new Set([...samples.same,...samples.diff]);
+    let pool=images.filter(i=>!used.has(i.url));
+
+    const safePull=n=>{if(pool.length<n)throw new Error('Insuficientes símbolos');return consume(pool,n);};
+
+    const makeCard=nSame=>{
+      const sym=pullRandom(pool).url; used.add(sym);
+      const rest=safePull(16-nSame); rest.forEach(u=>used.add(u));
+      return shuffle([...Array(nSame).fill(sym),...rest]);
+    };
+    const makeAllDiff=()=>shuffle(safePull(16));
+
+    try{
+      setTests({
+        allSame:[makeCard(16),makeCard(16)],
+        twelveSame:[makeCard(12),makeCard(12)],
+        eightSame:[makeCard(8),makeCard(8)],
+        fourSame:[makeCard(4),makeCard(4)],
+        allDiff:[makeAllDiff(),makeAllDiff()]
+      });
+      setTraining({
+        same:Array.from({length:5},()=>makeCard(16)),
+        diff:Array.from({length:5},()=>makeAllDiff())
+      });
+    }catch(e){alert(e.message);}
+  };
+
+  /* Download */
+  const saveElPNG=async(el,label)=>{
+    const h2c=await getH2C();
+    h2c(el).then(c=>{
+      const link=document.createElement('a');
+      link.download=`${label.replace(/\s+/g,'_').toLowerCase()}.png`;
+      link.href=c.toDataURL();
+      link.click();
+    });
+  };
+  const downloadVisible=()=>{
+    document.querySelectorAll('[data-label]').forEach(el=>{
+      const label=el.getAttribute('data-label')||'card';
+      saveElPNG(el,label);
+    });
+  };
+
+  /* ===== Render ===== */
+  return(
+    <div className="container mx-auto p-6 space-y-6">
+      <h1 className="text-2xl font-bold text-center">Generador de tarjetas v6.23</h1>
+
+      {/* Mode switch */}
+      <div className="flex flex-wrap gap-3 justify-center">
+        <button className={mode==='2'?'bg-blue-600 text-white px-4 py-2 rounded':'border px-4 py-2 rounded'} onClick={()=>{setMode('2');resetAll();}}>Modo 2</button>
+        <button className={mode==='16'?'bg-blue-600 text-white px-4 py-2 rounded':'border px-4 py-2 rounded'} onClick={()=>{setMode('16');resetAll();}}>Modo 16</button>
+      </div>
+
+      {/* Upload */}
+      <div className="flex flex-col items-center gap-2">
+        <label htmlFor="up" className="cursor-pointer text-blue-600 hover:underline">📁 Subir símbolos PNG</label>
+        <input id="up" type="file" multiple accept="image/png" className="hidden" onChange={onUpload}/>
+        {images.length>0&&<span className="text-xs text-gray-600">{images.length} símbolos cargados</span>}
+      </div>
+
+      {/* Actions */}
+      {mode==='2'?(
+        <div className="flex flex-wrap gap-3 justify-center">
+          <button className="bg-green-600 text-white px-4 py-2 rounded" disabled={images.length<3} onClick={genSamples2}>Generar muestras</button>
+          <button className="bg-indigo-600 text-white px-4 py-2 rounded" disabled={images.length<5||!(pairs.aa.length&&pairs.ab.length)} onClick={genTest2}>Generar test</button>
+          <button className="border px-4 py-2 rounded" disabled={!(pairs.aa.length||pairs.ab.length||pairs.test.length)} onClick={downloadVisible}>Descargar visibles</button>
+        </div>
+      ):(
+        <div className="flex flex-wrap gap-3 justify-center">
+          <button className="bg-green-600 text-white px-4 py-2 rounded" disabled={images.length<17} onClick={genSamples16}>Generar muestras</button>
+          <button className="bg-indigo-600 text-white px-4 py-2 rounded" disabled={images.length<161||!samples.same.length} onClick={genAll16}>Generar tests & training</button>
+          <button className="border px-4 py-2 rounded" disabled={!(samples.same.length||Object.values(tests).some(a=>a.length)||training.same.length)} onClick={downloadVisible}>Descargar visibles</button>
+        </div>
+      )}
+
+      {/* Mode 2 cards */}
+      {mode==='2'&&(
+        <div className="flex flex-wrap gap-6 justify-center">
+          {pairs.aa.length>0&&<Card2 ref={rAA} pair={pairs.aa} label="AA"/>}
+          {pairs.ab.length>0&&<Card2 ref={rAB} pair={pairs.ab} label="AB"/>}
+          {pairs.test.length>0&&<Card2 ref={rT2} pair={pairs.test} label="Test"/>}
+        </div>
+      )}
+
+      {/* Mode 16 visuals */}
+      {mode==='16'&&(
+        <>
+        {(samples.same.length||samples.diff.length)&&<div className="flex flex-wrap gap-6 justify-center">
+          {samples.same.length>0&&<Card16 grid={samples.same} label="Sample - all same"/>}
+          {samples.diff.length>0&&<Card16 grid={samples.diff} label="Sample - all diff"/>}
+        </div>}
+        {Object.values(tests).some(arr=>arr.length)&&(
+          <div className="space-y-4">
+            {Object.entries(tests).map(([key,cards])=>cards.length>0&&(
+              <div key={key} className="flex flex-wrap gap-6 justify-center">
+                {cards.map((g,i)=><Card16 key={`${key}${i}`} grid={g} label={`Test - ${key} ${i+1}`}/>)}
+              </div>
+            ))}
+          </div>
+        )}
+        {(training.same.length||training.diff.length)&&(
+          <div className="space-y-4">
+            <h2 className="text-lg font-semibold text-center">Training</h2>
+            <div className="flex flex-wrap gap-6 justify-center">
+              {training.same.map((g,i)=><Card16 key={`ts${i}`} grid={g} label={`Train - all same ${i+1}`}/>)}
+            </div>
+            <div className="flex flex-wrap gap-6 justify-center">
+              {training.diff.map((g,i)=><Card16 key={`td${i}`} grid={g} label={`Train - all diff ${i+1}`}/>)}
+            </div>
+          </div>
+        )}
+        </>
+      )}
+    </div>
+  );
+}
+
+ReactDOM.createRoot(document.getElementById('root')).render(<App/>);
+</script>
+</body>
+</html>
